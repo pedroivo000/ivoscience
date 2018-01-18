@@ -1,0 +1,85 @@
+---
+title: "Team fights during Overwatch League week 1"
+subtitle: "How team composition, engagement order and fight timings can determine the outcome of a match"
+author: Pedro Ivo Guimarães
+date: '2018-01-17'
+draft: true
+slug: owl-s1w1-match-breakdown
+categories:
+  - R
+  - statistics
+  - esports
+  - data analysis
+tags:
+  - overwatch
+  - match data
+  - team fights
+  - R Markdown
+  - overwatch league
+---
+
+
+
+<div id="league-matches-team-fight-dataset" class="section level1">
+<h1>League matches team fight dataset</h1>
+<p><a href="https://www.winstonslab.com/">Winston’s lab</a> is an awesome website that analyses Overwactch pro matches and generates <em>a ton</em> of stats for pretty much everything you can think of related to Overwatch: hero pick-rates, team comps, match score, player performance stats and much much more. <a href="https://www.winstonslab.com/fantasy/">They even have a fantasy league!</a> If you haven’t checked them out yet, you really should.</p>
+<p>We can use Winston’s Lab <a href="https://www.winstonslab.com/customquery/completeFightInfo/">“Complete Fight Info”</a> form to retrieve the recorded stats of every team fight from all matches played during the first week of the Overwatch League inaugural season. As there is no obvious way to download datasets from Winston’s lab (I couldn’t find one), I just copied and pasted <a href="https://www.winstonslab.com/customquery/completeFightInfo/?onlyLANs=on&amp;dateGreater=&amp;dateSmaller=&amp;event%5B%5D=86&amp;specificMatchupTeam1=0&amp;specificMatchupTeam2=0&amp;team%5B%5D=&amp;map%5B%5D=&amp;roundtype%5B%5D=&amp;fightlength=0&amp;killsmade=1&amp;ultsused=0&amp;heroes=&amp;heroesUlted=">the query results</a> into a text file and after some formatting, we know have a R-friendly table ready to be imported using the <code>readr</code> package from <code>tidyverse</code>.</p>
+<pre class="r"><code>#file path
+matchdata_filepath &lt;- &quot;~/ivoscience/data/owl-s1w1-match-data/owl-s1w1-teamfight-data.csv&quot;
+
+#Importing the .csv file with the team fight data
+match_data &lt;- read_csv(matchdata_filepath) %&gt;%
+  rename_all(funs(tolower(gsub(&#39; &#39;,&#39;_&#39;, .)))) #change whitespaces to underscore and lower case column names</code></pre>
+<pre><code>## # A tibble: 715 x 16
+##       map roundtype blue_team red_team     time   len    kb    kr    ub
+##     &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;    &lt;chr&gt;   &lt;time&gt; &lt;int&gt; &lt;int&gt; &lt;int&gt; &lt;int&gt;
+##  1 Dorado    Attack       SFS      VAL 07:54:00     4     1     1     2
+##  2 Dorado    Attack       SFS      VAL 06:49:00    38     1     6     2
+##  3 Dorado    Attack       SFS      VAL 06:05:00    26     7     1     4
+##  4 Dorado    Attack       SFS      VAL 04:54:00    19     2     4     0
+##  5 Dorado    Attack       SFS      VAL 05:23:00     6     0     1     1
+##  6 Dorado    Attack       SFS      VAL 04:05:00    18     6     0     1
+##  7 Dorado    Attack       SFS      VAL 03:24:00    17     4     2     3
+##  8 Dorado    Attack       SFS      VAL 02:14:00    28     7     2     3
+##  9 Dorado    Attack       SFS      VAL 01:51:00     7     0     1     1
+## 10 Dorado    Attack       SFS      VAL 01:05:00    24     1     6     2
+## # ... with 705 more rows, and 7 more variables: ur &lt;int&gt;, fb &lt;chr&gt;,
+## #   death_sequence &lt;chr&gt;, ults_blue &lt;chr&gt;, ults_red &lt;chr&gt;,
+## #   teamcomp_blue &lt;chr&gt;, teamcomp_red &lt;chr&gt;</code></pre>
+<p>Each row in <code>match_data</code> corresponds to a unique team fight with the following recorded stats:</p>
+<ul>
+<li><code>time</code>: match timestamp of when team fight started;</li>
+<li><code>len</code>: team fight duration;</li>
+<li><code>kb</code> and <code>kr</code>: kills by the blue and red team, respectivelly;</li>
+<li><code>ub</code> and <code>ur</code>: blue/red team ultimates used during fight;</li>
+<li><code>fb</code>: team that drew frist blood (first kill) on a team fight;</li>
+<li><code>death_sequence</code>: string with character elimination order, from first to last;</li>
+<li><code>ults_blue</code> and <code>ults_red</code>: hero ultimates used by team during team fight;</li>
+<li><code>teamcomp</code>: composition of each team at the start of team fight;</li>
+</ul>
+<p>We still have to do some cleanup before we can utilize this dataset. First of all, if we look at the <code>death_sequence</code> column, we can see that the hero names are concatenated in a string with no spaces or special characters between words, <em>except</em> <code>Soldier: 76</code> and <code>D.Va</code>. We need to make these hero names consitent with the other ones and split the <code>death_sequence</code> strings on the character names.</p>
+<pre class="r"><code>clean_data &lt;- match_data %&gt;%
+  mutate_all(funs(gsub(&#39;Soldier: 76&#39;, &#39;Soldier76&#39;, .))) %&gt;% 
+  mutate_all(funs(gsub(&#39;D.Va&#39;, &#39;Dva&#39;, .))) %&gt;%
+  #A little hack to split the character name string: add a comma between each name
+  mutate_at(vars(death_sequence:teamcomp_red), funs(gsub(&quot;([[:upper:]])&quot;, &quot;,\\1&quot;, .))) %&gt;%
+  mutate_at(vars(death_sequence:teamcomp_red), funs(substr(., 2, nchar(.)))) %&gt;% #removing first comma
+  separate_rows(death_sequence, sep = &quot;,&quot;)</code></pre>
+<p>Now that we have the tidy <code>clean_data</code> table, we can start analysing the team fight data for the first week ever of the Overwatch League.</p>
+</div>
+<div id="general-team-fight-statistics-for-owl-week-1" class="section level1">
+<h1>General team fight statistics for OWL Week 1</h1>
+<p>During the first week of matches, teams engaged on a total of <strong>715 team fights</strong>, with an average of 59.6 <span class="math inline">\(\pm\)</span> 11 fights per match. Unsurprisingly, the longest and most contested matches were the ones with the biggest number of team fights, with <a href="https://overwatchleague.com/en-us/videos?v=ED0EVk4mBbJ">Dallas Fuel vs LA Valiant</a> in the lead with a total of 78 engagements, followed very closely by <a href="https://overwatchleague.com/en-us/videos?v=OUz-fWqAyns">Dallas vs Seoul Dinasty</a>, with 71 fights (why do you do this kind of things to me, Dallas? My heart cannot handle this). On the other side, at the bottom of the team fight per match counts are <a href="https://overwatchleague.com/en-us/videos?v=G_3dlOI_f8l">Shangai Dragons vs LA Gladiators</a> (38) and <a href="https://overwatchleague.com/en-us/videos?v=qJiFC_s4i0l">Boston Uprising vs NY Excelsior</a> (47).</p>
+<pre class="r"><code>fights_per_match %&gt;%
+  unite(match, blue_team, red_team, sep = &#39; vs &#39;) %&gt;%
+  mutate(id = &#39;dummy&#39;) %&gt;%
+  # ggplot(., aes(x=id, y=n, label = match)) +
+  #   geom_boxplot()+
+  #   geom_dotplot(binaxis = &#39;y&#39;, 
+  #                stackdir = &#39;centerwhole&#39;,
+  #                dotsize = 1)+
+  # coord_flip()
+  ggplot(., aes(x=n, y=id, color = match))+
+    geom_point(position = position_dodge(width = 1), size = 5)</code></pre>
+<p><img src="/rmarkdown-libs/figure-html4/fight-per-match-plot-1.png" width="672" /></p>
+</div>

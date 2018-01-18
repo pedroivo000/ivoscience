@@ -1,0 +1,716 @@
+Map,Roundtype,Blue Team,Red Team,time,len,KB,KR,UB,UR,FB,Death Sequence,Ults Blue,Ults Red,Teamcomp Blue,Teamcomp Red
+Dorado,Attack, SFS, VAL,7:54,4,1,1,2,2,B,GenjiMccree,MccreeMercy,TracerMercy,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Attack, SFS, VAL,6:49,38,1,6,2,4,R,ZenyattaTracerWinstonWinstonMercyMccreeD.Va,TracerZenyatta,WinstonZenyattaTracerGenji,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Attack, SFS, VAL,6:05,26,7,1,4,1,R,ZenyattaTracerWinstonD.VaMercyWinstonTracerZenyatta,MercyTracerMccreeWinston,Genji,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Attack, SFS, VAL,4:54,19,2,4,0,0,R,MccreeTracerGenjiWinstonD.VaZenyatta,,,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Attack, SFS, VAL,5:23,6,0,1,1,1,R,Mccree,Tracer,Tracer,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Attack, SFS, VAL,4:05,18,6,0,1,0,B,D.VaZenyattaGenjiWidowmakerWinstonMercy,Tracer,,MccreeTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Dorado,Attack, SFS, VAL,3:24,17,4,2,3,1,R,ZenyattaWinstonMercyD.VaGenjiMccree,MercyMccreeWinston,Genji,MccreeTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Dorado,Attack, SFS, VAL,2:14,28,7,2,3,3,B,GenjiGenjiTracerD.VaZenyattaMercyZenyattaGenjiWinston,ZenyattaGenjiMccree,TracerZenyattaWinston,GenjiMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Attack, SFS, VAL,1:51,7,0,1,1,0,R,Winston,Mercy,,GenjiMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Attack, SFS, VAL,1:05,24,1,6,2,3,B,WinstonZenyattaWinstonMccreeD.VaGenjiMccree,MccreeMercy,MercyTracerGenji,GenjiMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Attack, SFS, VAL,0:29,14,5,0,0,0,B,MercyZenyattaGenjiD.VaTracer,,,GenjiMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, SFS, VAL,5:10,11,0,6,0,1,R,JunkratMccreeWinstonMercyZenyattaD.Va,,Tracer,JunkratMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, SFS, VAL,5:47,4,0,3,2,1,R,ZenyattaWinstonMccree,WinstonMccree,Zenyatta,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, SFS, VAL,4:07,37,7,2,4,4,B,TracerZenyattaZenyattaWinstonJunkratMercyZenyattaWinstonD.Va,JunkratWinstonZenyattaMercy,MercyZenyattaGenjiWinston,JunkratMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, SFS, VAL,3:18,30,1,7,2,2,B,D.VaMccreeZenyattaMccreeJunkratMercyWinstonD.Va,MccreeZenyatta,ZenyattaTracer,JunkratMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, SFS, VAL,3:02,2,1,0,0,0,B,Genji,,,JunkratMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, SFS, VAL,2:07,23,4,0,2,2,B,ZenyattaGenjiMercyWinston,MccreeWinston,ZenyattaTracer,JunkratMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, SFS, VAL,1:44,15,2,1,2,1,B,GenjiMccreeTracer,JunkratZenyatta,Winston,JunkratMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, SFS, VAL,0:58,23,2,8,2,3,B,WinstonWinstonZenyattaJunkratZenyattaMccreeJunkratD.VaWinstonMercy,MccreeMercy,MercyGenjiTracer,JunkratMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, SFS, VAL,0:15,5,2,0,0,0,B,GenjiWinston,,,JunkratMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SFS, VAL,2:22,88,16,6,9,6,B,MercyGenjiGenjiTracerGenjiZenyattaZenyattaMercyGenjiWinstonZenyattaMercyD.VaWinstonMercyTracerZenyattaGenjiD.VaLucioGenjiTracer,ZenyattaGenjiWinstonMercyTracerGenjiTracerZenyattaWinston,ZenyattaMercyTracerWinstonGenjiTracer,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SFS, VAL,1:20,18,6,2,1,1,B,OrisaZenyattaWidowmakerGenjiJunkratZenyattaMercyD.Va,Mercy,Junkrat,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, SFS, VAL,0:41,19,4,5,0,1,B,MercyWinstonTracerWidowmakerZenyattaD.VaJunkratMercyZenyatta,,Widowmaker,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis,Defense, SFS, VAL,3:35,36,2,7,4,4,R,ZenyattaGenjiTracerMercyWinstonGenjiD.VaTracerMercy,MercyGenjiZenyattaTracer,ZenyattaMercyWinstonGenji,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, SFS, VAL,2:43,27,4,0,2,0,B,JunkratZenyattaWidowmakerWinston,GenjiWinston,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, SFS, VAL,1:30,54,4,7,4,5,R,WinstonWinstonZenyattaZenyattaZenyattaMercyJunkratWinstonGenjiD.VaTracer,TracerGenjiZenyattaTracer,JunkratZenyattaMercyWinstonWidowmaker,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, SFS, VAL,0:57,12,3,3,2,1,R,TracerGenjiWinstonWinstonZenyattaD.Va,MercyGenji,Widowmaker,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, SFS, VAL,0:25,3,2,1,0,0,B,WinstonGenjiMercy,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, SFS, VAL,2:30,67,0,16,3,6,R,ZenyattaGenjiZenyattaTracerWinstonGenjiD.VaMercyMoiraWinstonTracerD.VaLucioWinstonMoiraJunkrat,WinstonTracerGenji,WinstonZenyattaMercyGenjiTracerWinston,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, SFS, VAL,1:39,12,6,3,0,1,R,MercyWidowmakerMercyZenyattaZenyattaD.VaWinstonTracerWinston,,Tracer,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, SFS, VAL,0:32,29,1,6,0,1,B,D.VaTracerMercyWinstonWidowmakerZenyattaD.Va,,Winston,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SFS, VAL,5:03,32,4,5,3,3,B,WinstonZenyattaD.VaMercyTracerTracerZenyattaD.VaGenji,TracerGenjiWinston,TracerMercyGenji,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SFS, VAL,3:57,30,6,4,1,1,R,TracerZenyattaMercyJunkratWidowmakerZenyattaWinstonOrisaZenyattaD.Va,Genji,Zenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, SFS, VAL,3:15,16,1,3,1,2,R,ZenyattaZenyattaMercyWinston,Zenyatta,JunkratMercy,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, SFS, VAL,2:55,0,0,1,0,0,R,Genji,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, SFS, VAL,2:18,19,3,3,3,2,R,ZenyattaZenyattaGenjiMercyWidowmakerWinston,MercyTracerWinston,JunkratOrisa,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, SFS, VAL,1:15,29,0,4,1,0,R,TracerWinstonMercyZenyatta,Winston,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, SFS, VAL,0:15,26,2,5,0,0,R,GenjiGenjiWidowmakerZenyattaWinstonTracerZenyatta,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Ilios,Lighthouse, SFS, VAL,4:05,6,0,1,1,0,R,Lucio,Winston,,PharahTracerLucioMercyD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, SFS, VAL,4:29,29,7,0,4,3,B,ZenyattaWinstonTracerD.VaWinstonWinstonMercy,LucioWinstonPharahMercy,TracerPharahWinston,PharahTracerLucioMercyD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, SFS, VAL,3:39,8,0,2,1,0,R,WinstonMercy,Pharah,,PharahTracerLucioMercyD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, SFS, VAL,1:48,82,9,11,4,6,B,TracerD.VaPharahZenyattaZenyattaLucioPharahMercyMercyWinstonWinstonD.VaLucioMercyZenyattaTracerMercyWinstonPharahPharah,PharahMercyWinstonTracer,ZenyattaMercyTracerWinstonTracerPharah,PharahTracerLucioMercyD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, SFS, VAL,0:19,4,2,0,0,0,B,WinstonMercy,,,PharahTracerLucioMercyD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, SFS, VAL,1:13,10,3,0,0,0,B,TracerMccreeWinston,,,PharahTracerLucioMercyD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, SFS, VAL,2:29,20,2,5,2,1,R,ZenyattaMercyWinstonWidowmakerD.VaZenyattaWidowmaker,MercyTracer,Mercy,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, SFS, VAL,1:08,63,3,7,6,5,R,WinstonTracerD.VaZenyattaWidowmakerWinstonTracerD.VaZenyattaWidowmaker,ZenyattaWidowmakerMercyTracerWinstonZenyatta,WidowmakerMercyWinstonTracerWidowmaker,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, SFS, VAL,0:17,25,1,4,0,0,R,TracerWidowmakerZenyattaWidowmakerWidowmaker,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Well, SFS, VAL,3:27,42,2,12,2,5,R,ZenyattaMccreeZenyattaMccreeWinstonMccreeGenjiMercyD.VaTracerZenyattaTracerSoldier: 76Winston,MercyTracer,TracerWinstonZenyattaMercyGenji,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Ilios,Well, SFS, VAL,2:33,25,1,4,3,1,R,ZenyattaMercyTracerTracerMccree,MccreeZenyattaWinston,Genji,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Ilios,Well, SFS, VAL,1:35,27,0,7,2,3,R,ZenyattaMercyWinstonD.VaTracerZenyattaMccree,MccreeTracer,MccreeTracerWinston,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Ilios,Well, SFS, VAL,1:07,22,4,1,2,0,B,MccreeWinstonWinstonMccreeD.Va,TracerMercy,,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Well, SFS, VAL,0:21,20,6,1,0,0,B,ZenyattaMercyMccreeWinstonWinstonD.VaTracer,,,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Numbani,Attack, SFS, VAL,3:59,31,7,3,2,2,B,TracerZenyattaD.VaWinstonTracerZenyattaTracerWinstonZenyattaSoldier: 76,MercyZenyatta,MercyTracer,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, SFS, VAL,3:07,22,1,3,0,1,R,Soldier: 76Soldier: 76MercyTracer,,Tracer,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, SFS, VAL,2:10,23,1,6,4,4,B,WinstonMercyZenyattaWinstonD.VaTracerGenji,ZenyattaWinstonGenjiTracer,TracerMercyZenyattaTracer,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, SFS, VAL,1:11,29,2,4,3,2,B,WinstonD.VaMercyWinstonTracerD.Va,TracerWinstonMercy,TracerSoldier: 76,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, SFS, VAL,0:25,19,2,5,0,0,R,ZenyattaWinstonMercyTracerGenjiD.VaTracer,,,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, SFS, VAL,5:23,27,1,6,1,2,R,TracerMccreeMercyWinstonZenyattaSoldier: 76D.Va,Zenyatta,WinstonTracer,MccreeTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, SFS, VAL,6:11,56,1,11,4,4,R,MccreeWinstonWinstonTracerZenyattaMccreeWinstonMercyTracerD.VaZenyattaWinston,TracerMccreeMercyWinston,MercySoldier: 76TracerWinston,MccreeTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, VAL,0:19,18,3,1,0,0,B,ZenyattaSoldier: 76MercyZenyatta,,,Soldier: 76TracerAnaMercyD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, VAL,1:01,50,1,10,3,3,R,Soldier: 76ZenyattaSoldier: 76D.VaMercyAnaWinstonD.VaTracerMercyWidowmaker,MercyTracerAna,Soldier: 76WinstonZenyatta,Soldier: 76TracerAnaMercyD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, VAL,2:27,14,2,2,2,3,B,WinstonTracerD.VaWidowmaker,TracerWinston,MercyTracerWinston,WidowmakerTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, VAL,3:04,5,1,0,0,0,B,Mercy,,,WidowmakerTracerMercyZenyattaD.VaWinston,BastionSoldier: 76TracerMercyZenyattaWinston
+Numbani,Defense, SFS, VAL,3:18,6,0,1,0,0,R,Tracer,,,WidowmakerTracerMercyZenyattaD.VaWinston,BastionSoldier: 76TracerMercyZenyattaWinston
+Numbani,Defense, SFS, VAL,3:39,0,0,1,0,0,R,D.Va,,,WidowmakerTracerMercyZenyattaD.VaWinston,BastionSoldier: 76TracerMercyZenyattaWinston
+Dorado,Attack, SHD, GLA,1:02,33,3,5,4,2,B,DoomfistWinstonMercyWinstonWinstonDoomfistD.VaTracer,TracerMercyWidowmakerTracer,WidowmakerMercy,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerDoomfistMercyZenyattaD.VaWinston
+Dorado,Attack, SHD, GLA,2:06,12,0,3,1,2,R,WidowmakerD.VaWinston,Zenyatta,WidowmakerDoomfist,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerDoomfistMercyZenyattaD.VaWinston
+Dorado,Attack, SHD, GLA,2:54,23,0,3,0,0,R,TracerMccreeZenyatta,,,MccreeTracerMercyZenyattaD.VaWinston,WidowmakerDoomfistMercyZenyattaD.VaWinston
+Dorado,Attack, SHD, GLA,3:44,31,1,7,4,3,B,WidowmakerMccreeMercyWinstonZenyattaMccreeD.VaTracer,MccreeMercyZenyattaTracer,WidowmakerMercyDoomfist,MccreeTracerMercyZenyattaD.VaWinston,WidowmakerDoomfistMercyZenyattaD.VaWinston
+Dorado,Defense, SHD, GLA,0:19,23,1,6,0,1,R,ZenyattaTracerGenjiMercySoldier: 76WinstonD.Va,,Mercy,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SHD, GLA,0:19,6,0,2,0,0,R,ZenyattaTracer,,,WidowmakerTracerMercyZenyattaD.VaWinston,GenjiTracerAnaMercyD.VaWinston
+Temple of Anubis,Attack, SHD, GLA,1:00,40,6,5,2,3,B,D.VaWidowmakerMercyZenyattaMercyAnaTracerGenjiWinstonD.VaD.Va,WidowmakerWinston,MercyTracerAna,WidowmakerTracerMercyZenyattaD.VaWinston,GenjiTracerAnaMercyD.VaWinston
+Temple of Anubis,Attack, SHD, GLA,2:05,38,1,6,3,3,B,TracerWinstonReaperD.VaWinstonReaperZenyatta,ZenyattaMercyTracer,MercyGenjiWinston,ReaperTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SHD, GLA,3:14,13,1,3,0,1,R,WinstonZenyattaD.VaReaper,,Tracer,ReaperTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SHD, GLA,3:57,16,1,5,1,0,R,WinstonD.VaReaperMercyTracerZenyatta,Tracer,,ReaperTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SHD, GLA,4:43,24,1,5,0,1,R,MercyReaperTracerTracerD.VaWinston,,Junkrat,ReaperTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SHD, GLA,5:27,46,3,6,5,4,B,D.VaTracerZenyattaJunkratWinstonReaperZenyattaWinstonMercy,ZenyattaMercyWinstonTracerReaper,MercyWinstonTracerZenyatta,ReaperTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SHD, GLA,6:51,6,1,4,1,0,R,MercyZenyattaD.VaTracerReaper,Reaper,,ReaperTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SHD, GLA,7:27,0,0,1,1,0,R,Tracer,Winston,,ReaperTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SHD, GLA,7:49,14,2,1,1,1,B,JunkratReaperZenyatta,Mercy,Mercy,ReaperTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, SHD, GLA,8:08,25,4,5,0,0,B,MercyD.VaMercyZenyattaWinstonWinstonReaperD.VaZenyatta,,,ReaperTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, SHD, GLA,0:23,0,1,0,0,0,B,Zenyatta,,,JunkratWidowmakerMercyZenyattaD.VaOrisa,GenjiTracerLucioZenyattaD.VaWinston
+Temple of Anubis,Defense, SHD, GLA,0:45,15,0,6,0,2,R,MercyZenyattaD.VaWidowmakerJunkratOrisa,,TracerTracer,JunkratWidowmakerMercyZenyattaD.VaOrisa,GenjiTracerLucioZenyattaD.VaWinston
+Temple of Anubis,Defense, SHD, GLA,1:34,27,3,8,0,3,B,ZenyattaWinstonMccreeTracerMercyZenyattaD.VaD.VaWinstonWinstonDoomfist,,GenjiLucioTracer,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerLucioZenyattaD.VaWinston
+Ilios,Well, SHD, GLA,0:33,17,0,6,0,0,R,MoiraWinstonD.VaTracerPharahMercy,,,PharahTracerMercyMoiraD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, SHD, GLA,1:26,16,2,6,0,2,B,MercyWinstonZenyattaTracerMercyMccreePharahD.Va,,TracerPharah,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, SHD, GLA,2:09,10,0,4,1,0,R,ZenyattaTracerMercyD.Va,Tracer,,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, SHD, GLA,2:34,30,5,1,2,1,R,MccreeD.VaMercyPharahTracerLucio,MercyMccree,Tracer,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, SHD, GLA,3:32,34,7,4,3,4,B,WinstonTracerD.VaD.VaPharahMercyLucioPharahWinstonTracerMccree,TracerZenyattaMccree,MercyLucioPharahWinston,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, SHD, GLA,4:27,66,4,10,4,6,R,ZenyattaWinstonD.VaD.VaD.VaMccreeZenyattaTracerMercyMercyD.VaSoldier: 76PharahLucio,TracerMercyZenyattaWinston,TracerPharahLucioWinstonPharahTracer,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, SHD, GLA,5:40,24,0,6,0,0,R,MercyWinstonTracerD.VaSoldier: 76Lucio,,,Soldier: 76TracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Ruins, SHD, GLA,0:24,6,3,1,0,0,B,MercyD.VaZenyattaWidowmaker,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios,Ruins, SHD, GLA,1:14,30,4,7,2,1,R,D.VaWidowmakerMercyWinstonZenyattaZenyattaWinstonGenjiWidowmakerD.VaTracer,WinstonMercy,Mercy,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios,Ruins, SHD, GLA,2:08,17,1,3,1,2,R,WidowmakerMercyWinstonD.Va,Mercy,WidowmakerWinston,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios,Ruins, SHD, GLA,2:42,36,1,4,2,3,R,TracerGenjiZenyattaSoldier: 76D.Va,WinstonTracer,WidowmakerZenyattaWinston,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios,Ruins, SHD, GLA,3:40,19,0,6,2,4,R,WinstonD.VaTracerZenyattaSoldier: 76Mercy,WinstonZenyatta,MercyWinstonGenjiZenyatta,Soldier: 76TracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Eichenwalde,Attack, SHD, GLA,0:27,15,1,6,0,0,R,MoiraLucioPharahReinhardtD.VaRoadhogZarya,,,LucioMoiraD.VaReinhardtRoadhogZarya,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Attack, SHD, GLA,1:11,28,1,5,0,2,R,MccreeWinstonD.VaTracerZenyattaPharah,,MercyPharah,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Attack, SHD, GLA,1:57,21,1,5,1,3,B,WinstonMercyWinstonZenyattaMccreeTracer,Tracer,MercyTracerPharah,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Attack, SHD, GLA,2:49,42,2,7,3,4,B,TracerMccreeZenyattaTracerWinstonMccreeWinstonD.VaMercy,ZenyattaMccreeMercy,WinstonZenyattaPharahTracer,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Attack, SHD, GLA,3:55,46,6,5,4,4,B,WinstonMccreeTracerWinstonZenyattaPharahWinstonZenyattaMercyMccreeWinston,WinstonZenyattaTracerMccree,MercyTracerWinstonPharah,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Defense, SHD, GLA,0:20,37,7,2,0,1,R,PharahPharahWinstonWinstonPharahTracerD.VaZenyattaMercy,,Tracer,PharahSoldier: 76MercyZenyattaD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Defense, SHD, GLA,1:25,37,0,8,6,6,R,WinstonSoldier: 76ZenyattaD.VaWinstonSoldier: 76MercyTracer,MercyZenyattaWinstonTracerSoldier: 76Winston,ZenyattaPharahMercyWinstonTracerTracer,Soldier: 76TracerMercyZenyattaD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, DAL, SEO,0:06,0,1,0,0,0,B,Winston,,,BastionHanzoWidowmakerMercyOrisaRoadhog,AnaLucioD.VaRoadhogWinstonZarya
+Junkertown,Attack, DAL, SEO,0:39,74,9,10,5,2,R,BastionOrisaRoadhogWidowmakerWinstonBastionAnaRoadhogHanzoWidowmakerZaryaWinstonAnaWidowmakerHanzoRoadhogHanzoD.VaLucio,RoadhogHanzoWidowmakerRoadhogMercy,RoadhogLucio,BastionHanzoWidowmakerMercyOrisaRoadhog,AnaLucioD.VaRoadhogWinstonZarya
+Junkertown,Attack, DAL, SEO,2:10,9,5,0,0,0,B,AnaWinstonZaryaLucioD.Va,,,BastionHanzoReaperMercyOrisaRoadhog,JunkratAnaLucioD.VaWinstonZarya
+Junkertown,Attack, DAL, SEO,2:48,10,0,5,1,1,R,OrisaMercyReaperBastionHanzo,Hanzo,Ana,BastionHanzoReaperMercyOrisaRoadhog,JunkratAnaLucioD.VaWinstonZarya
+Junkertown,Attack, DAL, SEO,3:15,53,5,5,3,1,B,WinstonPharahOrisaRoadhogMercyReaperD.VaJunkratZaryaAna,OrisaMercyRoadhog,Junkrat,BastionPharahReaperMercyOrisaRoadhog,JunkratAnaLucioD.VaWinstonZarya
+Junkertown,Attack, DAL, SEO,4:34,20,6,4,2,2,B,WinstonPharahSoldier: 76ReaperD.VaReaperMercyJunkratLucioAna,MercyBastion,AnaLucio,BastionPharahReaperMercyD.VaRoadhog,JunkratSoldier: 76AnaLucioD.VaWinston
+Junkertown,Attack, DAL, SEO,5:28,22,3,0,1,0,B,WinstonD.VaZenyatta,Roadhog,,BastionJunkratReaperMercyD.VaRoadhog,WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Junkertown,Attack, DAL, SEO,6:16,38,10,5,5,1,R,ReaperJunkratWinstonBastionSoldier: 76D.VaMercyZenyattaWinstonBastionD.VaTracerSombraD.VaMercy,BastionReaperRoadhogReaperBastion,Soldier: 76,BastionJunkratReaperMercyD.VaRoadhog,WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Junkertown,Defense, DAL, SEO,0:25,11,1,6,0,0,R,JunkratWidowmakerOrisaReaperMercyZenyattaRoadhog,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,WidowmakerReaperAnaMercyD.VaReinhardt
+Junkertown,Defense, DAL, SEO,0:57,26,1,7,1,1,R,OrisaJunkratAnaWidowmakerRoadhogZenyattaJunkratMercy,Roadhog,Reaper,JunkratWidowmakerMercyZenyattaOrisaRoadhog,WidowmakerReaperAnaMercyD.VaReinhardt
+Junkertown,Defense, DAL, SEO,2:20,26,6,2,3,2,R,RoadhogWidowmakerWidowmakerWidowmakerReaperReinhardtD.VaAna,OrisaRoadhogZenyatta,MercyReinhardt,JunkratWidowmakerMercyZenyattaOrisaRoadhog,WidowmakerReaperAnaMercyD.VaReinhardt
+Junkertown,Defense, DAL, SEO,3:08,14,2,2,1,0,B,WinstonWidowmakerWidowmakerWidowmaker,Widowmaker,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,WidowmakerReaperAnaMercyD.VaWinston
+Junkertown,Defense, DAL, SEO,3:45,27,5,1,3,1,R,ZenyattaReaperWidowmakerMercyAnaWinston,RoadhogJunkratZenyatta,Widowmaker,JunkratWidowmakerMercyZenyattaOrisaRoadhog,WidowmakerReaperAnaMercyD.VaWinston
+Junkertown,Defense, DAL, SEO,4:45,39,2,7,2,2,R,JunkratRoadhogWidowmakerReaperZenyattaOrisaMercyRoadhogMercy,MercyZenyatta,ReaperWinston,JunkratWidowmakerMercyZenyattaOrisaRoadhog,WidowmakerReaperAnaMercyD.VaWinston
+Junkertown,Defense, DAL, SEO,5:52,36,3,6,1,3,R,D.VaReaperWinstonMercyReaperZenyattaJunkratRoadhogD.Va,Roadhog,WidowmakerAnaWidowmaker,JunkratWidowmakerMercyZenyattaD.VaRoadhog,WidowmakerReaperAnaMercyD.VaWinston
+Junkertown,Defense, DAL, SEO,6:47,29,1,6,2,2,R,WidowmakerD.VaZenyattaJunkratZenyattaMercyRoadhog,WidowmakerRoadhog,WinstonWidowmaker,JunkratWidowmakerMercyZenyattaD.VaRoadhog,WidowmakerReaperMercyZenyattaD.VaWinston
+Junkertown,Defense, DAL, SEO,7:37,32,8,2,4,1,B,ReaperMccreeZenyattaD.VaOrisaReaperWinstonMercyZenyattaWidowmaker,JunkratZenyattaMercyRoadhog,Mercy,JunkratMccreeMercyZenyattaOrisaRoadhog,WidowmakerReaperMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, DAL, SEO,0:29,18,6,1,0,0,B,ZenyattaTracerD.VaMercyMercyOrisaWidowmaker,,,WidowmakerLucioMercyD.VaOrisaRoadhog,WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, DAL, SEO,1:21,24,9,0,1,0,B,D.VaGenjiZenyattaMercyZenyattaWinstonTracerD.VaGenji,Mercy,,WidowmakerReaperLucioMercyD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, DAL, SEO,0:31,0,0,1,0,0,R,Soldier: 76,,,JunkratWidowmakerSoldier: 76MercyD.VaOrisa,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, DAL, SEO,0:46,22,5,4,3,2,R,OrisaD.VaZenyattaGenjiOrisaD.VaWinstonMercySoldier: 76,WidowmakerWidowmakerMercy,TracerZenyatta,JunkratWidowmakerSoldier: 76MercyD.VaOrisa,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, DAL, SEO,1:56,16,2,6,1,0,R,MercyWidowmakerJunkratGenjiMercySoldier: 76D.VaOrisa,Soldier: 76,,JunkratWidowmakerSoldier: 76MercyD.VaOrisa,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, DAL, SEO,2:41,31,1,6,1,1,R,OrisaGenjiMercyJunkratD.VaTracerWinston,Tracer,Genji,JunkratTracerMercyZenyattaD.VaOrisa,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, DAL, SEO,0:25,19,1,6,0,0,B,GenjiSoldier: 76MercyJunkratOrisaWidowmakerD.Va,,,JunkratWidowmakerSoldier: 76MercyD.VaOrisa,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, DAL, SEO,1:21,36,3,7,1,5,B,TracerWinstonD.VaD.VaJunkratTracerTracerZenyattaMercyWinston,Junkrat,MercyZenyattaWinstonGenjiTracer,JunkratTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, DAL, SEO,0:16,116,26,4,8,5,R,MercyZenyattaD.VaTracerWidowmakerWinstonZenyattaMercyTracerD.VaMercyGenjiRoadhogWinstonZenyattaD.VaTracerSombraGenjiD.VaTracerLucioZenyattaGenjiLucioLucioTracerD.VaWinstonMei,RoadhogWidowmakerLucioOrisaMercyWidowmakerRoadhogWidowmaker,TracerZenyattaWinstonGenjiTracer,WidowmakerLucioMercyD.VaOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, DAL, SEO,0:29,9,2,6,0,0,R,JunkratGenjiMercySoldier: 76D.VaWidowmakerMercyOrisa,,,JunkratWidowmakerSoldier: 76MercyD.VaOrisa,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, DAL, SEO,1:20,15,6,1,1,1,B,TracerWinstonWinstonGenjiZenyattaMercyD.Va,Tracer,Tracer,SombraTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, DAL, SEO,1:59,17,1,3,2,2,R,WinstonTracerZenyattaTracer,MercySombra,ZenyattaWinston,SombraTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, DAL, SEO,2:27,68,2,13,3,6,R,ZenyattaMercyD.VaWinstonLucioMeiWinstonGenjiTracerSombraD.VaLucioZenyattaWinstonMei,ZenyattaSombraWinston,GenjiTracerTracerMercyZenyattaGenji,SombraTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, DAL, SEO,0:24,23,0,6,0,0,R,OrisaWidowmakerLucioRoadhogMercyD.Va,,,WidowmakerLucioMercyD.VaOrisaRoadhog,WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, DAL, SEO,1:17,19,1,4,0,0,R,WidowmakerTracerLucioOrisaD.Va,,,WidowmakerLucioMercyD.VaOrisaRoadhog,WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, DAL, SEO,2:03,58,4,10,4,7,R,WidowmakerZenyattaOrisaTracerWidowmakerLucioD.VaD.VaD.VaRoadhogOrisaMercyGenjiLucio,MercyLucioRoadhogOrisa,MercyWidowmakerTracerZenyattaOrisaTracerWidowmaker,WidowmakerLucioMercyD.VaOrisaRoadhog,WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, DAL, SEO,3:18,13,0,2,0,0,R,Soldier: 76Genji,,,GenjiSoldier: 76LucioMercyD.VaWinston,WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, DAL, SEO,3:45,18,0,2,0,2,R,WinstonD.Va,,WidowmakerTracer,GenjiSoldier: 76LucioMercyD.VaWinston,WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, DAL, SEO,4:24,40,8,3,4,3,R,Soldier: 76ZenyattaWinstonTracerWidowmakerMercyMercyZenyattaOrisaD.VaTracer,MercyWinstonGenjiLucio,MercyZenyattaTracer,GenjiSoldier: 76LucioMercyD.VaWinston,WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis,Attack, DAL, SEO,5:28,54,5,4,3,3,B,ReaperTracerAnaGenjiD.VaReaperMercyD.VaLucio,Soldier: 76LucioLucio,WinstonTracerAna,GenjiSoldier: 76LucioMercyD.VaWinston,ReaperTracerAnaLucioD.VaWinston
+Ilios,Lighthouse, DAL, SEO,0:21,36,4,7,1,1,B,WinstonMercyWinstonLucioWidowmakerTracerLucioTracerMercyD.VaTracer,Tracer,Tracer,WidowmakerTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Lighthouse, DAL, SEO,1:13,86,10,8,5,7,B,PharahWidowmakerMercyWinstonLucioD.VaMercyTracerD.VaMercyMercyWinstonWinstonWidowmakerLucioTracerPharahD.Va,MercyWidowmakerWinstonTracerLucio,PharahLucioTracerWinstonMercyLucioTracer,WidowmakerTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Lighthouse, DAL, SEO,3:03,50,3,10,4,5,R,WidowmakerPharahTracerLucioWinstonPharahMercyTracerD.VaWidowmakerTracerLucioWinston,TracerMercyLucioWidowmaker,MercyTracerPharahWinstonLucio,WidowmakerTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, DAL, SEO,0:20,15,3,5,0,2,R,JunkratTracerMercyLucioMccreeOrisaZenyattaD.Va,,TracerMercy,JunkratMccreeMercyZenyattaOrisaRoadhog,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, DAL, SEO,0:58,15,1,4,0,1,B,TracerMccreeOrisaJunkratRoadhog,,Pharah,JunkratMccreeMercyZenyattaOrisaRoadhog,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, DAL, SEO,1:26,47,4,6,4,6,R,MccreeOrisaTracerZenyattaWinstonOrisaPharahMccreeD.VaJunkrat,ZenyattaJunkratMercyRoadhog,PharahMercyLucioPharahWinstonTracer,JunkratMccreeMercyZenyattaOrisaRoadhog,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, DAL, SEO,2:21,8,1,0,0,1,B,Tracer,,Tracer,WidowmakerTracerMercyZenyattaRoadhogWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, DAL, SEO,2:38,55,4,9,5,5,B,D.VaZenyattaWidowmakerWidowmakerPharahMercyTracerWinstonZenyattaWinstonMercyD.VaD.Va,MercyRoadhogTracerWinstonZenyatta,LucioMercyTracerWinstonTracer,WidowmakerTracerMercyZenyattaRoadhogWinston,PharahTracerLucioMercyD.VaWinston
+Numbani,Attack, DAL, SEO,0:17,0,0,1,0,0,R,Lucio,,,Soldier: 76TracerLucioMercyD.VaWinston,JunkratSoldier: 76AnaMercyD.VaWinston
+Numbani,Attack, DAL, SEO,0:36,27,6,1,0,0,R,TracerMercyAnaJunkratSoldier: 76WinstonD.Va,,,Soldier: 76TracerLucioMercyD.VaWinston,JunkratSoldier: 76AnaMercyD.VaWinston
+Numbani,Attack, DAL, SEO,1:20,5,0,2,0,0,R,MercyWinston,,,Soldier: 76TracerLucioMercyD.VaWinston,GenjiSoldier: 76AnaMercyD.VaWinston
+Numbani,Attack, DAL, SEO,1:41,25,5,4,4,2,B,MercyTracerMercySoldier: 76AnaSoldier: 76GenjiD.VaLucio,TracerMercySoldier: 76Winston,Soldier: 76Winston,Soldier: 76TracerLucioMercyD.VaWinston,GenjiSoldier: 76AnaMercyD.VaWinston
+Numbani,Attack, DAL, SEO,2:30,21,0,6,0,1,R,WinstonMercyLucioD.VaSoldier: 76Tracer,,Ana,Soldier: 76TracerLucioMercyD.VaWinston,GenjiTracerAnaMercyD.VaWinston
+Numbani,Attack, DAL, SEO,3:22,14,1,3,1,1,B,WinstonWinstonLucioD.Va,Tracer,Tracer,Soldier: 76TracerLucioMercyD.VaWinston,GenjiTracerAnaMercyD.VaWinston
+Numbani,Attack, DAL, SEO,3:57,26,6,1,3,3,B,MercyMercyAnaGenjiTracerWinstonD.Va,Soldier: 76TracerWinston,AnaTracerWinston,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerAnaMercyD.VaWinston
+Numbani,Attack, DAL, SEO,4:50,10,0,6,0,1,R,ZenyattaSoldier: 76WinstonMercyD.VaTracer,,Tracer,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Numbani,Attack, DAL, SEO,5:20,20,1,4,0,1,R,WinstonZenyattaD.VaMercyD.Va,,Winston,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Numbani,Attack, DAL, SEO,5:59,46,3,7,5,4,R,TracerD.VaGenjiMercyWinstonWinstonZenyattaMercyTracerD.Va,ZenyattaMercyTracerWinstonSoldier: 76,MercyZenyattaTracerGenji,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Numbani,Attack, DAL, SEO,7:04,47,6,1,3,4,B,GenjiD.VaMercyTracerTracerWinstonMercy,TracerSoldier: 76Tracer,GenjiWinstonTracerZenyatta,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Numbani,Defense, DAL, SEO,0:30,15,1,5,0,1,R,D.VaSoldier: 76TorbjörnSoldier: 76MercyTracer,,Soldier: 76,TorbjörnSoldier: 76TracerMercyD.VaWinston,PharahSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, DAL, SEO,1:36,5,1,2,1,1,R,ZenyattaWidowmakerSoldier: 76,Mercy,Widowmaker,MccreeSoldier: 76MercyZenyattaD.VaWinston,WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, DAL, SEO,1:47,38,1,4,3,1,B,WidowmakerMccreeD.VaWinstonSoldier: 76,WinstonMccreeZenyatta,Zenyatta,MccreeSoldier: 76MercyZenyattaD.VaWinston,WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, DAL, SEO,2:45,31,5,6,0,1,B,Soldier: 76TracerWinstonSoldier: 76ZenyattaMercyZenyattaD.VaMccreeMercySoldier: 76,,Mercy,MccreeTracerMercyZenyattaD.VaWinston,DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, DAL, SEO,3:33,14,3,0,1,0,B,DoomfistWinstonD.Va,Tracer,,MccreeTracerMercyZenyattaReinhardtZarya,DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, DAL, SEO,4:12,34,6,2,0,4,B,WinstonSoldier: 76MccreeMercyZenyattaTracerD.VaSoldier: 76,,ZenyattaWinstonDoomfistSoldier: 76,MccreeTracerMercyZenyattaReinhardtZarya,DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, DAL, SEO,5:05,47,7,5,5,1,B,ReinhardtReaperZaryaZenyattaZaryaMccreeReinhardtReaperReinhardtReinhardtMercyTracer,ZenyattaZaryaTracerReinhardtTracer,Mercy,MccreeTracerMercyZenyattaReinhardtZarya,ReaperTracerMercyZenyattaReinhardtZarya
+Numbani,Defense, DAL, SEO,6:03,29,5,2,2,1,B,TracerReinhardtZaryaReaperZaryaZenyattaTracer,MccreeTracer,Tracer,MccreeTracerMercyZenyattaReinhardtZarya,ReaperTracerMercyZenyattaReinhardtZarya
+Numbani,Defense, DAL, SEO,7:05,0,0,1,0,1,R,Widowmaker,,Mccree,WidowmakerMccreeMercyZenyattaReinhardtZarya,JunkratMccreeMercyZenyattaReinhardtZarya
+Numbani,Defense, DAL, SEO,7:09,47,5,6,6,6,B,JunkratReinhardtZenyattaMccreeReinhardtMccreeZaryaZaryaMercyMccreeZenyatta,ZenyattaZaryaMccreeReinhardtMercyWidowmaker,ZaryaJunkratMercyZenyattaReinhardtJunkrat,WidowmakerMccreeMercyZenyattaReinhardtZarya,JunkratMccreeMercyZenyattaReinhardtZarya
+Numbani,Defense, DAL, SEO,8:11,6,0,1,0,1,R,Widowmaker,,Mccree,WidowmakerMccreeMercyZenyattaD.VaWinston,JunkratMccreeLucioZenyattaD.VaReinhardt
+Numbani,Attack, DAL, SEO,0:20,8,0,5,0,0,R,MercyLucioWinstonTracerD.Va,,,Soldier: 76TracerLucioMercyD.VaWinston,PharahSoldier: 76AnaMercyD.VaWinston
+Numbani,Attack, DAL, SEO,0:59,12,1,4,1,2,R,ZenyattaSoldier: 76D.VaWinstonSoldier: 76,Soldier: 76,MercySoldier: 76,Soldier: 76TracerMercyZenyattaD.VaWinston,PharahSoldier: 76AnaMercyD.VaWinston
+Numbani,Defense, DAL, SEO,0:23,0,1,0,0,0,B,Zenyatta,,,TorbjörnSoldier: 76TracerMercyD.VaWinston,PharahSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, DAL, SEO,0:51,15,6,0,2,1,B,ZenyattaWinstonPharahMercyD.VaSoldier: 76,MercyTracer,Soldier: 76,TorbjörnSoldier: 76TracerMercyD.VaWinston,PharahSoldier: 76MercyZenyattaD.VaWinston
+Dorado,Attack, LDN, FLA,6:27,8,1,1,1,1,R,MercyMercy,Genji,Winston,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Dorado,Attack, LDN, FLA,5:19,40,4,7,3,1,R,D.VaGenjiGenjiWinstonZenyattaWidowmakerZenyattaWinstonWinstonMercyD.Va,MercyTracerZenyatta,Zenyatta,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Dorado,Attack, LDN, FLA,4:50,11,2,1,0,0,B,WinstonMercyWinston,,,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Dorado,Attack, LDN, FLA,3:48,22,2,4,1,1,B,ZenyattaD.VaZenyattaMercySoldier: 76Tracer,Zenyatta,Mercy,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Dorado,Attack, LDN, FLA,3:10,15,3,0,3,0,B,ZenyattaD.VaWinston,WinstonMercyTracer,,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Dorado,Attack, LDN, FLA,1:58,11,1,2,1,2,R,WinstonTracerZenyatta,Tracer,AnaWinston,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Dorado,Attack, LDN, FLA,2:23,12,6,1,1,2,B,AnaSoldier: 76MercyZenyattaD.VaTracerWinston,Genji,Soldier: 76Tracer,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Dorado,Attack, LDN, FLA,1:10,25,3,4,1,0,B,TracerWinstonMercyTracerAnaWinstonD.Va,Zenyatta,,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Dorado,Defense, LDN, FLA,3:13,19,0,3,1,1,R,WinstonZenyattaD.Va,Widowmaker,Widowmaker,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Dorado,Defense, LDN, FLA,2:27,40,5,7,3,4,B,WidowmakerZenyattaZenyattaTracerMercyMercyZenyattaD.VaWinstonWidowmakerZenyattaWidowmaker,MercyWinstonZenyatta,MercyTracerZenyattaWinston,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Dorado,Defense, LDN, FLA,1:44,9,3,1,0,0,R,JunkratWidowmakerMercyZenyatta,,,JunkratWidowmakerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Dorado,Defense, LDN, FLA,0:45,10,2,3,0,0,R,MercyWidowmakerTracerD.VaJunkrat,,,JunkratWidowmakerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, LDN, FLA,3:06,10,3,1,3,1,B,WinstonJunkratReaperD.Va,ZenyattaGenjiReaper,Tracer,GenjiReaperMercyZenyattaD.VaWinston,JunkratSombraTracerMercyD.VaWinston
+Temple of Anubis,Attack, LDN, FLA,1:26,53,10,7,2,1,R,ReaperWinstonMercyJunkratD.VaSombraTracerWinstonDoomfistZenyattaD.VaMercyMercyWinstonD.VaReaperGenji,GenjiWinston,Sombra,GenjiReaperMercyZenyattaD.VaWinston,JunkratSombraTracerMercyD.VaWinston
+Temple of Anubis,Attack, LDN, FLA,0:29,17,6,1,0,0,B,WinstonWinstonMercySoldier: 76WidowmakerTracerD.Va,,,WidowmakerGenjiMercyZenyattaD.VaWinston,WidowmakerSoldier: 76TracerMercyD.VaWinston
+Temple of Anubis,Defense, LDN, FLA,8:03,10,6,0,1,2,B,LucioMercyD.VaWinstonTracerGenji,Zenyatta,TracerGenji,JunkratTracerMercyZenyattaD.VaWinston,GenjiTracerLucioMercyD.VaWinston
+Temple of Anubis,Defense, LDN, FLA,7:26,19,3,2,3,1,B,LucioGenjiJunkratTracerTracer,WinstonTracerJunkrat,Mercy,JunkratTracerMercyZenyattaD.VaWinston,GenjiTracerLucioMercyD.VaWinston
+Temple of Anubis,Defense, LDN, FLA,6:59,0,1,0,0,0,B,Genji,,,JunkratTracerMercyZenyattaD.VaWinston,GenjiTracerLucioMercyD.VaWinston
+Temple of Anubis,Defense, LDN, FLA,6:01,30,4,7,2,2,R,JunkratZenyattaMercyMercyWinstonWinstonTracerJunkratTracerD.VaGenji,TracerZenyatta,WinstonLucio,JunkratTracerMercyZenyattaD.VaWinston,GenjiTracerLucioMercyD.VaWinston
+Temple of Anubis,Defense, LDN, FLA,4:44,41,7,7,4,2,R,MercyZenyattaMercyD.VaGenjiWinstonGenjiWinstonZenyattaMercyD.VaWinstonGenjiTracer,WinstonTracerMercyGenji,MercyGenji,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerLucioMercyD.VaWinston
+Temple of Anubis,Defense, LDN, FLA,3:39,26,4,3,0,3,B,ZenyattaMercyTracerMercyWinstonWinstonTracer,,ZenyattaTracerWinston,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, LDN, FLA,2:24,41,2,7,4,3,R,GenjiZenyattaWidowmakerOrisaGenjiWidowmakerMercyD.VaMercy,MercyGenjiZenyattaWidowmaker,MercyTracerGenji,WidowmakerGenjiMercyZenyattaD.VaOrisa,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, LDN, FLA,1:25,19,3,0,1,0,B,TracerWinstonD.Va,Widowmaker,,WidowmakerGenjiMercyZenyattaD.VaOrisa,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, LDN, FLA,0:54,6,2,0,0,0,B,TracerGenji,,,WidowmakerGenjiMercyZenyattaD.VaOrisa,GenjiTracerMercyZenyattaD.VaWinston
+Oasis,University, LDN, FLA,4:44,58,10,6,3,3,B,LucioZaryaWinstonReaperReinhardtMercyJunkratZaryaTracerReaperRoadhogZenyattaLucioWinstonD.VaMoira,ZaryaZenyattaReinhardt,MercyWinstonTracer,JunkratMercyZenyattaReinhardtRoadhogZarya,ReaperTracerLucioMercyD.VaWinston
+Oasis,University, LDN, FLA,3:50,21,6,2,0,1,R,ReinhardtMercyJunkratZenyattaTracerWinstonD.VaJunkrat,,Tracer,JunkratMercyZenyattaReinhardtRoadhogZarya,JunkratTracerMercyZenyattaD.VaWinston
+Oasis,University, LDN, FLA,3:11,8,4,0,1,0,B,ZenyattaMercyJunkratWinston,Reinhardt,,JunkratMercyZenyattaReinhardtRoadhogZarya,JunkratTracerMercyZenyattaD.VaWinston
+Oasis,University, LDN, FLA,2:36,9,5,0,1,1,B,JunkratMercyMccreeOrisaRoadhog,Zarya,Mccree,JunkratMercyZenyattaReinhardtRoadhogZarya,JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis,University, LDN, FLA,1:42,30,3,4,1,2,R,ReinhardtMccreeReinhardtMccreeZaryaRoadhogReinhardt,Mercy,JunkratZenyatta,JunkratMercyZenyattaReinhardtRoadhogZarya,JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis,University, LDN, FLA,0:58,15,0,3,0,0,R,TracerWinstonGenji,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis,University, LDN, FLA,0:15,12,0,2,0,0,R,GenjiTracer,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis,Gardens, LDN, FLA,6:07,27,6,4,0,0,B,GenjiWinstonSoldier: 76ZenyattaGenjiTracerWinstonMoiraDoomfistTracer,,,GenjiTracerMercyMoiraD.VaWinston,GenjiSoldier: 76TracerLucioZenyattaWinston
+Oasis,Gardens, LDN, FLA,5:05,38,7,3,3,4,R,D.VaWinstonJunkratAnaZenyattaMccreeOrisaMccreeMercyRoadhog,MercyGenjiWinston,RoadhogMercyMccreeJunkrat,GenjiTracerAnaMercyD.VaWinston,JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis,Gardens, LDN, FLA,4:49,9,0,2,0,0,R,TracerGenji,,,GenjiTracerAnaMercyD.VaWinston,JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis,Gardens, LDN, FLA,3:48,33,2,6,2,2,R,MercyMccreeD.VaZenyattaZenyattaTracerWinstonGenji,WinstonZenyatta,OrisaZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis,Gardens, LDN, FLA,2:52,22,8,1,2,2,R,WinstonZenyattaMccreeJunkratMercyOrisaRoadhogZenyattaMccree,ZenyattaTracer,MccreeRoadhog,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis,Gardens, LDN, FLA,1:45,42,2,8,2,3,R,GenjiJunkratRoadhogD.VaZenyattaTracerWinstonMercyGenjiD.Va,WinstonTracer,OrisaZenyattaJunkrat,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis,Gardens, LDN, FLA,0:41,33,0,7,0,1,R,WinstonMccreeMercyWinstonZenyattaMccreeD.Va,,Mccree,MccreeTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaOrisaRoadhog
+Numbani,Attack, LDN, FLA,3:34,21,6,0,3,3,B,AnaMercyD.VaSoldier: 76WinstonTracer,ZenyattaWinstonGenji,AnaSoldier: 76Winston,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Numbani,Attack, LDN, FLA,2:50,17,6,1,0,0,B,AnaMercyMercyD.VaSoldier: 76TracerWinston,,,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Numbani,Attack, LDN, FLA,1:38,36,4,7,5,3,R,Soldier: 76Soldier: 76ZenyattaAnaWinstonMercyMercyTracerD.VaD.VaSoldier: 76,ZenyattaMercyWinstonSoldier: 76Tracer,AnaMercyWinston,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Numbani,Attack, LDN, FLA,0:54,9,6,0,0,0,B,D.VaAnaMercySoldier: 76TracerWinston,,,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Numbani,Attack, LDN, FLA,0:23,13,2,1,0,0,B,TracerSoldier: 76Winston,,,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Numbani,Attack, LDN, FLA,4:25,34,7,1,2,1,B,Soldier: 76ZenyattaWinstonTracerWinstonD.VaMercySoldier: 76,MercyTracer,Mercy,MccreeTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, LDN, FLA,0:39,23,7,1,0,0,R,AnaWinstonZenyattaMercyWidowmakerWinstonSoldier: 76D.Va,,,Soldier: 76TracerAnaMercyD.VaWinston,WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, LDN, FLA,1:38,3,1,0,1,0,B,Soldier: 76,Tracer,,Soldier: 76TracerAnaMercyD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, LDN, FLA,1:44,26,6,0,3,0,B,WinstonSoldier: 76ZenyattaMercyWinstonTracer,MercySoldier: 76Winston,,Soldier: 76TracerAnaMercyD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, LDN, FLA,3:06,33,5,4,0,2,R,WinstonWinstonSoldier: 76D.VaD.VaZenyattaTracerMercyTracer,,Soldier: 76Tracer,Soldier: 76TracerAnaMercyD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, LDN, FLA,3:55,28,7,1,1,3,B,ZenyattaSoldier: 76AnaSoldier: 76ZenyattaMercyD.VaTracer,Mercy,MercyZenyattaWinston,Soldier: 76TracerAnaMercyD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado,Attack, PHI, HOU,0:20,13,4,1,0,0,B,MercyZenyattaZenyattaSoldier: 76D.Va,,,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado,Attack, PHI, HOU,1:00,24,1,6,0,2,R,TracerZenyattaZenyattaWinstonD.VaGenjiMercy,,Soldier: 76Tracer,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado,Attack, PHI, HOU,1:53,37,8,2,4,1,R,ZenyattaSoldier: 76ZenyattaWinstonTracerWinstonD.VaSoldier: 76ZenyattaMercy,MercyTracerWinstonTracer,Mercy,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado,Attack, PHI, HOU,3:03,23,6,1,1,0,B,ZenyattaSoldier: 76ZenyattaMercyTracerWinstonD.Va,Genji,,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado,Attack, PHI, HOU,3:47,55,9,4,4,4,B,TracerWinstonD.VaMercyWinstonD.VaSoldier: 76ZenyattaWinstonWinstonMercyD.VaTracer,TracerMercyZenyattaGenji,ZenyattaSoldier: 76TracerWinston,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado,Attack, PHI, HOU,5:15,9,0,5,0,0,R,D.VaZenyattaMercyWinstonGenji,,,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado,Attack, PHI, HOU,5:57,29,8,1,3,2,B,JunkratD.VaWinstonTracerJunkratZenyattaWinstonTracerMercy,WinstonTracerZenyatta,MercyTracer,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Dorado,Attack, PHI, HOU,6:41,50,4,5,1,3,R,TracerGenjiD.VaWinstonTracerJunkratMercyWinstonZenyatta,Zenyatta,WinstonZenyattaTracer,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,0:17,11,0,6,0,0,R,TracerGenjiZenyattaWinstonMercyD.Va,,,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,0:59,50,7,5,2,0,B,WidowmakerZenyattaMercyPharahWinstonWidowmakerGenjiTracerMercyD.VaWinstonTracer,TracerMercy,,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,1:58,11,1,1,2,2,R,MercyPharah,WinstonZenyatta,WidowmakerPharah,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,2:23,17,1,6,1,1,R,WinstonMercyGenjiD.VaZenyattaZenyattaTracer,Tracer,Winston,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,3:20,0,1,0,0,0,B,Widowmaker,,,WidowmakerGenjiMercyZenyattaD.VaWinston,WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,3:39,30,5,2,2,2,B,PharahWinstonPharahMercyWinstonD.VaWidowmaker,MercyZenyatta,MercyWidowmaker,WidowmakerGenjiMercyZenyattaD.VaWinston,WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,4:47,25,0,7,0,0,R,WidowmakerGenjiZenyattaMercyWinstonWidowmakerD.Va,,,WidowmakerGenjiMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,5:33,14,0,2,0,0,R,ZenyattaWinston,,,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,6:05,35,6,1,1,2,B,GenjiWidowmakerTracerGenjiD.VaZenyattaMercy,Zenyatta,MercyGenji,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,7:07,2,1,0,1,0,B,Mercy,Tracer,,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,7:40,41,3,6,4,1,R,GenjiZenyattaWinstonTracerJunkratZenyattaWinstonGenjiMercy,MercyGenjiZenyattaTracer,Zenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Dorado,Defense, PHI, HOU,8:38,21,6,3,1,1,R,TracerZenyattaDoomfistJunkratZenyattaMercyLucioZenyattaWinston,Winston,Winston,GenjiTracerLucioZenyattaD.VaWinston,JunkratDoomfistMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, PHI, HOU,0:26,14,7,2,0,0,R,LucioMccreeZenyattaJunkratWinstonRoadhogMercyZenyattaOrisa,,,GenjiTracerLucioMercyD.VaWinston,JunkratMccreeMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony,Attack, PHI, HOU,1:10,0,0,1,0,0,R,Tracer,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, PHI, HOU,1:41,20,2,5,2,0,R,WinstonMccreeGenjiD.VaMercyZenyattaTracer,GenjiTracer,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, PHI, HOU,2:21,39,1,5,1,3,B,JunkratGenjiTracerD.VaWinstonZenyatta,Mercy,JunkratMccreeMercy,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, PHI, HOU,3:36,22,3,5,2,1,B,MccreeJunkratWinstonWinstonGenjiZenyattaMercyGenji,ZenyattaTracer,Winston,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, PHI, HOU,4:30,8,0,1,0,2,R,D.Va,,MccreeJunkrat,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, PHI, HOU,5:20,29,6,5,2,2,R,TracerGenjiZenyattaD.VaMccreeMercyMccreeWinstonGenjiMercyJunkrat,MercyWinston,MercyZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, PHI, HOU,6:15,20,2,5,2,1,R,WinstonD.VaMercyMccreeZenyattaD.VaGenji,GenjiTracer,Winston,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, PHI, HOU,6:52,0,0,1,0,0,R,Zenyatta,,,WidowmakerTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, PHI, HOU,7:08,9,0,2,0,0,R,ZenyattaWidowmaker,,,WidowmakerTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, PHI, HOU,7:50,8,1,2,1,2,R,ZenyattaJunkratWinston,Mercy,JunkratMercy,WidowmakerTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, PHI, HOU,0:28,11,4,1,0,0,B,WinstonTracerPharahD.VaTracer,,,WidowmakerTracerMercyZenyattaD.VaOrisa,PharahSombraTracerMercyD.VaWinston
+Horizon Lunar Colony,Defense, PHI, HOU,0:54,8,0,5,0,1,R,WidowmakerZenyattaMercyOrisaD.Va,,Sombra,WidowmakerTracerMercyZenyattaD.VaOrisa,Soldier: 76SombraTracerMercyD.VaWinston
+Horizon Lunar Colony,Defense, PHI, HOU,1:36,71,3,13,2,3,B,TracerGenjiMercyJunkratWinstonZenyattaZenyattaGenjiD.VaTracerWinstonGenjiMercyWinstonMoiraD.Va,ZenyattaMercy,TracerWinstonMercy,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Oasis,Gardens, PHI, HOU,0:28,24,6,2,0,0,B,TracerWinstonPharahLucioD.VaTracerMercyWinston,,,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Oasis,Gardens, PHI, HOU,1:18,33,5,1,1,1,B,PharahWinstonTracerTracerLucioD.Va,Lucio,Mercy,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Oasis,Gardens, PHI, HOU,2:15,33,7,2,2,3,B,LucioPharahMercyPharahMercyWinstonTracerD.VaLucio,TracerWinston,TracerWinstonPharah,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Oasis,City Center, PHI, HOU,0:20,16,6,1,0,0,B,TracerLucioMercyPharahWinstonD.VaLucio,,,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Oasis,City Center, PHI, HOU,1:27,31,6,0,3,2,B,D.VaPharahMercyPharahWinstonD.Va,MercyLucioTracer,TracerPharah,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Oasis,City Center, PHI, HOU,2:26,19,6,0,1,1,B,PharahMercyLucioWinstonTracerD.Va,Pharah,Tracer,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Eichenwalde,Attack, PHI, HOU,0:28,0,0,1,0,0,R,Tracer,,,Soldier: 76TracerMercyZenyattaD.VaReinhardt,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Attack, PHI, HOU,1:01,13,5,0,1,0,B,ZenyattaJunkratMercyMccreeD.Va,Mercy,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Attack, PHI, HOU,1:40,2,0,2,0,0,R,MercyWinston,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Attack, PHI, HOU,2:07,28,7,1,0,0,R,WinstonWinstonMccreeZenyattaJunkratMercyMccreeD.Va,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Attack, PHI, HOU,3:10,20,5,4,1,2,B,WinstonMccreeJunkratD.VaZenyattaGenjiD.VaJunkratWinston,Zenyatta,MercyJunkrat,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Attack, PHI, HOU,3:51,36,7,2,1,2,B,MercyMccreeGenjiD.VaTracerZenyattaJunkratMercyWinston,Genji,MccreeZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Attack, PHI, HOU,4:49,22,4,3,2,0,B,MercyZenyattaJunkratGenjiWinstonTracerD.Va,ZenyattaMercy,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Attack, PHI, HOU,5:54,11,0,3,0,0,R,TracerWinstonGenji,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaOrisa
+Eichenwalde,Attack, PHI, HOU,6:41,53,10,3,5,2,R,GenjiJunkratD.VaMccreeMercyZenyattaOrisaJunkratTracerJunkratMercyGenjiD.Va,ZenyattaMercyGenjiTracerWinston,ZenyattaMccree,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaOrisa
+Eichenwalde,Attack, PHI, HOU,7:51,48,11,3,1,2,R,WinstonJunkratZenyattaMercyLucioTracerD.VaWinstonJunkratWinstonMercyLucioWinstonD.Va,Genji,TracerWinston,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerLucioMercyD.VaWinston
+Eichenwalde,Defense, PHI, HOU,0:20,22,2,4,0,0,R,Soldier: 76ZenyattaMccreeMercyJunkratD.Va,,,Soldier: 76TracerMercyZenyattaD.VaReinhardt,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Defense, PHI, HOU,0:57,14,1,6,0,0,R,TracerJunkratReinhardtSoldier: 76MercyZenyattaD.Va,,,Soldier: 76TracerMercyZenyattaD.VaReinhardt,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Defense, PHI, HOU,1:44,32,3,7,1,1,B,MccreeTracerGenjiZenyattaZenyattaMercyReinhardtMccreeTracerD.Va,Zenyatta,Winston,GenjiTracerMercyZenyattaD.VaReinhardt,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Defense, PHI, HOU,2:37,24,2,4,0,2,B,ZenyattaMercyMccreeWinstonTracerD.Va,,MccreeJunkrat,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Defense, PHI, HOU,3:15,20,0,6,2,2,R,TracerZenyattaGenjiMercyWinstonD.Va,TracerZenyatta,WinstonMercy,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Defense, PHI, HOU,4:10,4,3,0,0,0,B,ZenyattaMccreeD.Va,,,JunkratMccreeMercyZenyattaD.VaReinhardt,JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde,Defense, PHI, HOU,5:02,66,6,10,3,3,B,MccreeReinhardtJunkratZaryaReinhardtZaryaZenyattaJunkratZenyattaJunkratZaryaD.VaMercyReinhardtJunkratJunkrat,JunkratMercyMccree,ZenyattaMercyMccree,JunkratMccreeMercyZenyattaReinhardtZarya,JunkratMccreeMercyZenyattaD.VaOrisa
+Eichenwalde,Defense, PHI, HOU,0:35,23,1,4,0,1,R,MercyMccreePharahReinhardtD.Va,,Junkrat,PharahTracerMercyZenyattaD.VaReinhardt,JunkratMccreeMercyZenyattaD.VaWinston
+Lijiang Tower,Control Center, PHI, HOU,0:26,9,2,0,1,0,B,JunkratReinhardt,Reinhardt,,MccreeMercyZenyattaD.VaReinhardtZarya,JunkratMccreeLucioMoiraReinhardtZarya
+Lijiang Tower,Control Center, PHI, HOU,1:01,24,5,1,2,2,R,ReinhardtMccreeJunkratLucioReinhardtZarya,MercyZenyatta,MoiraMccree,MccreeMercyZenyattaD.VaReinhardtZarya,JunkratMccreeLucioMoiraReinhardtZarya
+Lijiang Tower,Control Center, PHI, HOU,1:50,35,4,5,2,5,B,JunkratReinhardtMccreeMccreeReinhardtD.VaZaryaMercyZarya,ReinhardtZenyatta,ReinhardtZaryaLucioMoiraJunkrat,MccreeMercyZenyattaD.VaReinhardtZarya,JunkratMccreeLucioMoiraReinhardtZarya
+Lijiang Tower,Control Center, PHI, HOU,2:37,22,5,1,1,1,R,ZenyattaLucioMccreeMoiraJunkratZarya,Mccree,Mccree,MccreeMercyZenyattaD.VaReinhardtZarya,JunkratMccreeLucioMoiraReinhardtZarya
+Lijiang Tower,Night Market, PHI, HOU,0:21,40,7,7,0,0,R,WinstonMccreeGenjiD.VaMercyJunkratZenyattaTracerMercyZenyattaMccreeD.VaWinstonD.Va,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Lijiang Tower,Night Market, PHI, HOU,1:27,71,6,11,2,5,R,TracerMccreeJunkratZenyattaGenjiTracerMccreeWinstonZenyattaD.VaJunkratZenyattaMercyMercyTracerGenjiD.Va,ZenyattaTracer,WinstonZenyattaJunkratMercyMccree,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Lijiang Tower,Night Market, PHI, HOU,3:15,21,3,4,2,2,B,ZenyattaMercyGenjiZenyattaD.VaTracerGenji,GenjiWinston,GenjiJunkrat,GenjiTracerMercyZenyattaD.VaWinston,JunkratGenjiMercyZenyattaD.VaWinston
+Lijiang Tower,Night Market, PHI, HOU,3:55,25,6,2,1,0,R,D.VaJunkratD.VaWinstonGenjiMercyZenyattaGenji,Mercy,,GenjiTracerMercyZenyattaD.VaWinston,JunkratGenjiMercyZenyattaD.VaWinston
+Lijiang Tower,Night Market, PHI, HOU,4:46,26,7,1,3,3,B,ZenyattaMercyMercyJunkratWinstonD.VaGenjiZenyatta,ZenyattaGenjiTracer,JunkratGenjiZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratGenjiMercyZenyattaD.VaWinston
+Junkertown,Attack, BOS, NYE,0:32,28,7,0,0,0,B,RoadhogWidowmakerOrisaZenyattaRoadhogJunkratMercy,,,BastionHanzoWidowmakerMercyD.VaOrisa,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, BOS, NYE,1:42,10,0,2,0,1,R,BastionOrisa,,Junkrat,BastionHanzoWidowmakerMercyD.VaOrisa,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, BOS, NYE,2:20,29,8,1,3,3,B,ZenyattaWidowmakerJunkratOrisaOrisaWidowmakerZenyattaMercyRoadhog,MercyHanzoBastion,MercyRoadhogZenyatta,BastionHanzoWidowmakerMercyD.VaOrisa,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, BOS, NYE,3:23,32,2,5,1,1,B,JunkratWidowmakerOrisaZenyattaBastionHanzoD.Va,Hanzo,Orisa,BastionHanzoWidowmakerMercyD.VaOrisa,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, BOS, NYE,4:15,0,0,1,0,0,R,Genji,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, BOS, NYE,4:43,34,2,6,1,3,B,JunkratRoadhogGenjiWinstonD.VaGenjiZenyattaD.Va,Mercy,MercyZenyattaWidowmaker,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, BOS, NYE,5:48,29,5,2,1,1,B,ZenyattaWidowmakerOrisaRoadhogGenjiMercyWinston,Genji,Roadhog,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, BOS, NYE,6:47,28,2,6,2,3,B,ZenyattaD.VaTracerWinstonJunkratD.VaMercyZenyatta,MercyWinston,JunkratMercyZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Junkertown,Attack, BOS, NYE,7:48,34,5,7,3,2,B,MccreeMercyMercyZenyattaJunkratZenyattaD.VaGenjiWinstonTracerD.VaLucio,GenjiZenyattaTracer,WinstonMccree,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Junkertown,Defense, BOS, NYE,0:39,47,4,8,1,0,R,RoadhogHanzoWidowmakerWidowmakerRoadhogMercyRoadhogOrisaZenyattaMercyWidowmakerJunkrat,Widowmaker,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown,Defense, BOS, NYE,2:00,34,1,7,1,3,R,WinstonTracerD.VaWinstonGenjiTracerMercyWidowmaker,Mercy,MercyWidowmakerOrisa,GenjiTracerMercyZenyattaD.VaWinston,BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown,Defense, BOS, NYE,3:17,53,1,9,3,3,R,TracerGenjiWinstonD.VaGenjiOrisaWinstonMercyD.VaZenyatta,ZenyattaGenjiTracer,RoadhogMercyZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony,Attack, BOS, NYE,0:21,27,6,3,0,0,R,ZenyattaJunkratWinstonWidowmakerZenyattaMercyOrisaGenjiRoadhog,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony,Attack, BOS, NYE,1:24,6,1,2,0,0,R,MercyD.VaGenji,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, BOS, NYE,1:56,53,11,2,5,4,R,GenjiTracerZenyattaD.VaJunkratZenyattaWinstonMercyJunkratD.VaTracerWinstonLucio,MercyGenjiZenyattaWinstonTracer,MercyJunkratTracerZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, BOS, NYE,0:55,14,2,6,0,0,R,WinstonD.VaWinstonZenyattaTracerMercyGenjiTracer,,,GenjiTracerMercyZenyattaD.VaWinston,SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony,Defense, BOS, NYE,1:36,25,5,0,1,1,B,TracerMoiraSombraLucioD.Va,Genji,Tracer,GenjiTracerMercyZenyattaD.VaWinston,SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony,Defense, BOS, NYE,2:35,46,7,5,2,0,R,MccreeZenyattaTracerMoiraD.VaTracerWinstonWinstonLucioTracerD.VaSombra,MercyTracer,,MccreeTracerMercyZenyattaD.VaWinston,SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony,Defense, BOS, NYE,4:00,64,3,14,4,5,B,MccreeWinstonD.VaMercyTracerD.VaZenyattaGenjiWinstonTracerD.VaWinstonMccreeGenjiZenyattaTracerMercy,WinstonZenyattaTracerMercy,MccreeJunkratMercyWinstonZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, BOS, NYE,0:22,11,1,4,0,0,B,MoiraMercyD.VaTracerGenji,,,GenjiTracerMercyZenyattaD.VaWinston,SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony,Defense, BOS, NYE,0:56,14,1,6,0,1,R,WinstonTracerD.VaD.VaZenyattaMercyGenji,,Tracer,GenjiTracerMercyZenyattaD.VaWinston,SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony,Defense, BOS, NYE,1:28,33,5,2,1,1,R,WinstonGenjiMoiraTracerD.VaWinstonLucio,Tracer,Tracer,GenjiTracerMercyZenyattaD.VaWinston,SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony,Defense, BOS, NYE,2:44,17,5,1,0,0,B,MccreeMercyZenyattaGenjiJunkratD.Va,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, BOS, NYE,3:18,19,6,0,4,0,B,MccreeWinstonJunkratZenyattaMercyD.Va,ZenyattaGenjiTracerWinston,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, BOS, NYE,0:15,24,2,4,0,0,R,WinstonJunkratZenyattaD.VaZenyattaGenji,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony,Attack, BOS, NYE,1:06,18,2,5,0,0,R,GenjiWinstonRoadhogWidowmakerZenyattaMercyD.Va,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony,Attack, BOS, NYE,1:49,12,2,1,1,3,B,ZenyattaGenjiWidowmaker,Genji,WidowmakerMercyJunkrat,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony,Attack, BOS, NYE,2:21,19,6,1,2,1,B,WidowmakerTracerJunkratOrisaMercyZenyattaRoadhog,MercyWinston,Zenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony,Attack, BOS, NYE,3:26,4,3,0,0,0,B,MercyZenyattaJunkrat,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Ilios,Well, BOS, NYE,0:14,0,1,0,0,0,B,Tracer,,,PharahTracerLucioMercyD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Well, BOS, NYE,0:43,12,1,5,0,0,R,MercyZenyattaLucioPharahTracerD.Va,,,PharahTracerLucioMercyD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Well, BOS, NYE,1:26,26,5,5,2,1,B,ZenyattaZenyattaMccreeD.VaWinstonTracerPharahMccreeTracerD.Va,PharahTracer,Mercy,PharahTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Well, BOS, NYE,2:20,1,1,0,0,2,B,Winston,,WinstonMccree,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Well, BOS, NYE,2:31,65,4,11,4,3,R,TracerTracerWinstonMccreeD.VaMccreeD.VaZenyattaTracerWinstonMccreeMercyMccreeZenyattaTracer,WinstonMercyTracerMccree,TracerZenyattaMccree,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, BOS, NYE,0:27,19,1,6,0,0,R,PharahZenyattaWinstonMercyLucioTracerD.Va,,,PharahTracerLucioMercyD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, BOS, NYE,1:11,12,0,2,0,2,R,ZenyattaMercy,,MccreeTracer,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, BOS, NYE,2:07,20,2,5,0,1,B,ZenyattaMercyMccreeZenyattaMccreeTracerD.Va,,Mercy,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Numbani,Attack, BOS, NYE,0:56,27,7,4,0,2,R,TracerMccreeWinstonGenjiWinstonMercyMccreeWinstonJunkratD.VaZenyatta,,JunkratMccree,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Numbani,Attack, BOS, NYE,2:09,32,4,4,2,0,B,MccreeZenyattaZenyattaWinstonMercyTracerJunkratWinston,TracerWinston,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Numbani,Attack, BOS, NYE,3:00,49,4,6,3,4,R,GenjiMccreeJunkratWinstonGenjiMccreeWinstonMercyD.VaZenyatta,ZenyattaMercyGenji,JunkratZenyattaMccreeMercy,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Numbani,Attack, BOS, NYE,4:17,30,5,6,2,2,B,ZenyattaTracerMccreeMercyZenyattaMercyD.VaGenjiJunkratD.VaWinston,TracerWinston,JunkratMccree,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Numbani,Attack, BOS, NYE,5:29,26,1,3,3,2,B,MccreeGenjiWinstonGenji,MercyTracerGenji,WinstonZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Numbani,Attack, BOS, NYE,6:33,28,3,5,0,1,R,ZenyattaTracerMccreeZenyattaWinstonJunkratZenyattaD.Va,,Junkrat,MccreeTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Numbani,Attack, BOS, NYE,7:11,19,1,4,1,1,R,TracerMercyWinstonD.VaD.Va,Tracer,Mccree,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Numbani,Defense, BOS, NYE,0:47,4,0,2,0,0,R,AnaSoldier: 76,,,Soldier: 76TracerAnaMercyD.VaWinston,MccreePharahMercyZenyattaD.VaWinston
+Numbani,Defense, BOS, NYE,1:04,30,3,7,2,2,R,WinstonMercyMccreeAnaWinstonMccreeSoldier: 76D.VaWinstonTracer,AnaTracer,MercyPharah,Soldier: 76TracerAnaMercyD.VaWinston,MccreePharahMercyZenyattaD.VaWinston
+Numbani,Defense, BOS, NYE,2:36,8,0,5,0,0,R,MercyD.VaTracerWinstonZenyatta,,,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Junkertown,Attack, VAL, DAL,0:11,27,6,1,0,0,B,ZenyattaWidowmakerWidowmakerOrisaJunkratZenyattaMercy,,,BastionHanzoWidowmakerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, VAL, DAL,0:58,27,7,2,1,1,R,WidowmakerHanzoJunkratRoadhogWidowmakerOrisaZenyattaMercyWidowmaker,Mercy,Widowmaker,BastionHanzoWidowmakerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, VAL, DAL,2:12,15,0,6,1,2,R,BastionOrisaWidowmakerRoadhogHanzoMercy,Hanzo,RoadhogJunkrat,BastionHanzoWidowmakerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, VAL, DAL,3:08,41,6,5,3,5,R,RoadhogJunkratRoadhogWidowmakerTracerOrisaJunkratOrisaRoadhogRoadhogWidowmaker,MercyOrisaJunkrat,MercyZenyattaOrisaWidowmakerRoadhog,JunkratTracerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, VAL, DAL,4:06,41,5,3,0,2,B,JunkratOrisaZenyattaJunkratWidowmakerOrisaRoadhogWidowmaker,,WidowmakerJunkrat,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, VAL, DAL,5:00,60,6,4,5,4,B,JunkratOrisaWidowmakerZenyattaRoadhogJunkratMercyMercyWidowmakerWidowmaker,JunkratWidowmakerZenyattaOrisaRoadhog,MercyZenyattaRoadhogWidowmaker,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, VAL, DAL,6:16,6,1,1,1,1,R,JunkratOrisa,Mercy,Orisa,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, VAL, DAL,6:29,21,5,1,1,1,B,JunkratRoadhogJunkratWidowmakerMercyOrisa,Roadhog,Junkrat,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Defense, VAL, DAL,0:20,17,0,6,0,0,R,BastionWidowmakerOrisaRoadhogD.VaBastion,,,BastionWidowmakerMercyD.VaOrisaRoadhog,BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown,Defense, VAL, DAL,1:17,14,0,5,0,2,R,OrisaMercyRoadhogZenyattaWidowmaker,,WidowmakerHanzo,JunkratWidowmakerMercyZenyattaOrisaRoadhog,BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown,Defense, VAL, DAL,1:56,21,2,8,1,2,R,JunkratRoadhogOrisaJunkratRoadhogRoadhogWidowmakerZenyattaMercyOrisa,Mercy,BastionMercy,JunkratWidowmakerMercyZenyattaOrisaRoadhog,BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown,Defense, VAL, DAL,2:44,91,4,17,5,6,B,WidowmakerRoadhogOrisaWidowmakerJunkratMercyOrisaWidowmakerZenyattaMercyBastionWinstonD.VaMercyWidowmakerTracerGenjiZenyattaWinstonD.VaMercy,JunkratZenyattaWidowmakerOrisaZenyatta,OrisaRoadhogWidowmakerMercyRoadhogHanzo,JunkratWidowmakerMercyZenyattaOrisaRoadhog,BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown,Attack, VAL, DAL,0:16,28,6,2,0,0,B,OrisaHanzoMercyWidowmakerRoadhogJunkratZenyattaMercy,,,BastionHanzoWidowmakerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, VAL, DAL,1:13,15,7,2,1,0,B,OrisaWidowmakerOrisaRoadhogRoadhogJunkratOrisaMercyZenyatta,Bastion,,BastionHanzoWidowmakerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, VAL, DAL,1:55,35,8,4,4,3,B,RoadhogJunkratRoadhogHanzoBastionD.VaRoadhogHanzoD.VaWidowmakerMercyZenyatta,WidowmakerHanzoMercyOrisa,ZenyattaMercyWidowmaker,BastionHanzoWidowmakerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Junkertown,Attack, VAL, DAL,3:06,7,2,0,1,0,B,RoadhogD.Va,Bastion,,BastionWidowmakerTracerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Junkertown,Attack, VAL, DAL,3:45,17,5,2,1,2,B,D.VaTracerWidowmakerMercyZenyattaJunkratMercy,Widowmaker,JunkratRoadhog,BastionWidowmakerTracerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Junkertown,Defense, VAL, DAL,0:21,11,1,4,0,0,R,BastionMercyWidowmakerOrisaReinhardt,,,BastionWidowmakerMercyZenyattaOrisaReinhardt,BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown,Defense, VAL, DAL,0:57,31,2,7,1,1,R,WidowmakerWidowmakerOrisaZenyattaD.VaMercyJunkratWidowmakerWidowmaker,Widowmaker,Mercy,JunkratWidowmakerMercyZenyattaD.VaOrisa,BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown,Defense, VAL, DAL,1:44,38,7,3,2,4,R,RoadhogBastionJunkratRoadhogWidowmakerBastionWidowmakerOrisaHanzoMercy,MercyZenyatta,WidowmakerRoadhogHanzoBastion,JunkratWidowmakerMercyZenyattaOrisaRoadhog,BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown,Defense, VAL, DAL,2:43,8,2,0,1,0,B,JunkratZenyatta,Junkrat,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Defense, VAL, DAL,3:16,27,2,6,0,0,R,MercyWidowmakerWidowmakerRoadhogOrisaJunkratZenyattaOrisa,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Defense, VAL, DAL,4:12,0,1,1,0,0,R,ZenyattaJunkrat,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Defense, VAL, DAL,4:19,24,0,4,1,1,R,OrisaRoadhogWidowmakerJunkrat,Orisa,Roadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Defense, VAL, DAL,4:58,1,0,1,1,0,R,Widowmaker,Widowmaker,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Defense, VAL, DAL,5:11,26,4,7,4,5,B,WidowmakerJunkratJunkratOrisaMercyRoadhogRoadhogOrisaZenyattaZenyattaWidowmaker,ZenyattaMercyRoadhogJunkrat,ZenyattaMercyJunkratOrisaWidowmaker,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, VAL, DAL,0:08,10,1,3,0,0,R,HanzoOrisaWinstonBastion,,,BastionHanzoWidowmakerMercyOrisaRoadhog,LucioMoiraD.VaRoadhogWinstonZarya
+Junkertown,Attack, VAL, DAL,0:49,19,6,1,1,1,B,ZaryaWinstonD.VaLucioWidowmakerMoiraRoadhog,Widowmaker,Moira,BastionWidowmakerReaperMercyOrisaRoadhog,LucioMoiraD.VaRoadhogWinstonZarya
+Junkertown,Attack, VAL, DAL,1:42,16,5,1,1,0,B,D.VaTracerMercyMercyZenyattaGenji,Bastion,,BastionWidowmakerReaperMercyOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, VAL, DAL,2:31,18,5,0,1,0,B,TracerWinstonMercyZenyattaD.Va,Orisa,,BastionWidowmakerReaperMercyOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, VAL, DAL,3:12,19,2,5,3,3,B,WinstonWidowmakerBastionReaperMercyOrisaRoadhog,WidowmakerMercyReaper,GenjiZenyattaTracer,BastionWidowmakerReaperMercyOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, VAL, DAL,0:07,31,2,4,0,0,R,MercyBastionOrisaGenjiWinstonTracer,,,GenjiTracerMercyZenyattaD.VaWinston,BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown,Defense, VAL, DAL,1:05,17,1,6,1,1,B,JunkratWinstonMercyD.VaZenyattaTracerGenji,Tracer,Roadhog,GenjiTracerMercyZenyattaD.VaWinston,BastionJunkratTracerMercyOrisaRoadhog
+Junkertown,Defense, VAL, DAL,1:42,5,1,1,0,0,B,JunkratWinston,,,GenjiTracerMercyZenyattaD.VaWinston,BastionJunkratTracerMercyOrisaRoadhog
+Horizon Lunar Colony,Attack, VAL, DAL,0:32,17,5,0,0,0,B,LucioReinhardtMoiraD.VaTracer,,,GenjiTracerMercyZenyattaD.VaWinston,TracerLucioMoiraD.VaReinhardtRoadhog
+Horizon Lunar Colony,Attack, VAL, DAL,1:23,21,7,2,3,2,R,WinstonWinstonTracerTracerMercyD.VaWinstonZenyattaRoadhog,TracerMercyGenji,TracerRoadhog,GenjiTracerMercyZenyattaD.VaWinston,TracerMercyZenyattaD.VaRoadhogWinston
+Horizon Lunar Colony,Defense, VAL, DAL,0:32,19,0,6,0,0,R,MercyOrisaTracerD.VaZenyattaWidowmaker,,,WidowmakerTracerMercyZenyattaD.VaOrisa,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Defense, VAL, DAL,1:06,13,1,6,0,1,B,LucioPharahTracerZenyattaD.VaMercyWinston,,Moira,PharahTracerMercyZenyattaD.VaWinston,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Attack, VAL, DAL,0:27,12,0,2,0,0,R,WinstonReaper,,,ReaperTracerMercyZenyattaD.VaWinston,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Attack, VAL, DAL,1:04,47,6,4,3,2,R,MercyZenyattaZaryaGenjiLucioReinhardtD.VaD.VaMoiraRoadhog,ZenyattaTracerWinston,MoiraReinhardt,GenjiTracerMercyZenyattaD.VaWinston,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Attack, VAL, DAL,2:17,17,0,2,1,1,R,MercyZenyatta,Tracer,Lucio,GenjiTracerMercyZenyattaD.VaWinston,JunkratSoldier: 76LucioZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, VAL, DAL,3:17,74,16,1,5,4,B,MercyJunkratGenjiZenyattaD.VaWinstonZenyattaMeiMercyD.VaWinstonMeiTracerZenyattaD.VaWinstonTracer,MercyGenjiZenyattaWinstonTracer,WinstonSoldier: 76MercyZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratSoldier: 76MercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, VAL, DAL,0:17,21,0,6,0,0,R,D.VaTracerWinstonGenjiZenyattaMercy,,,GenjiTracerMercyZenyattaD.VaWinston,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Defense, VAL, DAL,1:00,23,5,1,1,1,B,LucioMoiraZaryaReinhardtD.VaRoadhog,Genji,Moira,GenjiTracerMercyZenyattaD.VaWinston,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Defense, VAL, DAL,1:54,43,3,5,4,6,R,WinstonGenjiRoadhogGenjiZaryaZenyattaLucioTracer,TracerMercyZenyattaWinston,ReinhardtLucioRoadhogZaryaReinhardtMoira,GenjiTracerMercyZenyattaD.VaWinston,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Defense, VAL, DAL,3:14,30,4,8,1,2,R,ZenyattaMercyZenyattaGenjiMercyTracerD.VaWinstonGenjiMercyTracerD.Va,Tracer,TracerWidowmaker,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, VAL, DAL,4:02,3,3,0,1,0,B,WidowmakerMercyZenyatta,Zenyatta,,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, VAL, DAL,4:46,32,5,3,2,3,B,ZenyattaZenyattaZenyattaMercyZenyattaGenjiWinstonD.Va,MercyTracer,MercyWinstonTracer,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, VAL, DAL,5:42,14,2,1,3,1,R,WinstonD.VaWinston,WinstonGenjiZenyatta,Zenyatta,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, VAL, DAL,6:21,9,3,1,1,2,B,Soldier: 76MercyWinstonZenyatta,Tracer,Soldier: 76Tracer,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, VAL, DAL,0:07,29,4,2,0,0,B,MoiraZaryaWinstonD.VaReinhardtGenji,,,GenjiTracerAnaMercyD.VaWinston,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Defense, VAL, DAL,0:50,22,0,7,2,1,R,AnaAnaD.VaMercyWinstonGenjiTracer,AnaTracer,Moira,GenjiTracerAnaMercyD.VaWinston,WidowmakerLucioMoiraD.VaReinhardtRoadhog
+Horizon Lunar Colony,Defense, VAL, DAL,1:40,24,6,3,4,3,R,GenjiReinhardtWinstonRoadhogMoiraZenyattaLucioWidowmakerD.Va,TracerGenjiMercyTracer,RoadhogLucioReinhardt,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerLucioMoiraD.VaReinhardtRoadhog
+Horizon Lunar Colony,Attack, VAL, DAL,0:12,14,0,2,0,0,R,TracerD.Va,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratSoldier: 76TracerMercyD.VaOrisa
+Horizon Lunar Colony,Attack, VAL, DAL,0:48,20,2,6,0,0,R,ZenyattaMercyMercyTracerWinstonD.VaJunkratGenji,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratSoldier: 76TracerMercyD.VaOrisa
+Horizon Lunar Colony,Attack, VAL, DAL,1:47,8,0,3,1,2,R,WinstonTracerMercy,Tracer,MercyJunkrat,GenjiTracerMercyZenyattaD.VaWinston,JunkratSoldier: 76TracerMercyD.VaOrisa
+Horizon Lunar Colony,Attack, VAL, DAL,2:25,32,7,2,4,2,R,GenjiOrisaD.VaSoldier: 76TracerJunkratD.VaMercySoldier: 76,MercyWinstonGenjiZenyatta,Soldier: 76Tracer,GenjiTracerMercyZenyattaD.VaWinston,JunkratSoldier: 76TracerMercyD.VaOrisa
+Horizon Lunar Colony,Attack, VAL, DAL,3:22,29,3,5,2,4,B,OrisaTracerGenjiD.VaD.VaWinstonTracerMercy,TracerGenji,TracerMercyJunkratOrisa,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaOrisa
+Ilios,Lighthouse, VAL, DAL,0:24,24,7,0,0,0,B,LucioTracerD.VaLucioWinstonPharahMercy,,,PharahTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Lighthouse, VAL, DAL,1:12,27,4,1,1,1,R,ZenyattaMercyWinstonTracerMercy,Tracer,Tracer,PharahTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Lighthouse, VAL, DAL,2:09,43,8,2,5,4,R,TracerPharahZenyattaLucioTracerMercyWinstonD.VaPharahLucio,MercyWinstonZenyattaPharahTracer,MercyWinstonLucioTracer,PharahTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Ruins, VAL, DAL,0:20,10,0,5,0,0,R,D.VaWinstonZenyattaMercyWidowmaker,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios,Ruins, VAL, DAL,0:52,13,2,2,1,2,R,WinstonZenyattaTracerGenji,Tracer,MercyWidowmaker,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios,Ruins, VAL, DAL,1:18,21,0,4,1,1,R,WidowmakerTracerD.VaWinston,Zenyatta,Winston,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios,Ruins, VAL, DAL,2:01,38,6,5,3,2,B,MercyZenyattaZenyattaMercyWidowmakerWidowmakerGenjiWinstonD.VaD.VaWidowmaker,WidowmakerWinstonTracer,GenjiWidowmaker,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios,Ruins, VAL, DAL,2:54,23,3,7,0,1,R,WidowmakerD.VaZenyattaMercyZenyattaWidowmakerTracerMercyD.VaWinston,,Zenyatta,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios,Ruins, VAL, DAL,3:39,45,6,2,2,2,B,ZenyattaWidowmakerWidowmakerZenyattaMercyWidowmakerZenyattaD.Va,ZenyattaTracer,WinstonGenji,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios,Ruins, VAL, DAL,4:36,26,6,0,3,2,B,WidowmakerMercyGenjiD.VaZenyattaWinston,MercyWinstonWidowmaker,WidowmakerZenyatta,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaWinston
+Numbani,Attack, VAL, DAL,0:30,15,4,5,0,0,B,D.VaWinstonWinstonMercyZenyattaTorbjörnPharahMercyTracer,,,PharahTracerMercyZenyattaD.VaWinston,TorbjörnSoldier: 76SombraMercyD.VaWinston
+Numbani,Attack, VAL, DAL,1:20,17,6,2,0,1,B,D.VaWinstonWinstonSombraD.VaSoldier: 76MercyTorbjörn,,Sombra,PharahTracerMercyZenyattaD.VaWinston,TorbjörnSoldier: 76SombraMercyD.VaWinston
+Numbani,Attack, VAL, DAL,2:10,27,5,1,2,0,B,MercyZenyattaTracerD.VaWidowmakerSoldier: 76,PharahMercy,,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Attack, VAL, DAL,2:51,31,2,4,2,4,B,WinstonD.VaD.VaWinstonMercyGenji,TracerZenyatta,WinstonMercySoldier: 76Zenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Attack, VAL, DAL,3:50,9,2,0,0,0,B,Soldier: 76D.Va,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Attack, VAL, DAL,4:16,47,11,2,5,3,B,MccreeZaryaZenyattaZenyattaMercyMccreeWinstonZaryaJunkratMercyWinstonTracerZenyatta,TracerMercyGenjiWinstonTracer,JunkratWinstonMercy,GenjiTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaWinstonZarya
+Numbani,Defense, VAL, DAL,0:15,6,2,0,0,0,B,Soldier: 76Genji,,,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiSoldier: 76LucioMercyD.VaWinston
+Numbani,Defense, VAL, DAL,0:49,73,11,9,6,4,R,Soldier: 76WinstonZenyattaD.VaMercyD.VaSoldier: 76TracerD.VaLucioGenjiSoldier: 76MercyZenyattaLucioSoldier: 76MercyGenjiWinstonD.Va,TracerMercyWinstonSoldier: 76ZenyattaTracer,MercyWinstonGenjiLucio,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiSoldier: 76LucioMercyD.VaWinston
+Numbani,Defense, VAL, DAL,2:28,36,6,3,3,2,R,ZenyattaMercyD.VaLucioSoldier: 76GenjiSoldier: 76WinstonD.Va,WinstonMercyZenyatta,Soldier: 76Winston,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiSoldier: 76LucioMercyD.VaWinston
+Numbani,Defense, VAL, DAL,3:34,23,6,1,2,1,B,GenjiWinstonGenjiZenyattaSoldier: 76LucioD.Va,Soldier: 76Winston,Mercy,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiSoldier: 76LucioMercyD.VaWinston
+Dorado,Attack, FLA, BOS,0:48,25,5,1,3,1,B,AnaD.VaWinstonTracerWinstonMercy,WidowmakerMercyTracer,Ana,WidowmakerTracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Dorado,Attack, FLA, BOS,1:53,0,0,1,0,0,R,Tracer,,,WidowmakerTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado,Attack, FLA, BOS,2:26,15,0,4,0,2,R,ZenyattaMercyWidowmakerD.Va,,WinstonSoldier: 76,WidowmakerTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado,Attack, FLA, BOS,3:17,25,6,4,3,2,B,D.VaWidowmakerSoldier: 76ZenyattaD.VaWinstonZenyattaWidowmakerZenyattaTracer,WinstonMercyTracer,MercyTracer,WidowmakerTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado,Attack, FLA, BOS,4:20,41,8,1,4,2,B,MercyWinstonTracerTracerD.VaZenyattaSoldier: 76MercyWinston,ZenyattaTracerWidowmakerMercy,ZenyattaSoldier: 76,WidowmakerTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado,Attack, FLA, BOS,5:24,14,0,3,1,1,R,WinstonWidowmakerZenyatta,Winston,Winston,WidowmakerTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Attack, FLA, BOS,6:16,7,0,2,0,0,R,MercyWinston,,,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Attack, FLA, BOS,6:51,40,2,7,3,2,R,MccreeWinstonMercyZenyattaMccreeWinstonTracerWinstonD.Va,MercyZenyattaTracer,MercyWinston,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Attack, FLA, BOS,7:57,25,2,7,2,3,R,ZenyattaJunkratD.VaZenyattaMercyTracerWinstonZenyattaWinston,WinstonTracer,ZenyattaGenjiTracer,JunkratTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, FLA, BOS,0:22,39,2,7,0,1,B,HanzoTracerTracerAnaMercyAnaD.VaWinstonSoldier: 76,,Mercy,Soldier: 76TracerAnaMercyD.VaWinston,HanzoTracerMercyZenyattaD.VaWinston
+Dorado,Defense, FLA, BOS,1:22,35,1,8,1,2,B,HanzoAnaTracerSoldier: 76MercyWinstonD.VaAnaTracer,Mercy,ZenyattaTracer,Soldier: 76TracerAnaMercyD.VaWinston,HanzoTracerMercyZenyattaD.VaWinston
+Dorado,Defense, FLA, BOS,2:28,27,2,7,0,1,B,GenjiZenyattaD.VaSoldier: 76ZenyattaZenyattaMercyWidowmakerWinston,,Tracer,WidowmakerSoldier: 76MercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, FLA, BOS,3:19,55,1,10,3,5,B,GenjiSoldier: 76D.VaWidowmakerZenyattaSoldier: 76WinstonMercyD.VaTracerMercy,WidowmakerMercyWinston,GenjiMercyWinstonZenyattaTracer,WidowmakerSoldier: 76MercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Dorado,Defense, FLA, BOS,4:38,29,3,8,3,2,B,ZenyattaWinstonSoldier: 76MercyZenyattaMercyGenjiTracerD.VaWinstonSoldier: 76,ZenyattaSoldier: 76Tracer,GenjiWinston,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, FLA, BOS,0:14,0,0,1,0,0,R,Tracer,,,WidowmakerPharahTracerMercyD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, FLA, BOS,0:42,21,2,3,0,0,B,MercyTracerWidowmakerPharahWinston,,,WidowmakerPharahTracerMercyD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, FLA, BOS,1:28,15,6,1,0,0,B,MercyZenyattaD.VaWidowmakerGenjiWinstonTracer,,,WidowmakerPharahTracerMercyD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, FLA, BOS,2:08,39,0,8,4,3,R,TracerPharahReaperPharahWinstonMercyD.VaTracer,MercyTracerWinstonPharah,ZenyattaGenjiMercy,PharahReaperTracerMercyD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, FLA, BOS,3:39,15,0,5,0,1,R,WinstonMercySombraReaperD.Va,,Tracer,ReaperSombraTracerMercyD.VaWinston,ReaperTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, FLA, BOS,4:32,67,11,8,5,3,R,SombraWinstonZenyattaD.VaWinstonReaperTracerWinstonMercyZenyattaD.VaReaperMercySombraTracerD.VaLucioWinstonTracer,MercySombraReaperTracerWinston,MercyZenyattaWinston,ReaperSombraTracerMercyD.VaWinston,ReaperTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, FLA, BOS,6:07,32,8,2,2,2,B,ZenyattaD.VaReaperD.VaMercyWinstonTracerTracerZenyattaD.Va,SombraMercy,ReaperTracer,ReaperSombraTracerMercyD.VaWinston,ReaperTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, FLA, BOS,6:42,26,5,1,2,0,B,WinstonMeiTracerD.VaZenyattaLucio,WinstonReaper,,ReaperSombraTracerMercyD.VaWinston,MeiTracerLucioZenyattaD.VaWinston
+Temple of Anubis,Defense, FLA, BOS,0:16,0,0,1,0,0,R,Tracer,,,JunkratTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, FLA, BOS,0:46,21,1,6,0,2,R,TracerMercyWinstonD.VaJunkratMercyZenyatta,,TracerWidowmaker,JunkratTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, FLA, BOS,1:25,4,1,1,2,0,R,ZenyattaWinston,JunkratMercy,,JunkratTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, FLA, BOS,1:45,15,2,2,0,1,R,WinstonZenyattaWinstonTracer,,Widowmaker,JunkratTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, FLA, BOS,2:08,22,2,2,4,1,R,JunkratTracerWinstonWinston,ZenyattaTracerWinstonJunkrat,Winston,JunkratTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, FLA, BOS,3:16,0,1,0,0,0,B,Tracer,,,JunkratTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, FLA, BOS,3:49,12,2,1,3,0,R,ZenyattaMercyWinston,MercyTracerZenyatta,,JunkratTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, FLA, BOS,4:18,25,1,7,0,4,R,JunkratZenyattaWinstonTracerJunkratMercyD.VaSombra,,MercyZenyattaGenjiWinston,JunkratSombraTracerMercyD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, FLA, BOS,0:16,13,2,1,0,0,B,GenjiPharahTracer,,,WidowmakerPharahTracerMercyD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Attack, FLA, BOS,0:59,16,3,6,0,0,R,WidowmakerTracerMercyPharahZenyattaWinstonMercyTracerD.Va,,,WidowmakerPharahTracerMercyD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, FLA, BOS,0:21,0,0,1,0,0,R,Tracer,,,JunkratTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, FLA, BOS,0:37,15,3,1,0,0,B,MercyWidowmakerJunkratZenyatta,,,JunkratTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, FLA, BOS,1:10,29,1,7,4,4,R,ZenyattaTracerZenyattaD.VaJunkratZenyattaMercyTracer,JunkratMercyWinstonTracer,MercyTracerZenyattaWinston,JunkratTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Oasis,University, FLA, BOS,0:16,14,0,6,0,0,R,MccreeZenyattaMercyRoadhogOrisaJunkrat,,,JunkratMccreeMercyZenyattaOrisaRoadhog,MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis,University, FLA, BOS,1:00,21,6,1,1,2,R,LucioMoiraRoadhogLucioReinhardtZaryaMccree,Junkrat,MoiraMccree,JunkratReaperLucioMercyOrisaRoadhog,MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis,University, FLA, BOS,1:48,11,3,5,1,1,B,LucioMoiraMercyJunkratReinhardtReaperOrisaRoadhog,Junkrat,Zarya,JunkratReaperLucioMercyOrisaRoadhog,MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis,University, FLA, BOS,2:26,32,1,4,3,5,R,RoadhogLucioZaryaJunkratRoadhog,MercyOrisaReaper,MccreeRoadhogReinhardtLucioMoira,JunkratReaperLucioMercyOrisaRoadhog,MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis,University, FLA, BOS,3:08,28,2,6,3,3,R,LucioMccreeTracerMercyOrisaZaryaRoadhogReaper,LucioRoadhogMercy,ZaryaMccreeRoadhog,ReaperTracerLucioMercyOrisaRoadhog,MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis,City Center, FLA, BOS,0:14,17,0,5,0,0,R,ZenyattaRoadhogSoldier: 76MercyWinston,,,Soldier: 76TracerMercyZenyattaRoadhogWinston,MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis,City Center, FLA, BOS,1:09,26,2,7,1,4,B,ReinhardtSoldier: 76ReinhardtReinhardtMccreeZenyattaReaperZaryaReinhardt,Mercy,MoiraMccreeZaryaRoadhog,ReaperSoldier: 76MercyZenyattaReinhardtZarya,MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis,City Center, FLA, BOS,2:09,35,2,8,4,5,R,Soldier: 76ReinhardtZaryaZaryaZenyattaMercyReinhardtReaperZaryaSoldier: 76,ZaryaZenyattaReaperReinhardt,LucioMoiraReinhardtMccreeRoadhog,ReaperSoldier: 76MercyZenyattaReinhardtZarya,MccreeLucioMoiraReinhardtRoadhogZarya
+Eichenwalde,Attack, FLA, BOS,0:33,0,1,1,0,0,B,WinstonZenyatta,,,PharahTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Eichenwalde,Attack, FLA, BOS,0:58,47,10,4,2,1,B,WinstonZenyattaMercyWinstonD.VaLucioZenyattaD.VaTracerPharahWinstonLucioMercyD.Va,MercyTracer,Tracer,PharahTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Eichenwalde,Attack, FLA, BOS,2:01,65,9,4,4,4,B,WinstonTracerZenyattaMercyWinstonPharahLucioPharahZenyattaMercyD.VaWinstonTracer,WinstonTracerZenyattaMercy,MercyWinstonLucioPharah,PharahTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Eichenwalde,Attack, FLA, BOS,3:32,2,0,3,0,0,R,ZenyattaTracerWinston,,,PharahTracerMercyZenyattaD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Attack, FLA, BOS,4:15,8,0,4,1,0,R,ZenyattaPharahWinstonMercy,Tracer,,PharahTracerMercyZenyattaD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Attack, FLA, BOS,4:53,26,5,1,3,2,B,ZenyattaMercyMccreePharahD.VaWinston,WinstonZenyattaTracer,WinstonTracer,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Attack, FLA, BOS,5:47,16,3,5,1,0,R,D.VaWinstonWinstonD.VaMccreeZenyattaZenyattaWinston,Mccree,,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Attack, FLA, BOS,6:18,9,2,1,0,1,B,WinstonMercyTracer,,Tracer,MccreeSoldier: 76TracerMercyZenyattaWinston,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Attack, FLA, BOS,6:33,19,3,3,2,2,B,ZenyattaD.VaMccreeLucioZenyattaPharah,WinstonTracer,MercyWinston,MccreeSoldier: 76TracerLucioZenyattaWinston,PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde,Defense, FLA, BOS,0:13,10,4,0,0,0,B,PharahMercyWinstonLucio,,,JunkratMccreeMercyZenyattaOrisaRoadhog,PharahTracerLucioMercyD.VaWinston
+Eichenwalde,Defense, FLA, BOS,1:01,8,0,6,0,0,R,RoadhogJunkratZenyattaMercyOrisaMccree,,,JunkratMccreeMercyZenyattaOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Eichenwalde,Defense, FLA, BOS,1:38,12,3,3,0,1,B,MercyZenyattaD.VaTracerGenjiMccree,,Winston,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Eichenwalde,Defense, FLA, BOS,2:15,20,1,8,1,2,R,TracerMccreeZenyattaMercyWinstonZenyattaZenyattaD.VaMccree,Mercy,MercyTracer,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Eichenwalde,Defense, FLA, BOS,3:02,3,2,3,0,1,B,MercyZenyattaMercyMccreeD.Va,,Zenyatta,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Eichenwalde,Defense, FLA, BOS,3:08,25,2,3,3,2,R,TracerWinstonZenyattaWinstonD.Va,WinstonTracerMccree,TracerZenyatta,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Eichenwalde,Defense, FLA, BOS,3:42,16,0,5,1,2,R,MccreeZenyattaWinstonTracerMercy,Zenyatta,GenjiWinston,MccreeTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SFS, SHD,0:30,22,5,2,0,0,B,JunkratWidowmakerOrisaHanzoRoadhogRoadhogMercy,,,BastionHanzoWidowmakerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, SFS, SHD,1:18,3,2,0,0,0,B,RoadhogOrisa,,,BastionHanzoWidowmakerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, SFS, SHD,1:50,44,8,1,4,2,B,RoadhogOrisaZenyattaMercyOrisaWidowmakerRoadhogZenyattaHanzo,HanzoOrisaBastionRoadhog,ZenyattaWidowmaker,BastionHanzoWidowmakerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown,Attack, SFS, SHD,2:42,19,1,4,1,1,R,WidowmakerRoadhogBastionWinstonOrisa,Widowmaker,Junkrat,BastionWidowmakerTracerMercyOrisaRoadhog,JunkratWidowmakerMercyZenyattaD.VaWinston
+Junkertown,Attack, SFS, SHD,3:26,14,3,0,0,0,B,D.VaWidowmakerZenyatta,,,WidowmakerTracerMercyZenyattaD.VaOrisa,JunkratWidowmakerMercyZenyattaD.VaWinston
+Junkertown,Attack, SFS, SHD,3:58,11,2,1,2,1,B,WidowmakerWinstonTracer,WidowmakerTracer,Mercy,WidowmakerTracerMercyZenyattaD.VaOrisa,WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SFS, SHD,4:31,33,6,6,3,3,R,ZenyattaWidowmakerZenyattaMercyMercyZenyattaWinstonD.VaD.VaOrisaWidowmakerTracer,ZenyattaOrisaTracer,ZenyattaWinstonTracer,WidowmakerTracerMercyZenyattaD.VaOrisa,WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SFS, SHD,5:26,0,0,1,0,0,R,Widowmaker,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SFS, SHD,5:35,15,1,2,0,0,R,WidowmakerTracerWinston,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SFS, SHD,6:14,43,4,6,4,3,B,TracerZenyattaWinstonWinstonWinstonGenjiD.VaMccreeZenyattaMercy,TracerMercyZenyattaWinston,MercyZenyattaTracer,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SFS, SHD,7:27,12,0,2,1,1,R,TracerZenyatta,Tracer,Winston,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SFS, SHD,7:59,26,1,6,1,3,R,GenjiWinstonMercyWinstonZenyattaD.VaTracer,Genji,MercyTracerWidowmaker,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, SFS, SHD,0:11,0,1,0,0,0,B,Widowmaker,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,BastionWidowmakerMccreeMercyD.VaOrisa
+Junkertown,Defense, SFS, SHD,0:40,8,5,1,0,0,B,OrisaWidowmakerMercyRoadhogMccreeBastion,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,BastionWidowmakerMccreeMercyD.VaOrisa
+Junkertown,Defense, SFS, SHD,1:19,9,1,1,1,0,B,BastionZenyatta,Junkrat,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,BastionWidowmakerMccreeMercyD.VaOrisa
+Junkertown,Defense, SFS, SHD,1:57,5,1,0,2,0,B,D.Va,WidowmakerRoadhog,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,WidowmakerMccreeMercyZenyattaD.VaOrisa
+Junkertown,Defense, SFS, SHD,2:13,40,6,1,3,3,R,ZenyattaWidowmakerZenyattaMccreeD.VaOrisaZenyatta,OrisaMercyJunkrat,WidowmakerMccreeMercy,JunkratWidowmakerMercyZenyattaOrisaRoadhog,WidowmakerMccreeMercyZenyattaD.VaOrisa
+Junkertown,Defense, SFS, SHD,3:34,19,1,6,3,2,R,WidowmakerMercyZenyattaWinstonJunkratOrisaRoadhog,ZenyattaWidowmakerOrisa,ZenyattaTracer,JunkratWidowmakerMercyZenyattaOrisaRoadhog,WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, SFS, SHD,4:24,27,4,2,0,0,B,WinstonMercyZenyattaJunkratWidowmakerTracer,,,JunkratWidowmakerMercyZenyattaD.VaOrisa,WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, SFS, SHD,5:18,37,5,3,2,4,R,JunkratWidowmakerJunkratZenyattaD.VaWidowmakerZenyattaMercy,MercyZenyatta,MercyWidowmakerWinstonTracer,JunkratTracerMercyZenyattaD.VaOrisa,WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, SFS, SHD,6:21,27,1,5,1,1,B,MccreeMercyOrisaTracerD.VaJunkrat,Junkrat,Zenyatta,JunkratTracerMercyZenyattaD.VaOrisa,MccreeTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, SFS, SHD,7:10,27,7,2,5,4,B,WinstonTracerWinstonTracerZenyattaOrisaMccreeMercyD.Va,OrisaTracerMercyJunkratZenyatta,TracerMercyMccreeWinston,JunkratTracerMercyZenyattaD.VaOrisa,MccreeTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, SFS, SHD,0:11,0,0,1,0,0,R,Tracer,,,WidowmakerTracerMercyZenyattaD.VaWinston,JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony,Attack, SFS, SHD,0:36,0,0,1,0,0,R,D.Va,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony,Attack, SFS, SHD,1:08,25,1,4,0,1,R,D.VaWidowmakerMercyWinstonZenyatta,,Widowmaker,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony,Attack, SFS, SHD,2:00,28,3,7,4,3,R,GenjiMercyWidowmakerJunkratAnaD.VaTracerGenjiWinstonZenyatta,MercyTracerGenjiWinston,JunkratMercyAna,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony,Attack, SFS, SHD,2:59,10,0,2,0,1,R,MercyZenyatta,,Orisa,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony,Attack, SFS, SHD,3:46,15,2,3,1,3,R,TracerOrisaGenjiLucioAna,Zenyatta,MercyJunkratWidowmaker,GenjiTracerLucioZenyattaD.VaWinston,JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony,Defense, SFS, SHD,0:13,0,1,0,0,0,B,Sombra,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony,Defense, SFS, SHD,1:06,33,4,7,1,1,R,ZenyattaWinstonJunkratOrisaLucioMoiraMercyRoadhogSombraWidowmakerMoira,Widowmaker,Tracer,JunkratWidowmakerMercyZenyattaOrisaRoadhog,SombraTracerLucioMoiraD.VaWinston
+Ilios,Lighthouse, SFS, SHD,0:14,16,4,0,0,0,B,MccreeMercyD.VaWinston,,,PharahTracerLucioMercyD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, SFS, SHD,1:00,0,1,0,0,0,B,Tracer,,,PharahTracerLucioMercyD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, SFS, SHD,1:20,61,4,10,5,5,R,TracerWinstonD.VaMercyPharahMercyZenyattaWinstonWinstonD.VaPharahLucioD.VaWinston,MercyPharahWinstonLucioTracer,MccreeZenyattaWinstonMercyTracer,PharahTracerLucioMercyD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, SFS, SHD,2:43,10,0,4,0,1,R,MercyLucioWinstonPharah,,Mccree,PharahTracerLucioMercyD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, SFS, SHD,3:15,23,6,1,1,2,B,ZenyattaD.VaTracerMccreeMercyTracerWinston,Pharah,WinstonTracer,PharahTracerLucioMercyD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, SFS, SHD,3:55,24,7,1,4,2,B,MercyMccreeTracerWinstonZenyattaD.VaTracerWinston,WinstonMercyTracerLucio,ZenyattaMercy,PharahTracerLucioMercyD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, SFS, SHD,0:33,9,3,0,0,0,B,WinstonD.VaWidowmaker,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, SFS, SHD,1:12,43,8,3,5,4,B,WinstonWidowmakerZenyattaD.VaZenyattaWidowmakerZenyattaMercyWidowmakerWinstonTracer,TracerWinstonMercyZenyattaWidowmaker,MercyTracerWinstonWidowmaker,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, SFS, SHD,2:20,35,8,2,1,1,B,WinstonTracerWinstonZenyattaWinstonWidowmakerMercyWidowmakerD.VaTracer,Widowmaker,Zenyatta,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Numbani,Attack, SFS, SHD,0:34,12,2,3,0,0,R,WinstonSoldier: 76Soldier: 76ZenyattaWinston,,,PharahSoldier: 76MercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Numbani,Attack, SFS, SHD,1:30,36,1,6,2,3,B,WinstonWinstonZenyattaSoldier: 76PharahD.VaWinston,Soldier: 76Pharah,Soldier: 76AnaTracer,PharahSoldier: 76MercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Numbani,Attack, SFS, SHD,2:43,19,5,0,0,3,B,TracerSoldier: 76MercyWinstonD.Va,,Soldier: 76WinstonAna,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Numbani,Attack, SFS, SHD,3:23,0,0,1,0,0,R,Tracer,,,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Numbani,Attack, SFS, SHD,3:39,15,2,3,2,2,B,WinstonSoldier: 76TracerD.VaWinston,WinstonZenyatta,TracerMercy,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Numbani,Attack, SFS, SHD,4:12,28,5,1,2,2,B,TracerZenyattaD.VaSoldier: 76WinstonAna,TracerMercy,AnaSoldier: 76,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerAnaMercyD.VaWinston
+Numbani,Attack, SFS, SHD,5:05,27,6,0,2,3,B,WinstonD.VaTracerSoldier: 76MercyZenyatta,Soldier: 76Tracer,WinstonTracerMercy,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, SFS, SHD,5:58,55,7,4,4,3,R,Soldier: 76TracerWinstonZenyattaWinstonSoldier: 76TracerD.VaMercyZenyattaWinston,WinstonMercyZenyattaSoldier: 76,Soldier: 76TracerZenyatta,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, SHD,0:59,11,0,3,1,1,R,WinstonTracerSoldier: 76,Soldier: 76,Soldier: 76,Soldier: 76TracerAnaMercyD.VaWinston,PharahSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, SFS, SHD,1:41,7,2,2,2,2,R,Soldier: 76D.VaAnaPharah,MercyAna,PharahMercy,Soldier: 76TracerAnaMercyD.VaWinston,PharahSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, SFS, SHD,2:05,7,2,1,0,0,B,ZenyattaPharahMercy,,,Soldier: 76TracerAnaMercyD.VaWinston,PharahSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, SFS, SHD,2:29,3,1,0,0,0,B,Winston,,,Soldier: 76TracerAnaMercyD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, SHD,2:56,7,2,2,1,1,B,D.VaD.VaTracerTracer,Winston,Soldier: 76,Soldier: 76TracerAnaMercyD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, SHD,3:23,31,7,1,3,3,B,TracerSoldier: 76Soldier: 76D.VaZenyattaSoldier: 76WinstonTracer,MercySoldier: 76Tracer,ZenyattaMercyWinston,Soldier: 76TracerAnaMercyD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, SHD,4:29,8,0,6,1,2,R,WinstonSoldier: 76AnaD.VaMercyTracer,Ana,Soldier: 76Tracer,Soldier: 76TracerAnaMercyD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, SHD,5:06,18,6,0,1,0,B,MercyZenyattaSoldier: 76TracerWinstonD.Va,Tracer,,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, SHD,5:56,48,5,2,3,4,B,TracerWinstonTracerD.VaTracerWinstonD.Va,WinstonTracerSoldier: 76,ZenyattaMercySoldier: 76Winston,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, SHD,7:18,15,5,2,1,1,B,ZenyattaSoldier: 76MercyZenyattaD.VaWinstonTracer,Mercy,Tracer,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, SFS, SHD,7:54,42,7,2,4,3,B,TracerWinstonSoldier: 76D.VaWinstonMercyTracerD.VaZenyatta,TracerZenyattaWinstonSoldier: 76,Soldier: 76MercyZenyatta,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Junkertown,Attack, LDN, PHI,0:30,2,2,0,0,0,B,ReinhardtJunkrat,,,WidowmakerReaperAnaMercyD.VaReinhardt,JunkratWidowmakerMercyZenyattaD.VaReinhardt
+Junkertown,Attack, LDN, PHI,1:03,12,5,0,0,0,B,ReinhardtWidowmakerMercyZenyattaD.Va,,,WidowmakerReaperAnaMercyD.VaReinhardt,JunkratWidowmakerMercyZenyattaD.VaReinhardt
+Junkertown,Attack, LDN, PHI,1:34,4,3,0,0,0,B,WidowmakerWinstonMercy,,,WidowmakerReaperAnaMercyD.VaReinhardt,JunkratWidowmakerMercyZenyattaD.VaWinston
+Junkertown,Attack, LDN, PHI,2:09,7,2,0,2,1,B,WidowmakerGenji,AnaReinhardt,Mercy,WidowmakerReaperAnaMercyD.VaReinhardt,WidowmakerGenjiMercyZenyattaD.VaWinston
+Junkertown,Attack, LDN, PHI,2:25,23,5,1,1,1,B,ZenyattaD.VaWidowmakerMercyWidowmakerGenji,Reaper,Zenyatta,WidowmakerReaperAnaMercyD.VaReinhardt,WidowmakerGenjiMercyZenyattaD.VaWinston
+Junkertown,Attack, LDN, PHI,3:24,13,2,0,0,1,B,GenjiWinston,,Widowmaker,MccreeReaperAnaMercyD.VaReinhardt,WidowmakerGenjiMercyZenyattaD.VaWinston
+Junkertown,Attack, LDN, PHI,4:03,30,1,8,3,3,R,MccreeReaperGenjiD.VaMercyMccreeReinhardtAnaReaper,AnaMercyReaper,MercyZenyattaGenji,MccreeReaperAnaMercyD.VaReinhardt,WidowmakerGenjiMercyZenyattaD.VaReinhardt
+Junkertown,Attack, LDN, PHI,5:02,27,4,4,1,1,B,MercyWidowmakerReinhardtZenyattaReinhardtGenjiMccreeZenyatta,Reinhardt,Reinhardt,GenjiMccreeLucioZenyattaD.VaReinhardt,WidowmakerGenjiMercyZenyattaD.VaReinhardt
+Junkertown,Attack, LDN, PHI,6:09,18,0,4,1,0,R,MccreeZenyattaMccreeD.Va,Mccree,,GenjiMccreeMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaReinhardt
+Junkertown,Attack, LDN, PHI,7:00,1,1,0,1,0,B,Reinhardt,Zenyatta,,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaReinhardt
+Junkertown,Attack, LDN, PHI,7:06,56,9,3,3,3,R,GenjiD.VaMercyReinhardtMercyGenjiGenjiZenyattaMccreeReinhardtD.VaMercy,WinstonTracerZenyatta,WidowmakerReinhardtGenji,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerGenjiMercyZenyattaD.VaReinhardt
+Junkertown,Defense, LDN, PHI,0:07,0,0,1,0,0,R,Lucio,,,LucioMoiraD.VaReinhardtRoadhogZarya,JunkratWidowmakerMercyZenyattaD.VaReinhardt
+Junkertown,Defense, LDN, PHI,0:33,7,2,0,0,0,B,ReinhardtZenyatta,,,LucioMoiraD.VaReinhardtRoadhogZarya,JunkratWidowmakerMercyZenyattaD.VaReinhardt
+Junkertown,Defense, LDN, PHI,1:15,19,3,2,2,1,R,LucioZenyattaJunkratReinhardtZarya,ReinhardtRoadhog,Zenyatta,LucioMoiraD.VaReinhardtRoadhogZarya,JunkratWidowmakerMercyZenyattaD.VaReinhardt
+Junkertown,Defense, LDN, PHI,1:55,17,0,5,0,0,R,LucioReinhardtD.VaWidowmakerRoadhog,,,WidowmakerLucioMoiraD.VaReinhardtRoadhog,WidowmakerTracerMercyZenyattaD.VaReinhardt
+Junkertown,Defense, LDN, PHI,2:44,19,1,6,0,0,R,MercyJunkratZenyattaWinstonMoiraTracerD.Va,,,JunkratTracerMercyMoiraD.VaWinston,WidowmakerTracerMercyZenyattaD.VaReinhardt
+Junkertown,Defense, LDN, PHI,3:22,9,0,1,0,2,R,Winston,,WidowmakerReinhardt,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaReinhardt
+Junkertown,Defense, LDN, PHI,3:42,73,6,12,3,2,R,TracerZenyattaZenyattaWidowmakerMercyReinhardtWinstonWidowmakerD.VaTracerZenyattaMercyTracerTracerWinstonD.VaZenyattaGenji,TracerGenjiWinston,ZenyattaTracer,GenjiTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaReinhardt
+Junkertown,Defense, LDN, PHI,5:18,53,7,5,4,4,R,WinstonSoldier: 76D.VaSoldier: 76TracerMercySoldier: 76MercyZenyattaZenyattaTracerReinhardt,MercyTracerGenjiZenyatta,MercyReinhardtZenyattaTracer,GenjiTracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaReinhardt
+Junkertown,Defense, LDN, PHI,6:38,10,4,1,2,0,B,ZenyattaZenyattaTracerMccreeMercy,WinstonTracer,,GenjiTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaReinhardt
+Junkertown,Defense, LDN, PHI,7:13,20,6,1,0,0,B,ZenyattaMercyWinstonWinstonTracerD.VaGenji,,,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, LDN, PHI,7:53,27,2,6,0,1,R,ZenyattaZenyattaMercyWinstonZenyattaGenjiD.VaTracer,,Mercy,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, LDN, PHI,8:40,9,3,1,4,1,B,MercyGenjiWinstonMercy,GenjiZenyattaWinstonTracer,Zenyatta,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, LDN, PHI,0:19,41,0,6,0,1,R,RoadhogMoiraReinhardtD.VaLucioZarya,,Widowmaker,LucioMoiraD.VaReinhardtRoadhogZarya,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Horizon Lunar Colony,Attack, LDN, PHI,1:33,32,0,5,0,1,R,LucioReinhardtTracerZaryaD.Va,,Junkrat,TracerLucioMoiraD.VaReinhardtZarya,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Horizon Lunar Colony,Attack, LDN, PHI,2:45,9,0,2,1,1,R,ReinhardtLucio,Zarya,Zenyatta,LucioMoiraD.VaReinhardtRoadhogZarya,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Horizon Lunar Colony,Attack, LDN, PHI,3:43,32,8,2,2,3,B,OrisaJunkratZenyattaReinhardtJunkratD.VaWidowmakerZenyattaMercyOrisa,LucioReinhardt,OrisaMercyJunkrat,GenjiTracerLucioZenyattaD.VaReinhardt,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Horizon Lunar Colony,Attack, LDN, PHI,4:41,4,1,0,0,0,B,Genji,,,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, LDN, PHI,4:59,77,13,6,4,4,B,MercyZenyattaMercyWinstonZenyattaGenjiD.VaGenjiTracerWinstonMercyMoiraGenjiTracerZenyattaTracerD.VaWinstonD.Va,ZenyattaGenjiWinstonMercy,ZenyattaWinstonMercyTracer,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, LDN, PHI,7:46,2,0,3,0,0,R,WinstonMercySoldier: 76,,,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyMoiraD.VaWinston
+Horizon Lunar Colony,Attack, LDN, PHI,8:19,0,1,0,0,0,B,Genji,,,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, LDN, PHI,8:33,8,4,0,1,0,B,TracerWinstonZenyattaD.Va,Soldier: 76,,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, LDN, PHI,0:16,0,1,0,0,0,B,Tracer,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony,Defense, LDN, PHI,0:39,0,1,0,0,0,B,Tracer,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony,Defense, LDN, PHI,0:58,0,1,0,0,0,B,Winston,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,WidowmakerGenjiLucioMercyD.VaWinston
+Horizon Lunar Colony,Defense, LDN, PHI,1:32,0,1,0,0,0,B,D.Va,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,WidowmakerGenjiLucioMercyD.VaWinston
+Horizon Lunar Colony,Defense, LDN, PHI,1:47,6,4,0,0,0,B,GenjiMercyLucioWinston,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony,Defense, LDN, PHI,2:14,0,1,0,0,0,B,Tracer,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony,Defense, LDN, PHI,2:32,20,4,0,2,1,B,MercyLucioD.VaGenji,JunkratWidowmaker,Mercy,JunkratWidowmakerMercyZenyattaOrisaRoadhog,GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony,Defense, LDN, PHI,3:17,19,5,1,3,1,B,TracerWinstonOrisaD.VaMercyGenji,RoadhogZenyattaOrisa,Winston,JunkratWidowmakerMercyZenyattaOrisaRoadhog,GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony,Defense, LDN, PHI,4:05,14,4,0,3,1,B,GenjiLucioMercyWinston,MercyJunkratWidowmaker,Lucio,JunkratWidowmakerMercyZenyattaOrisaRoadhog,GenjiTracerLucioMercyD.VaWinston
+Ilios,Well, LDN, PHI,0:37,63,12,6,3,2,R,WinstonLucioMercyMccreePharahZenyattaMercyD.VaWinstonLucioWinstonD.VaMercyLucioPharahD.VaTracerWinston,TracerMccreeTracer,TracerMercy,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, LDN, PHI,2:08,17,2,1,1,0,B,TracerWinstonTracer,Winston,,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, LDN, PHI,2:41,0,1,0,0,0,B,Tracer,,,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Well, LDN, PHI,3:08,84,12,4,6,5,R,ZenyattaMercyWinstonD.VaTracerWinstonD.VaD.VaTracerWinstonLucioMercyTracerD.VaPharahWinston,MccreeTracerMercyWinstonMccreeTracer,WinstonPharahLucioTracerMercy,MccreeTracerMercyZenyattaD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Ruins, LDN, PHI,0:23,11,3,0,0,0,B,WidowmakerWinstonTracer,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, LDN, PHI,1:05,0,1,0,0,0,B,Tracer,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, LDN, PHI,1:22,14,3,0,0,0,B,MercyTracerWidowmaker,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, LDN, PHI,1:55,38,4,2,2,3,B,MercyTracerZenyattaWidowmakerTracerWinston,WidowmakerWinston,WidowmakerMercyWinston,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Numbani,Attack, LDN, PHI,0:31,49,6,4,1,2,R,TracerMercyDoomfistZenyattaAnaWinstonSoldier: 76MercyMercyWinston,Winston,AnaGenji,Soldier: 76TracerMercyZenyattaD.VaWinston,DoomfistGenjiAnaMercyD.VaWinston
+Numbani,Attack, LDN, PHI,1:27,20,5,1,2,0,B,MercyMoiraZenyattaWinstonGenjiD.Va,ZenyattaTracer,,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiSoldier: 76MercyMoiraD.VaWinston
+Numbani,Attack, LDN, PHI,2:38,34,4,3,5,3,R,WinstonD.VaWinstonSoldier: 76Soldier: 76ZenyattaD.Va,MercyWinstonSoldier: 76TracerZenyatta,MercyWinstonSoldier: 76,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Attack, LDN, PHI,3:30,10,4,0,0,0,B,TracerWinstonZenyattaMercy,,,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Numbani,Attack, LDN, PHI,4:04,31,7,1,3,0,B,WinstonWinstonD.VaTracerGenjiZenyattaMercyWinston,TracerMercyWinston,,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Numbani,Defense, LDN, PHI,0:24,16,4,3,0,0,R,WinstonMercyWinstonAnaMercyD.VaTracer,,,Soldier: 76TracerAnaMercyD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Numbani,Defense, LDN, PHI,1:15,1,2,0,0,0,B,TracerZenyatta,,,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Numbani,Defense, LDN, PHI,1:24,11,1,0,1,0,B,D.Va,Tracer,,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Numbani,Defense, LDN, PHI,2:02,39,6,2,2,2,B,ZenyattaWinstonZenyattaZenyattaWinstonMercyTracerGenji,MercySoldier: 76,MercyTracer,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Numbani,Defense, LDN, PHI,3:11,22,3,0,3,4,B,MercyZenyattaWinston,TracerZenyattaWinston,WinstonZenyattaGenjiTracer,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Numbani,Defense, LDN, PHI,4:05,17,6,0,3,1,B,GenjiWinstonD.VaTracerD.VaMercy,Soldier: 76TracerMercy,Mercy,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerLucioMercyD.VaWinston
+Numbani,Defense, LDN, PHI,5:31,5,4,0,0,1,B,GenjiWinstonD.VaTracer,,Mercy,Soldier: 76TracerMercyZenyattaD.VaWinston,GenjiTracerLucioMercyD.VaWinston
+Junkertown,Attack, NYE, HOU,7:42,58,8,6,4,5,R,WinstonMccreeMercyWinstonD.VaD.VaJunkratJunkratWinstonMccreeMercyWinstonMercyMccree,WinstonJunkratMccreeZenyatta,MercyJunkratZenyattaMccreeWinston,JunkratMccreeMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Junkertown,Attack, NYE, HOU,6:48,6,0,3,0,1,R,JunkratMercyD.Va,,Zenyatta,JunkratMccreeMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaWinston
+Junkertown,Attack, NYE, HOU,5:50,26,2,6,1,2,R,JunkratTracerJunkratD.VaMccreeWinstonMercyZenyatta,Zenyatta,WinstonMercy,JunkratMccreeMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, NYE, HOU,4:25,36,8,1,5,2,B,D.VaWinstonGenjiD.VaWinstonMercyJunkratZenyattaTracer,MercyGenjiTracerZenyattaWinston,JunkratZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, NYE, HOU,2:55,37,5,6,2,2,B,ZenyattaJunkratGenjiTracerZenyattaZenyattaMercyJunkratTracerD.VaWinston,ZenyattaWinston,MercyJunkrat,GenjiTracerMercyZenyattaD.VaWinston,JunkratTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, NYE, HOU,2:22,12,6,0,3,0,B,MercyZenyattaOrisaJunkratWidowmakerD.Va,GenjiMercyTracer,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Junkertown,Attack, NYE, HOU,0:14,0,0,1,0,0,R,Mercy,,,BastionHanzoWidowmakerMercyOrisaRoadhog,JunkratWidowmakerMercyD.VaOrisaRoadhog
+Junkertown,Attack, NYE, HOU,0:29,0,0,2,0,0,R,HanzoWidowmaker,,,BastionHanzoWidowmakerMercyOrisaRoadhog,JunkratWidowmakerMercyD.VaOrisaRoadhog
+Junkertown,Attack, NYE, HOU,1:16,26,6,3,0,3,B,WidowmakerMercyMercyOrisaTracerJunkratD.VaRoadhogGenji,,WidowmakerJunkratRoadhog,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyD.VaOrisaRoadhog
+Junkertown,Defense, NYE, HOU,5:01,29,2,6,1,2,R,ZenyattaJunkratD.VaWinstonMercyD.VaTracerJunkrat,Junkrat,ZenyattaOrisa,JunkratTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaOrisa
+Junkertown,Defense, NYE, HOU,4:53,0,0,1,0,0,R,Junkrat,,,JunkratTracerMercyZenyattaD.VaWinston,JunkratMccreeMercyZenyattaD.VaOrisa
+Junkertown,Defense, NYE, HOU,4:14,17,3,6,0,2,R,JunkratZenyattaWidowmakerMercyOrisaWidowmakerZenyattaWinstonD.Va,,MercyJunkrat,JunkratWidowmakerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Junkertown,Defense, NYE, HOU,3:50,0,0,1,1,0,R,Widowmaker,Junkrat,,JunkratWidowmakerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaOrisa
+Junkertown,Defense, NYE, HOU,2:32,46,3,7,2,2,B,BastionHanzoRoadhogTracerWidowmakerMercyOrisaRoadhogZenyattaJunkrat,ZenyattaOrisa,BastionOrisa,JunkratWidowmakerMercyZenyattaOrisaRoadhog,BastionHanzoTracerMercyD.VaOrisa
+Junkertown,Defense, NYE, HOU,2:11,12,2,1,1,1,B,BastionTracerRoadhog,Widowmaker,Mercy,JunkratWidowmakerMercyZenyattaOrisaRoadhog,BastionHanzoTracerMercyD.VaOrisa
+Junkertown,Defense, NYE, HOU,0:33,52,3,7,0,1,R,WidowmakerBastionMercyBastionOrisaWidowmakerWidowmakerZenyattaRoadhogJunkrat,,Hanzo,JunkratWidowmakerMercyZenyattaOrisaRoadhog,BastionHanzoWidowmakerMercyD.VaOrisa
+Temple of Anubis,Attack, NYE, HOU,5:45,27,5,0,3,2,B,JunkratWinstonRoadhogZenyattaD.Va,GenjiZenyattaTracer,RoadhogZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis,Attack, NYE, HOU,4:36,4,0,2,0,0,R,TracerWinston,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis,Attack, NYE, HOU,5:18,22,3,2,3,3,B,JunkratGenjiD.VaD.VaRoadhog,MercyZenyattaWinston,JunkratMercyWinston,GenjiTracerMercyZenyattaD.VaWinston,JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis,Attack, NYE, HOU,4:06,10,0,1,0,1,R,Mercy,,Junkrat,GenjiTracerMercyZenyattaD.VaWinston,JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis,Attack, NYE, HOU,3:31,8,0,2,0,0,R,TracerWinston,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis,Attack, NYE, HOU,2:57,13,0,2,0,2,R,WinstonMercy,,RoadhogWinston,GenjiTracerMercyZenyattaD.VaWinston,JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis,Attack, NYE, HOU,1:43,24,2,3,4,3,R,GenjiJunkratJunkratGenjiWinston,MercyGenjiWinstonZenyatta,MercyJunkratZenyatta,GenjiTracerMercyZenyattaD.VaWinston,JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis,Attack, NYE, HOU,0:42,17,7,1,0,0,B,JunkratSoldier: 76WinstonWidowmakerOrisaD.VaJunkratMercy,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerSoldier: 76MercyD.VaOrisa
+Temple of Anubis,Attack, NYE, HOU,1:20,0,0,1,0,0,R,Tracer,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis,Defense, NYE, HOU,6:54,62,7,9,3,2,R,ZenyattaZenyattaGenjiWinstonD.VaMercyZenyattaTracerReaperGenjiMercyMeiPharahD.VaSoldier: 76Winston,GenjiWinstonTracer,ZenyattaWinston,GenjiTracerMercyZenyattaD.VaWinston,PharahReaperMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, NYE, HOU,6:32,7,1,2,1,2,B,ZenyattaGenjiD.Va,Mercy,PharahMercy,GenjiTracerMercyZenyattaD.VaWinston,PharahReaperMercyZenyattaD.VaWinston
+Temple of Anubis,Defense, NYE, HOU,5:42,15,5,2,1,1,B,ZenyattaMercyWinstonRoadhogZenyattaD.VaTracer,Tracer,Roadhog,GenjiTracerMercyZenyattaD.VaWinston,PharahReaperMercyZenyattaD.VaRoadhog
+Temple of Anubis,Defense, NYE, HOU,4:39,21,5,0,0,0,B,PharahMercyZenyattaReaperD.Va,,,GenjiTracerMercyZenyattaD.VaWinston,PharahReaperMercyZenyattaD.VaRoadhog
+Temple of Anubis,Defense, NYE, HOU,3:02,10,2,2,0,0,B,MercyD.VaJunkratZenyatta,,,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Temple of Anubis,Defense, NYE, HOU,3:35,40,5,2,3,4,B,JunkratMercyZenyattaZenyattaRoadhogJunkratWidowmaker,ZenyattaGenjiTracer,JunkratRoadhogMercyWidowmaker,GenjiTracerMercyZenyattaD.VaWinston,JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Temple of Anubis,Defense, NYE, HOU,1:37,50,5,8,5,4,R,MercyRoadhogWidowmakerRoadhogZenyattaJunkratZenyattaWidowmakerRoadhogMercyD.VaOrisaJunkrat,RoadhogJunkratOrisaZenyattaMercy,ZenyattaMercyRoadhogWidowmaker,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Temple of Anubis,Defense, NYE, HOU,0:44,27,7,1,1,0,R,JunkratRoadhogJunkratZenyattaWidowmakerRoadhogD.VaMercy,Widowmaker,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Ilios,Well, NYE, HOU,3:49,43,8,4,5,4,R,ZenyattaMccreeTracerZenyattaWinstonD.VaTracerZenyattaMccreeD.VaMercyWinston,MercyMccreeTracerZenyattaWinston,TracerZenyattaWinstonMercy,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Well, NYE, HOU,3:14,9,0,3,0,1,R,MccreeTracerMercy,,Mccree,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Well, NYE, HOU,2:19,28,1,5,1,2,R,ZenyattaMccreeZenyattaWinstonD.VaTracer,Winston,MercyZenyatta,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Well, NYE, HOU,1:22,36,5,3,3,1,B,MccreeMercyD.VaMccreeTracerMccreeZenyattaD.Va,TracerMercyMccree,Tracer,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Well, NYE, HOU,0:36,20,6,3,0,0,R,ZenyattaWinstonWinstonMccreeTracerMercyTracerD.VaZenyatta,,,MccreeTracerMercyZenyattaD.VaWinston,MccreeTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, NYE, HOU,2:56,35,7,1,2,2,B,WidowmakerTracerD.VaWidowmakerWidowmakerTracerMercyWinston,WinstonTracer,TracerWidowmaker,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, NYE, HOU,1:55,34,1,4,2,2,B,ZenyattaD.VaZenyattaWinstonTracer,TracerZenyatta,MercyWinston,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, NYE, HOU,1:05,20,3,1,2,1,R,WidowmakerD.VaZenyattaWinston,WidowmakerMercy,Widowmaker,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, NYE, HOU,0:54,0,0,1,0,0,R,Widowmaker,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, NYE, HOU,0:18,20,6,1,0,0,R,WidowmakerWidowmakerMercyWinstonZenyattaD.VaTracer,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Numbani,Attack, NYE, HOU,4:00,21,4,1,3,2,B,TracerSoldier: 76MercyWinstonWinston,ZenyattaSoldier: 76Mercy,MercyWinston,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, NYE, HOU,3:11,28,3,5,1,2,R,WinstonD.VaMercySoldier: 76ZenyattaZenyattaMercySoldier: 76,Winston,Soldier: 76Tracer,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, NYE, HOU,2:40,5,1,3,1,0,R,ZenyattaSoldier: 76PharahWinston,Pharah,,MccreePharahMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, NYE, HOU,2:20,5,3,2,2,2,R,MercyTracerD.VaMccreeWinston,MercyZenyatta,TracerMercy,MccreePharahMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, NYE, HOU,0:45,15,4,0,0,0,B,D.VaMercyPharahAna,,,MccreePharahMercyZenyattaD.VaWinston,PharahTracerAnaMercyD.VaWinston
+Numbani,Attack, NYE, HOU,1:38,8,6,0,0,0,B,Soldier: 76MercyTracerWinstonZenyattaD.Va,,,MccreePharahMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Attack, NYE, HOU,0:22,0,1,0,0,0,B,Ana,,,MccreePharahMercyZenyattaD.VaWinston,PharahTracerAnaMercyD.VaWinston
+Numbani,Defense, NYE, HOU,0:14,0,1,0,0,0,B,Soldier: 76,,,JunkratMccreeMercyZenyattaD.VaWinston,PharahSoldier: 76AnaMercyD.VaWinston
+Numbani,Defense, NYE, HOU,0:31,17,0,6,0,0,R,MccreeZenyattaJunkratMercyWinstonD.Va,,,JunkratMccreeMercyZenyattaD.VaWinston,PharahSoldier: 76AnaMercyD.VaWinston
+Numbani,Defense, NYE, HOU,1:33,11,0,2,0,1,R,WinstonD.Va,,Mercy,Soldier: 76TracerMercyZenyattaD.VaWinston,PharahSoldier: 76AnaMercyD.VaWinston
+Numbani,Defense, NYE, HOU,2:10,26,7,1,3,4,B,PharahTracerMercySoldier: 76D.VaPharahAnaWinston,ZenyattaMercyWinston,PharahAnaSoldier: 76Winston,Soldier: 76TracerMercyZenyattaD.VaWinston,PharahSoldier: 76AnaMercyD.VaWinston
+Numbani,Defense, NYE, HOU,3:04,24,4,1,2,0,R,WinstonMercyZenyattaD.VaSoldier: 76,TracerSoldier: 76,,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, NYE, HOU,4:18,48,6,3,4,5,R,Soldier: 76WinstonWinstonD.VaSoldier: 76WinstonZenyattaMercyTracer,ZenyattaMercyTracerWinston,Soldier: 76TracerMercyZenyattaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani,Defense, NYE, HOU,5:32,52,8,7,4,5,R,Soldier: 76WinstonSoldier: 76D.VaD.VaZenyattaMercySoldier: 76ZenyattaTracerZenyattaWinstonSoldier: 76D.VaTracer,ZenyattaTracerSoldier: 76Mercy,TracerSoldier: 76ZenyattaMercyTracer,Soldier: 76TracerMercyZenyattaD.VaWinston,Soldier: 76TracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SEO, GLA,7:23,17,6,0,2,2,B,WinstonD.VaTracerMercyGenjiMei,ZenyattaMercy,WinstonGenji,JunkratMccreeMercyZenyattaD.VaWinston,MeiGenjiTracerMercyD.VaWinston
+Junkertown,Attack, SEO, GLA,6:57,19,5,1,3,2,B,GenjiWinstonZenyattaMercyMccreeTracer,WinstonJunkratMccree,ZenyattaTracer,JunkratMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SEO, GLA,6:01,25,6,4,2,1,R,ZenyattaMercyWinstonWinstonJunkratTracerD.VaGenjiD.VaZenyatta,JunkratMercy,Tracer,JunkratMccreeMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SEO, GLA,5:04,28,3,5,3,3,B,TracerZenyattaGenjiMercyJunkratWidowmakerZenyattaRoadhog,WidowmakerRoadhogZenyatta,ZenyattaMercyGenji,JunkratWidowmakerMercyZenyattaRoadhogWinston,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SEO, GLA,4:12,30,2,4,1,1,R,JunkratWinstonOrisaZenyattaD.VaOrisa,Roadhog,Winston,JunkratWidowmakerMercyZenyattaOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SEO, GLA,3:17,26,5,1,4,1,B,MercyGenjiJunkratD.VaWinstonTracer,WidowmakerJunkratMercyOrisa,Genji,JunkratWidowmakerMercyZenyattaOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SEO, GLA,2:32,27,2,5,1,3,B,ZenyattaMeiWinstonJunkratMercyOrisaRoadhog,Mei,MercyTracerZenyatta,JunkratMeiWidowmakerMercyOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SEO, GLA,0:49,13,1,2,0,0,B,TracerOrisaMei,,,JunkratMeiWidowmakerMercyOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SEO, GLA,1:25,38,5,3,4,2,R,MercyZenyattaMercyOrisaD.VaWidowmakerGenjiWinston,WidowmakerMercyJunkratRoadhog,GenjiWinston,JunkratMeiWidowmakerMercyOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,6:52,47,3,12,4,5,R,ZenyattaMercyD.VaGenjiWinstonTracerTracerGenjiMercyZenyattaWinstonTracerMercyGenjiD.Va,WinstonMercyZenyattaGenji,MercyGenjiTracerZenyattaWinston,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,6:22,10,0,4,1,0,R,TracerGenjiMercyWinston,Tracer,,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,5:36,23,5,3,1,1,B,ZenyattaMercyD.VaGenjiGenjiWinstonWinstonD.Va,Genji,Winston,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,4:40,32,4,7,4,2,R,TracerD.VaWinstonTracerD.VaWinstonZenyattaMercyZenyattaWinstonTracer,MercyZenyattaWinstonTracer,ZenyattaGenji,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,3:47,24,4,1,2,0,R,WinstonZenyattaLucioGenjiD.Va,TracerGenji,,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerLucioZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,2:49,32,2,6,2,4,R,GenjiMercyTracerD.VaWinstonD.VaTracerZenyatta,WinstonZenyatta,TracerZenyattaGenjiWinston,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerLucioZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,1:21,9,0,6,0,0,R,GenjiWinstonTracerZenyattaMercyD.Va,,,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerLucioZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,2:00,32,1,8,2,2,R,ZenyattaD.VaZenyattaGenjiWinstonTracerMercyZenyattaD.Va,MercyTracer,LucioGenji,GenjiTracerMercyZenyattaD.VaWinston,GenjiTracerLucioZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,0:33,14,1,6,0,0,R,MercyRoadhogMeiGenjiJunkratOrisaWidowmaker,,,JunkratMeiWidowmakerMercyOrisaRoadhog,GenjiTracerLucioZenyattaD.VaWinston
+Junkertown,Attack, SEO, GLA,1:35,18,1,5,1,3,R,ZenyattaTracerWidowmakerJunkratMercyRoadhog,Widowmaker,MercyTracerGenji,JunkratWidowmakerMercyZenyattaOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Attack, SEO, GLA,0:47,16,5,1,0,0,B,TracerGenjiWinstonWidowmakerZenyattaMercy,,,JunkratWidowmakerMercyZenyattaOrisaRoadhog,GenjiTracerMercyZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,0:59,19,6,1,1,0,B,ZenyattaWinstonGenjiLucioTracerD.VaWidowmaker,Widowmaker,,JunkratWidowmakerMercyZenyattaD.VaWinston,GenjiTracerLucioZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,0:37,0,1,0,0,0,B,Zenyatta,,,JunkratWidowmakerMercyZenyattaD.VaWinston,GenjiTracerLucioZenyattaD.VaWinston
+Junkertown,Defense, SEO, GLA,0:08,0,1,0,0,0,B,Zenyatta,,,JunkratWidowmakerMercyZenyattaD.VaWinston,GenjiTracerLucioZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, SEO, GLA,1:01,39,8,1,3,1,B,GenjiWinstonD.VaWinstonTracerMeiZenyattaWinstonJunkrat,WidowmakerMercyTracer,Junkrat,WidowmakerTracerMercyZenyattaD.VaWinston,JunkratGenjiMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, SEO, GLA,0:28,29,4,2,0,1,B,WinstonD.VaTracerZenyattaMercySoldier: 76,,Soldier: 76,WidowmakerTracerMercyZenyattaD.VaWinston,JunkratSoldier: 76MercyZenyattaD.VaWinston
+Horizon Lunar Colony,Defense, SEO, GLA,7:36,78,6,15,5,5,B,AnaRoadhogWinstonTracerD.VaZenyattaWinstonMercyReaperD.VaTracerMeiReaperD.VaD.VaDoomfistLucioAnaSoldier: 76Soldier: 76Winston,TracerMercyWinstonReaperTracer,Soldier: 76WinstonAnaMercySoldier: 76,ReaperTracerMercyZenyattaD.VaWinston,Soldier: 76AnaMercyD.VaRoadhogWinston
+Horizon Lunar Colony,Defense, SEO, GLA,6:20,44,6,3,5,4,R,ReaperRoadhogD.VaTracerMercyRoadhogZenyattaWinstonAna,ReaperTracerZenyattaMercyWinston,MercySoldier: 76AnaRoadhog,ReaperTracerMercyZenyattaD.VaWinston,Soldier: 76AnaMercyD.VaRoadhogWinston
+Horizon Lunar Colony,Defense, SEO, GLA,5:32,1,1,1,0,0,B,MercyTracer,,,ReaperTracerMercyZenyattaD.VaWinston,Soldier: 76AnaMercyD.VaRoadhogWinston
+Horizon Lunar Colony,Defense, SEO, GLA,3:32,4,5,0,1,0,B,ReinhardtLucioMoiraZaryaRoadhog,Reaper,,ReaperTracerMercyZenyattaD.VaWinston,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Defense, SEO, GLA,4:21,30,6,2,3,5,B,RoadhogReaperReinhardtD.VaWinstonZaryaMoiraLucio,WinstonTracerMercy,RoadhogMoiraLucioReinhardtZarya,ReaperTracerMercyZenyattaD.VaWinston,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Defense, SEO, GLA,1:29,29,0,5,0,0,R,OrisaWidowmakerD.VaZenyattaMercy,,,WidowmakerTracerMercyZenyattaD.VaOrisa,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Defense, SEO, GLA,2:20,29,5,2,2,2,B,ZaryaReaperReinhardtZenyattaLucioMoiraRoadhog,TracerMercy,MoiraLucio,ReaperTracerMercyZenyattaD.VaWinston,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Defense, SEO, GLA,0:29,12,5,2,1,0,B,MoiraOrisaMercyLucioZaryaD.VaReinhardt,Tracer,,WidowmakerTracerMercyZenyattaD.VaOrisa,LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony,Attack, SEO, GLA,3:21,38,6,3,2,1,R,MoiraTracerMercyZenyattaWinstonTracerD.VaGenjiWinston,SombraTracer,Winston,SombraTracerLucioMoiraD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, SEO, GLA,2:59,2,0,1,0,1,R,Lucio,,Tracer,SombraTracerLucioMoiraD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, SEO, GLA,2:12,20,1,3,0,1,R,LucioTracerGenjiMoira,,Winston,SombraTracerLucioMoiraD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, SEO, GLA,1:12,30,3,6,1,1,R,LucioMercyTracerZenyattaSombraGenjiWinstonMoiraD.Va,Sombra,Tracer,SombraTracerLucioMoiraD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, SEO, GLA,0:55,0,0,1,0,0,R,Moira,,,SombraTracerLucioMoiraD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony,Attack, SEO, GLA,0:39,0,0,1,0,0,R,Winston,,,SombraTracerLucioMoiraD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, SEO, GLA,3:15,44,8,2,4,4,B,TracerWinstonWinstonZenyattaWidowmakerWidowmakerMercyTracerD.VaWinston,WinstonZenyattaWidowmakerMercy,WidowmakerZenyattaWinstonTracer,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, SEO, GLA,1:58,34,2,6,0,1,R,ZenyattaTracerWinstonZenyattaD.VaZenyattaTracerWidowmaker,,Mercy,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, SEO, GLA,1:15,33,3,1,3,2,B,WidowmakerMercyD.VaZenyatta,WidowmakerWinstonZenyatta,TracerZenyatta,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, SEO, GLA,0:57,9,1,1,0,0,B,WidowmakerMercy,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Ruins, SEO, GLA,0:26,14,3,0,0,0,B,MercyWinstonD.Va,,,WidowmakerTracerMercyZenyattaD.VaWinston,WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios,Lighthouse, SEO, GLA,4:20,40,6,3,2,2,R,TracerLucioD.VaMercyPharahWinstonD.VaLucioTracer,WinstonPharah,TracerTracer,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Lighthouse, SEO, GLA,4:09,0,1,0,0,0,B,Pharah,,,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Lighthouse, SEO, GLA,3:30,21,6,2,1,1,B,MercyMercyD.VaPharahLucioTracerD.VaWinston,Pharah,Winston,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Lighthouse, SEO, GLA,2:03,12,1,1,1,0,B,MercyLucio,Mercy,,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Lighthouse, SEO, GLA,2:18,30,0,6,2,3,R,PharahLucioMercyWinstonTracerD.Va,WinstonLucio,LucioWinstonTracer,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Lighthouse, SEO, GLA,1:12,29,6,2,2,2,B,TracerWinstonWinstonD.VaLucioWinstonMercyMercy,TracerPharah,TracerMercy,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Ilios,Lighthouse, SEO, GLA,0:20,30,3,7,0,0,B,WinstonTracerLucioD.VaMercyTracerWinstonD.VaMercyPharah,,,PharahTracerLucioMercyD.VaWinston,PharahTracerLucioMercyD.VaWinston
+Numbani,Attack, SEO, GLA,5:00,48,10,5,5,4,B,WinstonDoomfistJunkratWinstonMccreeDoomfistMccreeJunkratZenyattaMercyD.VaWinstonTracerDoomfistZenyatta,MccreeMercyJunkratZenyattaWinston,ZenyattaWinstonMercyDoomfist,JunkratMccreeMercyZenyattaD.VaWinston,DoomfistMccreeMercyZenyattaD.VaWinston
+Numbani,Attack, SEO, GLA,4:39,7,4,0,0,0,B,DoomfistZenyattaWinstonD.Va,,,JunkratMccreeMercyZenyattaD.VaWinston,DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Attack, SEO, GLA,3:49,20,1,5,3,3,R,LucioGenjiMccreeZenyattaMercyD.Va,LucioGenjiWinston,MercySoldier: 76Doomfist,GenjiMccreeLucioMercyD.VaWinston,DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Attack, SEO, GLA,3:19,10,0,2,0,0,R,MccreeD.Va,,,GenjiMccreeLucioMercyD.VaWinston,DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Attack, SEO, GLA,2:10,4,2,0,0,0,B,DoomfistWinston,,,GenjiPharahLucioMercyD.VaWinston,DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Attack, SEO, GLA,2:33,8,0,2,0,0,R,PharahMercy,,,GenjiPharahLucioMercyD.VaWinston,DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Attack, SEO, GLA,1:19,34,7,3,4,0,B,Soldier: 76DoomfistGenjiGenjiMercyZenyattaDoomfistWinstonD.VaMercy,GenjiMercyPharahWinston,,GenjiPharahLucioMercyD.VaWinston,DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Attack, SEO, GLA,0:26,24,6,1,0,0,R,DoomfistMercyWinstonDoomfistSoldier: 76AnaD.Va,,,DoomfistGenjiPharahMercyD.VaWinston,DoomfistSoldier: 76AnaMercyD.VaWinston
+Numbani,Attack, SEO, GLA,6:02,14,6,1,2,1,R,WinstonDoomfistWinstonD.VaTracerMercyZenyatta,TracerMercy,Tracer,Soldier: 76TracerMercyZenyattaD.VaWinston,DoomfistTracerMercyZenyattaD.VaWinston
+Numbani,Defense, SEO, GLA,0:50,18,7,2,0,0,B,WinstonSoldier: 76WinstonGenjiZenyattaD.VaMercyWidowmakerSoldier: 76,,,JunkratWidowmakerAnaMercyD.VaWinston,GenjiSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, SEO, GLA,1:40,4,1,1,1,1,B,GenjiAna,Mercy,Genji,JunkratWidowmakerAnaMercyD.VaWinston,GenjiSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, SEO, GLA,1:51,29,5,0,4,2,B,MercyD.VaSoldier: 76GenjiWinston,WidowmakerJunkratAnaWinston,MercyZenyatta,JunkratWidowmakerAnaMercyD.VaWinston,GenjiSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, SEO, GLA,2:59,22,6,3,2,2,B,Soldier: 76JunkratMercyD.VaD.VaJunkratZenyattaWinstonSoldier: 76,AnaMercy,Soldier: 76Winston,JunkratWidowmakerAnaMercyD.VaWinston,GenjiSoldier: 76MercyZenyattaD.VaWinston
+Numbani,Defense, SEO, GLA,3:41,29,6,1,3,2,B,TracerMercyGenjiWinstonD.VaJunkratZenyatta,WidowmakerJunkratWinston,GenjiZenyatta,JunkratWidowmakerAnaMercyD.VaWinston,GenjiTracerMercyZenyattaD.VaWinston

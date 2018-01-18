@@ -1,0 +1,716 @@
+Map	Roundtype	Blue Team	Red Team	time	len	KB	KR	UB	UR	FB	Death Sequence
+Dorado	Attack	 SFS	 VAL	7:54	4	1	1	2	2	B	GenjiMccree
+Dorado	Attack	 SFS	 VAL	6:49	38	1	6	2	4	R	ZenyattaTracerWinstonWinstonMercyMccreeD.Va
+Dorado	Attack	 SFS	 VAL	6:05	26	7	1	4	1	R	ZenyattaTracerWinstonD.VaMercyWinstonTracerZenyatta
+Dorado	Attack	 SFS	 VAL	4:54	19	2	4	0	0	R	MccreeTracerGenjiWinstonD.VaZenyatta
+Dorado	Attack	 SFS	 VAL	5:23	6	0	1	1	1	R	Mccree
+Dorado	Attack	 SFS	 VAL	4:05	18	6	0	1	0	B	D.VaZenyattaGenjiWidowmakerWinstonMercy
+Dorado	Attack	 SFS	 VAL	3:24	17	4	2	3	1	R	ZenyattaWinstonMercyD.VaGenjiMccree
+Dorado	Attack	 SFS	 VAL	2:14	28	7	2	3	3	B	GenjiGenjiTracerD.VaZenyattaMercyZenyattaGenjiWinston
+Dorado	Attack	 SFS	 VAL	1:51	7	0	1	1	0	R	Winston
+Dorado	Attack	 SFS	 VAL	1:05	24	1	6	2	3	B	WinstonZenyattaWinstonMccreeD.VaGenjiMccree
+Dorado	Attack	 SFS	 VAL	0:29	14	5	0	0	0	B	MercyZenyattaGenjiD.VaTracer
+Dorado	Defense	 SFS	 VAL	5:10	11	0	6	0	1	R	JunkratMccreeWinstonMercyZenyattaD.Va
+Dorado	Defense	 SFS	 VAL	5:47	4	0	3	2	1	R	ZenyattaWinstonMccree
+Dorado	Defense	 SFS	 VAL	4:07	37	7	2	4	4	B	TracerZenyattaZenyattaWinstonJunkratMercyZenyattaWinstonD.Va
+Dorado	Defense	 SFS	 VAL	3:18	30	1	7	2	2	B	D.VaMccreeZenyattaMccreeJunkratMercyWinstonD.Va
+Dorado	Defense	 SFS	 VAL	3:02	2	1	0	0	0	B	Genji
+Dorado	Defense	 SFS	 VAL	2:07	23	4	0	2	2	B	ZenyattaGenjiMercyWinston
+Dorado	Defense	 SFS	 VAL	1:44	15	2	1	2	1	B	GenjiMccreeTracer
+Dorado	Defense	 SFS	 VAL	0:58	23	2	8	2	3	B	WinstonWinstonZenyattaJunkratZenyattaMccreeJunkratD.VaWinstonMercy
+Dorado	Defense	 SFS	 VAL	0:15	5	2	0	0	0	B	GenjiWinston
+Temple of Anubis	Attack	 SFS	 VAL	2:22	88	16	6	9	6	B	MercyGenjiGenjiTracerGenjiZenyattaZenyattaMercyGenjiWinstonZenyattaMercyD.VaWinstonMercyTracerZenyattaGenjiD.VaLucioGenjiTracer
+Temple of Anubis	Attack	 SFS	 VAL	1:20	18	6	2	1	1	B	OrisaZenyattaWidowmakerGenjiJunkratZenyattaMercyD.Va
+Temple of Anubis	Attack	 SFS	 VAL	0:41	19	4	5	0	1	B	MercyWinstonTracerWidowmakerZenyattaD.VaJunkratMercyZenyatta
+Temple of Anubis	Defense	 SFS	 VAL	3:35	36	2	7	4	4	R	ZenyattaGenjiTracerMercyWinstonGenjiD.VaTracerMercy
+Temple of Anubis	Defense	 SFS	 VAL	2:43	27	4	0	2	0	B	JunkratZenyattaWidowmakerWinston
+Temple of Anubis	Defense	 SFS	 VAL	1:30	54	4	7	4	5	R	WinstonWinstonZenyattaZenyattaZenyattaMercyJunkratWinstonGenjiD.VaTracer
+Temple of Anubis	Defense	 SFS	 VAL	0:57	12	3	3	2	1	R	TracerGenjiWinstonWinstonZenyattaD.Va
+Temple of Anubis	Defense	 SFS	 VAL	0:25	3	2	1	0	0	B	WinstonGenjiMercy
+Temple of Anubis	Defense	 SFS	 VAL	2:30	67	0	16	3	6	R	ZenyattaGenjiZenyattaTracerWinstonGenjiD.VaMercyMoiraWinstonTracerD.VaLucioWinstonMoiraJunkrat
+Temple of Anubis	Defense	 SFS	 VAL	1:39	12	6	3	0	1	R	MercyWidowmakerMercyZenyattaZenyattaD.VaWinstonTracerWinston
+Temple of Anubis	Defense	 SFS	 VAL	0:32	29	1	6	0	1	B	D.VaTracerMercyWinstonWidowmakerZenyattaD.Va
+Temple of Anubis	Attack	 SFS	 VAL	5:03	32	4	5	3	3	B	WinstonZenyattaD.VaMercyTracerTracerZenyattaD.VaGenji
+Temple of Anubis	Attack	 SFS	 VAL	3:57	30	6	4	1	1	R	TracerZenyattaMercyJunkratWidowmakerZenyattaWinstonOrisaZenyattaD.Va
+Temple of Anubis	Attack	 SFS	 VAL	3:15	16	1	3	1	2	R	ZenyattaZenyattaMercyWinston
+Temple of Anubis	Attack	 SFS	 VAL	2:55	0	0	1	0	0	R	Genji
+Temple of Anubis	Attack	 SFS	 VAL	2:18	19	3	3	3	2	R	ZenyattaZenyattaGenjiMercyWidowmakerWinston
+Temple of Anubis	Attack	 SFS	 VAL	1:15	29	0	4	1	0	R	TracerWinstonMercyZenyatta
+Temple of Anubis	Attack	 SFS	 VAL	0:15	26	2	5	0	0	R	GenjiGenjiWidowmakerZenyattaWinstonTracerZenyatta
+Ilios	Lighthouse	 SFS	 VAL	4:05	6	0	1	1	0	R	Lucio
+Ilios	Lighthouse	 SFS	 VAL	4:29	29	7	0	4	3	B	ZenyattaWinstonTracerD.VaWinstonWinstonMercy
+Ilios	Lighthouse	 SFS	 VAL	3:39	8	0	2	1	0	R	WinstonMercy
+Ilios	Lighthouse	 SFS	 VAL	1:48	82	9	11	4	6	B	TracerD.VaPharahZenyattaZenyattaLucioPharahMercyMercyWinstonWinstonD.VaLucioMercyZenyattaTracerMercyWinstonPharahPharah
+Ilios	Lighthouse	 SFS	 VAL	0:19	4	2	0	0	0	B	WinstonMercy
+Ilios	Lighthouse	 SFS	 VAL	1:13	10	3	0	0	0	B	TracerMccreeWinston
+Ilios	Ruins	 SFS	 VAL	2:29	20	2	5	2	1	R	ZenyattaMercyWinstonWidowmakerD.VaZenyattaWidowmaker
+Ilios	Ruins	 SFS	 VAL	1:08	63	3	7	6	5	R	WinstonTracerD.VaZenyattaWidowmakerWinstonTracerD.VaZenyattaWidowmaker
+Ilios	Ruins	 SFS	 VAL	0:17	25	1	4	0	0	R	TracerWidowmakerZenyattaWidowmakerWidowmaker
+Ilios	Well	 SFS	 VAL	3:27	42	2	12	2	5	R	ZenyattaMccreeZenyattaMccreeWinstonMccreeGenjiMercyD.VaTracerZenyattaTracerSoldier: 76Winston
+Ilios	Well	 SFS	 VAL	2:33	25	1	4	3	1	R	ZenyattaMercyTracerTracerMccree
+Ilios	Well	 SFS	 VAL	1:35	27	0	7	2	3	R	ZenyattaMercyWinstonD.VaTracerZenyattaMccree
+Ilios	Well	 SFS	 VAL	1:07	22	4	1	2	0	B	MccreeWinstonWinstonMccreeD.Va
+Ilios	Well	 SFS	 VAL	0:21	20	6	1	0	0	B	ZenyattaMercyMccreeWinstonWinstonD.VaTracer
+Numbani	Attack	 SFS	 VAL	3:59	31	7	3	2	2	B	TracerZenyattaD.VaWinstonTracerZenyattaTracerWinstonZenyattaSoldier: 76
+Numbani	Attack	 SFS	 VAL	3:07	22	1	3	0	1	R	Soldier: 76Soldier: 76MercyTracer
+Numbani	Attack	 SFS	 VAL	2:10	23	1	6	4	4	B	WinstonMercyZenyattaWinstonD.VaTracerGenji
+Numbani	Attack	 SFS	 VAL	1:11	29	2	4	3	2	B	WinstonD.VaMercyWinstonTracerD.Va
+Numbani	Attack	 SFS	 VAL	0:25	19	2	5	0	0	R	ZenyattaWinstonMercyTracerGenjiD.VaTracer
+Numbani	Attack	 SFS	 VAL	5:23	27	1	6	1	2	R	TracerMccreeMercyWinstonZenyattaSoldier: 76D.Va
+Numbani	Attack	 SFS	 VAL	6:11	56	1	11	4	4	R	MccreeWinstonWinstonTracerZenyattaMccreeWinstonMercyTracerD.VaZenyattaWinston
+Numbani	Defense	 SFS	 VAL	0:19	18	3	1	0	0	B	ZenyattaSoldier: 76MercyZenyatta
+Numbani	Defense	 SFS	 VAL	1:01	50	1	10	3	3	R	Soldier: 76ZenyattaSoldier: 76D.VaMercyAnaWinstonD.VaTracerMercyWidowmaker
+Numbani	Defense	 SFS	 VAL	2:27	14	2	2	2	3	B	WinstonTracerD.VaWidowmaker
+Numbani	Defense	 SFS	 VAL	3:04	5	1	0	0	0	B	Mercy
+Numbani	Defense	 SFS	 VAL	3:18	6	0	1	0	0	R	Tracer
+Numbani	Defense	 SFS	 VAL	3:39	0	0	1	0	0	R	D.Va
+Dorado	Attack	 SHD	 GLA	1:02	33	3	5	4	2	B	DoomfistWinstonMercyWinstonWinstonDoomfistD.VaTracer
+Dorado	Attack	 SHD	 GLA	2:06	12	0	3	1	2	R	WidowmakerD.VaWinston
+Dorado	Attack	 SHD	 GLA	2:54	23	0	3	0	0	R	TracerMccreeZenyatta
+Dorado	Attack	 SHD	 GLA	3:44	31	1	7	4	3	B	WidowmakerMccreeMercyWinstonZenyattaMccreeD.VaTracer
+Dorado	Defense	 SHD	 GLA	0:19	23	1	6	0	1	R	ZenyattaTracerGenjiMercySoldier: 76WinstonD.Va
+Temple of Anubis	Attack	 SHD	 GLA	0:19	6	0	2	0	0	R	ZenyattaTracer
+Temple of Anubis	Attack	 SHD	 GLA	1:00	40	6	5	2	3	B	D.VaWidowmakerMercyZenyattaMercyAnaTracerGenjiWinstonD.VaD.Va
+Temple of Anubis	Attack	 SHD	 GLA	2:05	38	1	6	3	3	B	TracerWinstonReaperD.VaWinstonReaperZenyatta
+Temple of Anubis	Attack	 SHD	 GLA	3:14	13	1	3	0	1	R	WinstonZenyattaD.VaReaper
+Temple of Anubis	Attack	 SHD	 GLA	3:57	16	1	5	1	0	R	WinstonD.VaReaperMercyTracerZenyatta
+Temple of Anubis	Attack	 SHD	 GLA	4:43	24	1	5	0	1	R	MercyReaperTracerTracerD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA	5:27	46	3	6	5	4	B	D.VaTracerZenyattaJunkratWinstonReaperZenyattaWinstonMercy
+Temple of Anubis	Attack	 SHD	 GLA	6:51	6	1	4	1	0	R	MercyZenyattaD.VaTracerReaper
+Temple of Anubis	Attack	 SHD	 GLA	7:27	0	0	1	1	0	R	Tracer
+Temple of Anubis	Attack	 SHD	 GLA	7:49	14	2	1	1	1	B	JunkratReaperZenyatta
+Temple of Anubis	Attack	 SHD	 GLA	8:08	25	4	5	0	0	B	MercyD.VaMercyZenyattaWinstonWinstonReaperD.VaZenyatta
+Temple of Anubis	Defense	 SHD	 GLA	0:23	0	1	0	0	0	B	Zenyatta
+Temple of Anubis	Defense	 SHD	 GLA	0:45	15	0	6	0	2	R	MercyZenyattaD.VaWidowmakerJunkratOrisa
+Temple of Anubis	Defense	 SHD	 GLA	1:34	27	3	8	0	3	B	ZenyattaWinstonMccreeTracerMercyZenyattaD.VaD.VaWinstonWinstonDoomfist
+Ilios	Well	 SHD	 GLA	0:33	17	0	6	0	0	R	MoiraWinstonD.VaTracerPharahMercy
+Ilios	Well	 SHD	 GLA	1:26	16	2	6	0	2	B	MercyWinstonZenyattaTracerMercyMccreePharahD.Va
+Ilios	Well	 SHD	 GLA	2:09	10	0	4	1	0	R	ZenyattaTracerMercyD.Va
+Ilios	Well	 SHD	 GLA	2:34	30	5	1	2	1	R	MccreeD.VaMercyPharahTracerLucio
+Ilios	Well	 SHD	 GLA	3:32	34	7	4	3	4	B	WinstonTracerD.VaD.VaPharahMercyLucioPharahWinstonTracerMccree
+Ilios	Well	 SHD	 GLA	4:27	66	4	10	4	6	R	ZenyattaWinstonD.VaD.VaD.VaMccreeZenyattaTracerMercyMercyD.VaSoldier: 76PharahLucio
+Ilios	Well	 SHD	 GLA	5:40	24	0	6	0	0	R	MercyWinstonTracerD.VaSoldier: 76Lucio
+Ilios	Ruins	 SHD	 GLA	0:24	6	3	1	0	0	B	MercyD.VaZenyattaWidowmaker
+Ilios	Ruins	 SHD	 GLA	1:14	30	4	7	2	1	R	D.VaWidowmakerMercyWinstonZenyattaZenyattaWinstonGenjiWidowmakerD.VaTracer
+Ilios	Ruins	 SHD	 GLA	2:08	17	1	3	1	2	R	WidowmakerMercyWinstonD.Va
+Ilios	Ruins	 SHD	 GLA	2:42	36	1	4	2	3	R	TracerGenjiZenyattaSoldier: 76D.Va
+Ilios	Ruins	 SHD	 GLA	3:40	19	0	6	2	4	R	WinstonD.VaTracerZenyattaSoldier: 76Mercy
+Eichenwalde	Attack	 SHD	 GLA	0:27	15	1	6	0	0	R	MoiraLucioPharahReinhardtD.VaRoadhogZarya
+Eichenwalde	Attack	 SHD	 GLA	1:11	28	1	5	0	2	R	MccreeWinstonD.VaTracerZenyattaPharah
+Eichenwalde	Attack	 SHD	 GLA	1:57	21	1	5	1	3	B	WinstonMercyWinstonZenyattaMccreeTracer
+Eichenwalde	Attack	 SHD	 GLA	2:49	42	2	7	3	4	B	TracerMccreeZenyattaTracerWinstonMccreeWinstonD.VaMercy
+Eichenwalde	Attack	 SHD	 GLA	3:55	46	6	5	4	4	B	WinstonMccreeTracerWinstonZenyattaPharahWinstonZenyattaMercyMccreeWinston
+Eichenwalde	Defense	 SHD	 GLA	0:20	37	7	2	0	1	R	PharahPharahWinstonWinstonPharahTracerD.VaZenyattaMercy
+Eichenwalde	Defense	 SHD	 GLA	1:25	37	0	8	6	6	R	WinstonSoldier: 76ZenyattaD.VaWinstonSoldier: 76MercyTracer
+Junkertown	Attack	 DAL	 SEO	0:06	0	1	0	0	0	B	Winston
+Junkertown	Attack	 DAL	 SEO	0:39	74	9	10	5	2	R	BastionOrisaRoadhogWidowmakerWinstonBastionAnaRoadhogHanzoWidowmakerZaryaWinstonAnaWidowmakerHanzoRoadhogHanzoD.VaLucio
+Junkertown	Attack	 DAL	 SEO	2:10	9	5	0	0	0	B	AnaWinstonZaryaLucioD.Va
+Junkertown	Attack	 DAL	 SEO	2:48	10	0	5	1	1	R	OrisaMercyReaperBastionHanzo
+Junkertown	Attack	 DAL	 SEO	3:15	53	5	5	3	1	B	WinstonPharahOrisaRoadhogMercyReaperD.VaJunkratZaryaAna
+Junkertown	Attack	 DAL	 SEO	4:34	20	6	4	2	2	B	WinstonPharahSoldier: 76ReaperD.VaReaperMercyJunkratLucioAna
+Junkertown	Attack	 DAL	 SEO	5:28	22	3	0	1	0	B	WinstonD.VaZenyatta
+Junkertown	Attack	 DAL	 SEO	6:16	38	10	5	5	1	R	ReaperJunkratWinstonBastionSoldier: 76D.VaMercyZenyattaWinstonBastionD.VaTracerSombraD.VaMercy
+Junkertown	Defense	 DAL	 SEO	0:25	11	1	6	0	0	R	JunkratWidowmakerOrisaReaperMercyZenyattaRoadhog
+Junkertown	Defense	 DAL	 SEO	0:57	26	1	7	1	1	R	OrisaJunkratAnaWidowmakerRoadhogZenyattaJunkratMercy
+Junkertown	Defense	 DAL	 SEO	2:20	26	6	2	3	2	R	RoadhogWidowmakerWidowmakerWidowmakerReaperReinhardtD.VaAna
+Junkertown	Defense	 DAL	 SEO	3:08	14	2	2	1	0	B	WinstonWidowmakerWidowmakerWidowmaker
+Junkertown	Defense	 DAL	 SEO	3:45	27	5	1	3	1	R	ZenyattaReaperWidowmakerMercyAnaWinston
+Junkertown	Defense	 DAL	 SEO	4:45	39	2	7	2	2	R	JunkratRoadhogWidowmakerReaperZenyattaOrisaMercyRoadhogMercy
+Junkertown	Defense	 DAL	 SEO	5:52	36	3	6	1	3	R	D.VaReaperWinstonMercyReaperZenyattaJunkratRoadhogD.Va
+Junkertown	Defense	 DAL	 SEO	6:47	29	1	6	2	2	R	WidowmakerD.VaZenyattaJunkratZenyattaMercyRoadhog
+Junkertown	Defense	 DAL	 SEO	7:37	32	8	2	4	1	B	ReaperMccreeZenyattaD.VaOrisaReaperWinstonMercyZenyattaWidowmaker
+Temple of Anubis	Attack	 DAL	 SEO	0:29	18	6	1	0	0	B	ZenyattaTracerD.VaMercyMercyOrisaWidowmaker
+Temple of Anubis	Attack	 DAL	 SEO	1:21	24	9	0	1	0	B	D.VaGenjiZenyattaMercyZenyattaWinstonTracerD.VaGenji
+Temple of Anubis	Defense	 DAL	 SEO	0:31	0	0	1	0	0	R	Soldier: 76
+Temple of Anubis	Defense	 DAL	 SEO	0:46	22	5	4	3	2	R	OrisaD.VaZenyattaGenjiOrisaD.VaWinstonMercySoldier: 76
+Temple of Anubis	Defense	 DAL	 SEO	1:56	16	2	6	1	0	R	MercyWidowmakerJunkratGenjiMercySoldier: 76D.VaOrisa
+Temple of Anubis	Defense	 DAL	 SEO	2:41	31	1	6	1	1	R	OrisaGenjiMercyJunkratD.VaTracerWinston
+Temple of Anubis	Defense	 DAL	 SEO	0:25	19	1	6	0	0	B	GenjiSoldier: 76MercyJunkratOrisaWidowmakerD.Va
+Temple of Anubis	Defense	 DAL	 SEO	1:21	36	3	7	1	5	B	TracerWinstonD.VaD.VaJunkratTracerTracerZenyattaMercyWinston
+Temple of Anubis	Attack	 DAL	 SEO	0:16	116	26	4	8	5	R	MercyZenyattaD.VaTracerWidowmakerWinstonZenyattaMercyTracerD.VaMercyGenjiRoadhogWinstonZenyattaD.VaTracerSombraGenjiD.VaTracerLucioZenyattaGenjiLucioLucioTracerD.VaWinstonMei
+Temple of Anubis	Defense	 DAL	 SEO	0:29	9	2	6	0	0	R	JunkratGenjiMercySoldier: 76D.VaWidowmakerMercyOrisa
+Temple of Anubis	Defense	 DAL	 SEO	1:20	15	6	1	1	1	B	TracerWinstonWinstonGenjiZenyattaMercyD.Va
+Temple of Anubis	Defense	 DAL	 SEO	1:59	17	1	3	2	2	R	WinstonTracerZenyattaTracer
+Temple of Anubis	Defense	 DAL	 SEO	2:27	68	2	13	3	6	R	ZenyattaMercyD.VaWinstonLucioMeiWinstonGenjiTracerSombraD.VaLucioZenyattaWinstonMei
+Temple of Anubis	Attack	 DAL	 SEO	0:24	23	0	6	0	0	R	OrisaWidowmakerLucioRoadhogMercyD.Va
+Temple of Anubis	Attack	 DAL	 SEO	1:17	19	1	4	0	0	R	WidowmakerTracerLucioOrisaD.Va
+Temple of Anubis	Attack	 DAL	 SEO	2:03	58	4	10	4	7	R	WidowmakerZenyattaOrisaTracerWidowmakerLucioD.VaD.VaD.VaRoadhogOrisaMercyGenjiLucio
+Temple of Anubis	Attack	 DAL	 SEO	3:18	13	0	2	0	0	R	Soldier: 76Genji
+Temple of Anubis	Attack	 DAL	 SEO	3:45	18	0	2	0	2	R	WinstonD.Va
+Temple of Anubis	Attack	 DAL	 SEO	4:24	40	8	3	4	3	R	Soldier: 76ZenyattaWinstonTracerWidowmakerMercyMercyZenyattaOrisaD.VaTracer
+Temple of Anubis	Attack	 DAL	 SEO	5:28	54	5	4	3	3	B	ReaperTracerAnaGenjiD.VaReaperMercyD.VaLucio
+Ilios	Lighthouse	 DAL	 SEO	0:21	36	4	7	1	1	B	WinstonMercyWinstonLucioWidowmakerTracerLucioTracerMercyD.VaTracer
+Ilios	Lighthouse	 DAL	 SEO	1:13	86	10	8	5	7	B	PharahWidowmakerMercyWinstonLucioD.VaMercyTracerD.VaMercyMercyWinstonWinstonWidowmakerLucioTracerPharahD.Va
+Ilios	Lighthouse	 DAL	 SEO	3:03	50	3	10	4	5	R	WidowmakerPharahTracerLucioWinstonPharahMercyTracerD.VaWidowmakerTracerLucioWinston
+Ilios	Well	 DAL	 SEO	0:20	15	3	5	0	2	R	JunkratTracerMercyLucioMccreeOrisaZenyattaD.Va
+Ilios	Well	 DAL	 SEO	0:58	15	1	4	0	1	B	TracerMccreeOrisaJunkratRoadhog
+Ilios	Well	 DAL	 SEO	1:26	47	4	6	4	6	R	MccreeOrisaTracerZenyattaWinstonOrisaPharahMccreeD.VaJunkrat
+Ilios	Well	 DAL	 SEO	2:21	8	1	0	0	1	B	Tracer
+Ilios	Well	 DAL	 SEO	2:38	55	4	9	5	5	B	D.VaZenyattaWidowmakerWidowmakerPharahMercyTracerWinstonZenyattaWinstonMercyD.VaD.Va
+Numbani	Attack	 DAL	 SEO	0:17	0	0	1	0	0	R	Lucio
+Numbani	Attack	 DAL	 SEO	0:36	27	6	1	0	0	R	TracerMercyAnaJunkratSoldier: 76WinstonD.Va
+Numbani	Attack	 DAL	 SEO	1:20	5	0	2	0	0	R	MercyWinston
+Numbani	Attack	 DAL	 SEO	1:41	25	5	4	4	2	B	MercyTracerMercySoldier: 76AnaSoldier: 76GenjiD.VaLucio
+Numbani	Attack	 DAL	 SEO	2:30	21	0	6	0	1	R	WinstonMercyLucioD.VaSoldier: 76Tracer
+Numbani	Attack	 DAL	 SEO	3:22	14	1	3	1	1	B	WinstonWinstonLucioD.Va
+Numbani	Attack	 DAL	 SEO	3:57	26	6	1	3	3	B	MercyMercyAnaGenjiTracerWinstonD.Va
+Numbani	Attack	 DAL	 SEO	4:50	10	0	6	0	1	R	ZenyattaSoldier: 76WinstonMercyD.VaTracer
+Numbani	Attack	 DAL	 SEO	5:20	20	1	4	0	1	R	WinstonZenyattaD.VaMercyD.Va
+Numbani	Attack	 DAL	 SEO	5:59	46	3	7	5	4	R	TracerD.VaGenjiMercyWinstonWinstonZenyattaMercyTracerD.Va
+Numbani	Attack	 DAL	 SEO	7:04	47	6	1	3	4	B	GenjiD.VaMercyTracerTracerWinstonMercy
+Numbani	Defense	 DAL	 SEO	0:30	15	1	5	0	1	R	D.VaSoldier: 76TorbjörnSoldier: 76MercyTracer
+Numbani	Defense	 DAL	 SEO	1:36	5	1	2	1	1	R	ZenyattaWidowmakerSoldier: 76
+Numbani	Defense	 DAL	 SEO	1:47	38	1	4	3	1	B	WidowmakerMccreeD.VaWinstonSoldier: 76
+Numbani	Defense	 DAL	 SEO	2:45	31	5	6	0	1	B	Soldier: 76TracerWinstonSoldier: 76ZenyattaMercyZenyattaD.VaMccreeMercySoldier: 76
+Numbani	Defense	 DAL	 SEO	3:33	14	3	0	1	0	B	DoomfistWinstonD.Va
+Numbani	Defense	 DAL	 SEO	4:12	34	6	2	0	4	B	WinstonSoldier: 76MccreeMercyZenyattaTracerD.VaSoldier: 76
+Numbani	Defense	 DAL	 SEO	5:05	47	7	5	5	1	B	ReinhardtReaperZaryaZenyattaZaryaMccreeReinhardtReaperReinhardtReinhardtMercyTracer
+Numbani	Defense	 DAL	 SEO	6:03	29	5	2	2	1	B	TracerReinhardtZaryaReaperZaryaZenyattaTracer
+Numbani	Defense	 DAL	 SEO	7:05	0	0	1	0	1	R	Widowmaker
+Numbani	Defense	 DAL	 SEO	7:09	47	5	6	6	6	B	JunkratReinhardtZenyattaMccreeReinhardtMccreeZaryaZaryaMercyMccreeZenyatta
+Numbani	Defense	 DAL	 SEO	8:11	6	0	1	0	1	R	Widowmaker
+Numbani	Attack	 DAL	 SEO	0:20	8	0	5	0	0	R	MercyLucioWinstonTracerD.Va
+Numbani	Attack	 DAL	 SEO	0:59	12	1	4	1	2	R	ZenyattaSoldier: 76D.VaWinstonSoldier: 76
+Numbani	Defense	 DAL	 SEO	0:23	0	1	0	0	0	B	Zenyatta
+Numbani	Defense	 DAL	 SEO	0:51	15	6	0	2	1	B	ZenyattaWinstonPharahMercyD.VaSoldier: 76
+Dorado	Attack	 LDN	 FLA	6:27	8	1	1	1	1	R	MercyMercy
+Dorado	Attack	 LDN	 FLA	5:19	40	4	7	3	1	R	D.VaGenjiGenjiWinstonZenyattaWidowmakerZenyattaWinstonWinstonMercyD.Va
+Dorado	Attack	 LDN	 FLA	4:50	11	2	1	0	0	B	WinstonMercyWinston
+Dorado	Attack	 LDN	 FLA	3:48	22	2	4	1	1	B	ZenyattaD.VaZenyattaMercySoldier: 76Tracer
+Dorado	Attack	 LDN	 FLA	3:10	15	3	0	3	0	B	ZenyattaD.VaWinston
+Dorado	Attack	 LDN	 FLA	1:58	11	1	2	1	2	R	WinstonTracerZenyatta
+Dorado	Attack	 LDN	 FLA	2:23	12	6	1	1	2	B	AnaSoldier: 76MercyZenyattaD.VaTracerWinston
+Dorado	Attack	 LDN	 FLA	1:10	25	3	4	1	0	B	TracerWinstonMercyTracerAnaWinstonD.Va
+Dorado	Defense	 LDN	 FLA	3:13	19	0	3	1	1	R	WinstonZenyattaD.Va
+Dorado	Defense	 LDN	 FLA	2:27	40	5	7	3	4	B	WidowmakerZenyattaZenyattaTracerMercyMercyZenyattaD.VaWinstonWidowmakerZenyattaWidowmaker
+Dorado	Defense	 LDN	 FLA	1:44	9	3	1	0	0	R	JunkratWidowmakerMercyZenyatta
+Dorado	Defense	 LDN	 FLA	0:45	10	2	3	0	0	R	MercyWidowmakerTracerD.VaJunkrat
+Temple of Anubis	Attack	 LDN	 FLA	3:06	10	3	1	3	1	B	WinstonJunkratReaperD.Va
+Temple of Anubis	Attack	 LDN	 FLA	1:26	53	10	7	2	1	R	ReaperWinstonMercyJunkratD.VaSombraTracerWinstonDoomfistZenyattaD.VaMercyMercyWinstonD.VaReaperGenji
+Temple of Anubis	Attack	 LDN	 FLA	0:29	17	6	1	0	0	B	WinstonWinstonMercySoldier: 76WidowmakerTracerD.Va
+Temple of Anubis	Defense	 LDN	 FLA	8:03	10	6	0	1	2	B	LucioMercyD.VaWinstonTracerGenji
+Temple of Anubis	Defense	 LDN	 FLA	7:26	19	3	2	3	1	B	LucioGenjiJunkratTracerTracer
+Temple of Anubis	Defense	 LDN	 FLA	6:59	0	1	0	0	0	B	Genji
+Temple of Anubis	Defense	 LDN	 FLA	6:01	30	4	7	2	2	R	JunkratZenyattaMercyMercyWinstonWinstonTracerJunkratTracerD.VaGenji
+Temple of Anubis	Defense	 LDN	 FLA	4:44	41	7	7	4	2	R	MercyZenyattaMercyD.VaGenjiWinstonGenjiWinstonZenyattaMercyD.VaWinstonGenjiTracer
+Temple of Anubis	Defense	 LDN	 FLA	3:39	26	4	3	0	3	B	ZenyattaMercyTracerMercyWinstonWinstonTracer
+Temple of Anubis	Defense	 LDN	 FLA	2:24	41	2	7	4	3	R	GenjiZenyattaWidowmakerOrisaGenjiWidowmakerMercyD.VaMercy
+Temple of Anubis	Defense	 LDN	 FLA	1:25	19	3	0	1	0	B	TracerWinstonD.Va
+Temple of Anubis	Defense	 LDN	 FLA	0:54	6	2	0	0	0	B	TracerGenji
+Oasis	University	 LDN	 FLA	4:44	58	10	6	3	3	B	LucioZaryaWinstonReaperReinhardtMercyJunkratZaryaTracerReaperRoadhogZenyattaLucioWinstonD.VaMoira
+Oasis	University	 LDN	 FLA	3:50	21	6	2	0	1	R	ReinhardtMercyJunkratZenyattaTracerWinstonD.VaJunkrat
+Oasis	University	 LDN	 FLA	3:11	8	4	0	1	0	B	ZenyattaMercyJunkratWinston
+Oasis	University	 LDN	 FLA	2:36	9	5	0	1	1	B	JunkratMercyMccreeOrisaRoadhog
+Oasis	University	 LDN	 FLA	1:42	30	3	4	1	2	R	ReinhardtMccreeReinhardtMccreeZaryaRoadhogReinhardt
+Oasis	University	 LDN	 FLA	0:58	15	0	3	0	0	R	TracerWinstonGenji
+Oasis	University	 LDN	 FLA	0:15	12	0	2	0	0	R	GenjiTracer
+Oasis	Gardens	 LDN	 FLA	6:07	27	6	4	0	0	B	GenjiWinstonSoldier: 76ZenyattaGenjiTracerWinstonMoiraDoomfistTracer
+Oasis	Gardens	 LDN	 FLA	5:05	38	7	3	3	4	R	D.VaWinstonJunkratAnaZenyattaMccreeOrisaMccreeMercyRoadhog
+Oasis	Gardens	 LDN	 FLA	4:49	9	0	2	0	0	R	TracerGenji
+Oasis	Gardens	 LDN	 FLA	3:48	33	2	6	2	2	R	MercyMccreeD.VaZenyattaZenyattaTracerWinstonGenji
+Oasis	Gardens	 LDN	 FLA	2:52	22	8	1	2	2	R	WinstonZenyattaMccreeJunkratMercyOrisaRoadhogZenyattaMccree
+Oasis	Gardens	 LDN	 FLA	1:45	42	2	8	2	3	R	GenjiJunkratRoadhogD.VaZenyattaTracerWinstonMercyGenjiD.Va
+Oasis	Gardens	 LDN	 FLA	0:41	33	0	7	0	1	R	WinstonMccreeMercyWinstonZenyattaMccreeD.Va
+Numbani	Attack	 LDN	 FLA	3:34	21	6	0	3	3	B	AnaMercyD.VaSoldier: 76WinstonTracer
+Numbani	Attack	 LDN	 FLA	2:50	17	6	1	0	0	B	AnaMercyMercyD.VaSoldier: 76TracerWinston
+Numbani	Attack	 LDN	 FLA	1:38	36	4	7	5	3	R	Soldier: 76Soldier: 76ZenyattaAnaWinstonMercyMercyTracerD.VaD.VaSoldier: 76
+Numbani	Attack	 LDN	 FLA	0:54	9	6	0	0	0	B	D.VaAnaMercySoldier: 76TracerWinston
+Numbani	Attack	 LDN	 FLA	0:23	13	2	1	0	0	B	TracerSoldier: 76Winston
+Numbani	Attack	 LDN	 FLA	4:25	34	7	1	2	1	B	Soldier: 76ZenyattaWinstonTracerWinstonD.VaMercySoldier: 76
+Numbani	Defense	 LDN	 FLA	0:39	23	7	1	0	0	R	AnaWinstonZenyattaMercyWidowmakerWinstonSoldier: 76D.Va
+Numbani	Defense	 LDN	 FLA	1:38	3	1	0	1	0	B	Soldier: 76
+Numbani	Defense	 LDN	 FLA	1:44	26	6	0	3	0	B	WinstonSoldier: 76ZenyattaMercyWinstonTracer
+Numbani	Defense	 LDN	 FLA	3:06	33	5	4	0	2	R	WinstonWinstonSoldier: 76D.VaD.VaZenyattaTracerMercyTracer
+Numbani	Defense	 LDN	 FLA	3:55	28	7	1	1	3	B	ZenyattaSoldier: 76AnaSoldier: 76ZenyattaMercyD.VaTracer
+Dorado	Attack	 PHI	 HOU	0:20	13	4	1	0	0	B	MercyZenyattaZenyattaSoldier: 76D.Va
+Dorado	Attack	 PHI	 HOU	1:00	24	1	6	0	2	R	TracerZenyattaZenyattaWinstonD.VaGenjiMercy
+Dorado	Attack	 PHI	 HOU	1:53	37	8	2	4	1	R	ZenyattaSoldier: 76ZenyattaWinstonTracerWinstonD.VaSoldier: 76ZenyattaMercy
+Dorado	Attack	 PHI	 HOU	3:03	23	6	1	1	0	B	ZenyattaSoldier: 76ZenyattaMercyTracerWinstonD.Va
+Dorado	Attack	 PHI	 HOU	3:47	55	9	4	4	4	B	TracerWinstonD.VaMercyWinstonD.VaSoldier: 76ZenyattaWinstonWinstonMercyD.VaTracer
+Dorado	Attack	 PHI	 HOU	5:15	9	0	5	0	0	R	D.VaZenyattaMercyWinstonGenji
+Dorado	Attack	 PHI	 HOU	5:57	29	8	1	3	2	B	JunkratD.VaWinstonTracerJunkratZenyattaWinstonTracerMercy
+Dorado	Attack	 PHI	 HOU	6:41	50	4	5	1	3	R	TracerGenjiD.VaWinstonTracerJunkratMercyWinstonZenyatta
+Dorado	Defense	 PHI	 HOU	0:17	11	0	6	0	0	R	TracerGenjiZenyattaWinstonMercyD.Va
+Dorado	Defense	 PHI	 HOU	0:59	50	7	5	2	0	B	WidowmakerZenyattaMercyPharahWinstonWidowmakerGenjiTracerMercyD.VaWinstonTracer
+Dorado	Defense	 PHI	 HOU	1:58	11	1	1	2	2	R	MercyPharah
+Dorado	Defense	 PHI	 HOU	2:23	17	1	6	1	1	R	WinstonMercyGenjiD.VaZenyattaZenyattaTracer
+Dorado	Defense	 PHI	 HOU	3:20	0	1	0	0	0	B	Widowmaker
+Dorado	Defense	 PHI	 HOU	3:39	30	5	2	2	2	B	PharahWinstonPharahMercyWinstonD.VaWidowmaker
+Dorado	Defense	 PHI	 HOU	4:47	25	0	7	0	0	R	WidowmakerGenjiZenyattaMercyWinstonWidowmakerD.Va
+Dorado	Defense	 PHI	 HOU	5:33	14	0	2	0	0	R	ZenyattaWinston
+Dorado	Defense	 PHI	 HOU	6:05	35	6	1	1	2	B	GenjiWidowmakerTracerGenjiD.VaZenyattaMercy
+Dorado	Defense	 PHI	 HOU	7:07	2	1	0	1	0	B	Mercy
+Dorado	Defense	 PHI	 HOU	7:40	41	3	6	4	1	R	GenjiZenyattaWinstonTracerJunkratZenyattaWinstonGenjiMercy
+Dorado	Defense	 PHI	 HOU	8:38	21	6	3	1	1	R	TracerZenyattaDoomfistJunkratZenyattaMercyLucioZenyattaWinston
+Horizon Lunar Colony	Attack	 PHI	 HOU	0:26	14	7	2	0	0	R	LucioMccreeZenyattaJunkratWinstonRoadhogMercyZenyattaOrisa
+Horizon Lunar Colony	Attack	 PHI	 HOU	1:10	0	0	1	0	0	R	Tracer
+Horizon Lunar Colony	Attack	 PHI	 HOU	1:41	20	2	5	2	0	R	WinstonMccreeGenjiD.VaMercyZenyattaTracer
+Horizon Lunar Colony	Attack	 PHI	 HOU	2:21	39	1	5	1	3	B	JunkratGenjiTracerD.VaWinstonZenyatta
+Horizon Lunar Colony	Attack	 PHI	 HOU	3:36	22	3	5	2	1	B	MccreeJunkratWinstonWinstonGenjiZenyattaMercyGenji
+Horizon Lunar Colony	Attack	 PHI	 HOU	4:30	8	0	1	0	2	R	D.Va
+Horizon Lunar Colony	Attack	 PHI	 HOU	5:20	29	6	5	2	2	R	TracerGenjiZenyattaD.VaMccreeMercyMccreeWinstonGenjiMercyJunkrat
+Horizon Lunar Colony	Attack	 PHI	 HOU	6:15	20	2	5	2	1	R	WinstonD.VaMercyMccreeZenyattaD.VaGenji
+Horizon Lunar Colony	Attack	 PHI	 HOU	6:52	0	0	1	0	0	R	Zenyatta
+Horizon Lunar Colony	Attack	 PHI	 HOU	7:08	9	0	2	0	0	R	ZenyattaWidowmaker
+Horizon Lunar Colony	Attack	 PHI	 HOU	7:50	8	1	2	1	2	R	ZenyattaJunkratWinston
+Horizon Lunar Colony	Defense	 PHI	 HOU	0:28	11	4	1	0	0	B	WinstonTracerPharahD.VaTracer
+Horizon Lunar Colony	Defense	 PHI	 HOU	0:54	8	0	5	0	1	R	WidowmakerZenyattaMercyOrisaD.Va
+Horizon Lunar Colony	Defense	 PHI	 HOU	1:36	71	3	13	2	3	B	TracerGenjiMercyJunkratWinstonZenyattaZenyattaGenjiD.VaTracerWinstonGenjiMercyWinstonMoiraD.Va
+Oasis	Gardens	 PHI	 HOU	0:28	24	6	2	0	0	B	TracerWinstonPharahLucioD.VaTracerMercyWinston
+Oasis	Gardens	 PHI	 HOU	1:18	33	5	1	1	1	B	PharahWinstonTracerTracerLucioD.Va
+Oasis	Gardens	 PHI	 HOU	2:15	33	7	2	2	3	B	LucioPharahMercyPharahMercyWinstonTracerD.VaLucio
+Oasis	City Center	 PHI	 HOU	0:20	16	6	1	0	0	B	TracerLucioMercyPharahWinstonD.VaLucio
+Oasis	City Center	 PHI	 HOU	1:27	31	6	0	3	2	B	D.VaPharahMercyPharahWinstonD.Va
+Oasis	City Center	 PHI	 HOU	2:26	19	6	0	1	1	B	PharahMercyLucioWinstonTracerD.Va
+Eichenwalde	Attack	 PHI	 HOU	0:28	0	0	1	0	0	R	Tracer
+Eichenwalde	Attack	 PHI	 HOU	1:01	13	5	0	1	0	B	ZenyattaJunkratMercyMccreeD.Va
+Eichenwalde	Attack	 PHI	 HOU	1:40	2	0	2	0	0	R	MercyWinston
+Eichenwalde	Attack	 PHI	 HOU	2:07	28	7	1	0	0	R	WinstonWinstonMccreeZenyattaJunkratMercyMccreeD.Va
+Eichenwalde	Attack	 PHI	 HOU	3:10	20	5	4	1	2	B	WinstonMccreeJunkratD.VaZenyattaGenjiD.VaJunkratWinston
+Eichenwalde	Attack	 PHI	 HOU	3:51	36	7	2	1	2	B	MercyMccreeGenjiD.VaTracerZenyattaJunkratMercyWinston
+Eichenwalde	Attack	 PHI	 HOU	4:49	22	4	3	2	0	B	MercyZenyattaJunkratGenjiWinstonTracerD.Va
+Eichenwalde	Attack	 PHI	 HOU	5:54	11	0	3	0	0	R	TracerWinstonGenji
+Eichenwalde	Attack	 PHI	 HOU	6:41	53	10	3	5	2	R	GenjiJunkratD.VaMccreeMercyZenyattaOrisaJunkratTracerJunkratMercyGenjiD.Va
+Eichenwalde	Attack	 PHI	 HOU	7:51	48	11	3	1	2	R	WinstonJunkratZenyattaMercyLucioTracerD.VaWinstonJunkratWinstonMercyLucioWinstonD.Va
+Eichenwalde	Defense	 PHI	 HOU	0:20	22	2	4	0	0	R	Soldier: 76ZenyattaMccreeMercyJunkratD.Va
+Eichenwalde	Defense	 PHI	 HOU	0:57	14	1	6	0	0	R	TracerJunkratReinhardtSoldier: 76MercyZenyattaD.Va
+Eichenwalde	Defense	 PHI	 HOU	1:44	32	3	7	1	1	B	MccreeTracerGenjiZenyattaZenyattaMercyReinhardtMccreeTracerD.Va
+Eichenwalde	Defense	 PHI	 HOU	2:37	24	2	4	0	2	B	ZenyattaMercyMccreeWinstonTracerD.Va
+Eichenwalde	Defense	 PHI	 HOU	3:15	20	0	6	2	2	R	TracerZenyattaGenjiMercyWinstonD.Va
+Eichenwalde	Defense	 PHI	 HOU	4:10	4	3	0	0	0	B	ZenyattaMccreeD.Va
+Eichenwalde	Defense	 PHI	 HOU	5:02	66	6	10	3	3	B	MccreeReinhardtJunkratZaryaReinhardtZaryaZenyattaJunkratZenyattaJunkratZaryaD.VaMercyReinhardtJunkratJunkrat
+Eichenwalde	Defense	 PHI	 HOU	0:35	23	1	4	0	1	R	MercyMccreePharahReinhardtD.Va
+Lijiang Tower	Control Center	 PHI	 HOU	0:26	9	2	0	1	0	B	JunkratReinhardt
+Lijiang Tower	Control Center	 PHI	 HOU	1:01	24	5	1	2	2	R	ReinhardtMccreeJunkratLucioReinhardtZarya
+Lijiang Tower	Control Center	 PHI	 HOU	1:50	35	4	5	2	5	B	JunkratReinhardtMccreeMccreeReinhardtD.VaZaryaMercyZarya
+Lijiang Tower	Control Center	 PHI	 HOU	2:37	22	5	1	1	1	R	ZenyattaLucioMccreeMoiraJunkratZarya
+Lijiang Tower	Night Market	 PHI	 HOU	0:21	40	7	7	0	0	R	WinstonMccreeGenjiD.VaMercyJunkratZenyattaTracerMercyZenyattaMccreeD.VaWinstonD.Va
+Lijiang Tower	Night Market	 PHI	 HOU	1:27	71	6	11	2	5	R	TracerMccreeJunkratZenyattaGenjiTracerMccreeWinstonZenyattaD.VaJunkratZenyattaMercyMercyTracerGenjiD.Va
+Lijiang Tower	Night Market	 PHI	 HOU	3:15	21	3	4	2	2	B	ZenyattaMercyGenjiZenyattaD.VaTracerGenji
+Lijiang Tower	Night Market	 PHI	 HOU	3:55	25	6	2	1	0	R	D.VaJunkratD.VaWinstonGenjiMercyZenyattaGenji
+Lijiang Tower	Night Market	 PHI	 HOU	4:46	26	7	1	3	3	B	ZenyattaMercyMercyJunkratWinstonD.VaGenjiZenyatta
+Junkertown	Attack	 BOS	 NYE	0:32	28	7	0	0	0	B	RoadhogWidowmakerOrisaZenyattaRoadhogJunkratMercy
+Junkertown	Attack	 BOS	 NYE	1:42	10	0	2	0	1	R	BastionOrisa
+Junkertown	Attack	 BOS	 NYE	2:20	29	8	1	3	3	B	ZenyattaWidowmakerJunkratOrisaOrisaWidowmakerZenyattaMercyRoadhog
+Junkertown	Attack	 BOS	 NYE	3:23	32	2	5	1	1	B	JunkratWidowmakerOrisaZenyattaBastionHanzoD.Va
+Junkertown	Attack	 BOS	 NYE	4:15	0	0	1	0	0	R	Genji
+Junkertown	Attack	 BOS	 NYE	4:43	34	2	6	1	3	B	JunkratRoadhogGenjiWinstonD.VaGenjiZenyattaD.Va
+Junkertown	Attack	 BOS	 NYE	5:48	29	5	2	1	1	B	ZenyattaWidowmakerOrisaRoadhogGenjiMercyWinston
+Junkertown	Attack	 BOS	 NYE	6:47	28	2	6	2	3	B	ZenyattaD.VaTracerWinstonJunkratD.VaMercyZenyatta
+Junkertown	Attack	 BOS	 NYE	7:48	34	5	7	3	2	B	MccreeMercyMercyZenyattaJunkratZenyattaD.VaGenjiWinstonTracerD.VaLucio
+Junkertown	Defense	 BOS	 NYE	0:39	47	4	8	1	0	R	RoadhogHanzoWidowmakerWidowmakerRoadhogMercyRoadhogOrisaZenyattaMercyWidowmakerJunkrat
+Junkertown	Defense	 BOS	 NYE	2:00	34	1	7	1	3	R	WinstonTracerD.VaWinstonGenjiTracerMercyWidowmaker
+Junkertown	Defense	 BOS	 NYE	3:17	53	1	9	3	3	R	TracerGenjiWinstonD.VaGenjiOrisaWinstonMercyD.VaZenyatta
+Horizon Lunar Colony	Attack	 BOS	 NYE	0:21	27	6	3	0	0	R	ZenyattaJunkratWinstonWidowmakerZenyattaMercyOrisaGenjiRoadhog
+Horizon Lunar Colony	Attack	 BOS	 NYE	1:24	6	1	2	0	0	R	MercyD.VaGenji
+Horizon Lunar Colony	Attack	 BOS	 NYE	1:56	53	11	2	5	4	R	GenjiTracerZenyattaD.VaJunkratZenyattaWinstonMercyJunkratD.VaTracerWinstonLucio
+Horizon Lunar Colony	Defense	 BOS	 NYE	0:55	14	2	6	0	0	R	WinstonD.VaWinstonZenyattaTracerMercyGenjiTracer
+Horizon Lunar Colony	Defense	 BOS	 NYE	1:36	25	5	0	1	1	B	TracerMoiraSombraLucioD.Va
+Horizon Lunar Colony	Defense	 BOS	 NYE	2:35	46	7	5	2	0	R	MccreeZenyattaTracerMoiraD.VaTracerWinstonWinstonLucioTracerD.VaSombra
+Horizon Lunar Colony	Defense	 BOS	 NYE	4:00	64	3	14	4	5	B	MccreeWinstonD.VaMercyTracerD.VaZenyattaGenjiWinstonTracerD.VaWinstonMccreeGenjiZenyattaTracerMercy
+Horizon Lunar Colony	Defense	 BOS	 NYE	0:22	11	1	4	0	0	B	MoiraMercyD.VaTracerGenji
+Horizon Lunar Colony	Defense	 BOS	 NYE	0:56	14	1	6	0	1	R	WinstonTracerD.VaD.VaZenyattaMercyGenji
+Horizon Lunar Colony	Defense	 BOS	 NYE	1:28	33	5	2	1	1	R	WinstonGenjiMoiraTracerD.VaWinstonLucio
+Horizon Lunar Colony	Defense	 BOS	 NYE	2:44	17	5	1	0	0	B	MccreeMercyZenyattaGenjiJunkratD.Va
+Horizon Lunar Colony	Defense	 BOS	 NYE	3:18	19	6	0	4	0	B	MccreeWinstonJunkratZenyattaMercyD.Va
+Horizon Lunar Colony	Attack	 BOS	 NYE	0:15	24	2	4	0	0	R	WinstonJunkratZenyattaD.VaZenyattaGenji
+Horizon Lunar Colony	Attack	 BOS	 NYE	1:06	18	2	5	0	0	R	GenjiWinstonRoadhogWidowmakerZenyattaMercyD.Va
+Horizon Lunar Colony	Attack	 BOS	 NYE	1:49	12	2	1	1	3	B	ZenyattaGenjiWidowmaker
+Horizon Lunar Colony	Attack	 BOS	 NYE	2:21	19	6	1	2	1	B	WidowmakerTracerJunkratOrisaMercyZenyattaRoadhog
+Horizon Lunar Colony	Attack	 BOS	 NYE	3:26	4	3	0	0	0	B	MercyZenyattaJunkrat
+Ilios	Well	 BOS	 NYE	0:14	0	1	0	0	0	B	Tracer
+Ilios	Well	 BOS	 NYE	0:43	12	1	5	0	0	R	MercyZenyattaLucioPharahTracerD.Va
+Ilios	Well	 BOS	 NYE	1:26	26	5	5	2	1	B	ZenyattaZenyattaMccreeD.VaWinstonTracerPharahMccreeTracerD.Va
+Ilios	Well	 BOS	 NYE	2:20	1	1	0	0	2	B	Winston
+Ilios	Well	 BOS	 NYE	2:31	65	4	11	4	3	R	TracerTracerWinstonMccreeD.VaMccreeD.VaZenyattaTracerWinstonMccreeMercyMccreeZenyattaTracer
+Ilios	Lighthouse	 BOS	 NYE	0:27	19	1	6	0	0	R	PharahZenyattaWinstonMercyLucioTracerD.Va
+Ilios	Lighthouse	 BOS	 NYE	1:11	12	0	2	0	2	R	ZenyattaMercy
+Ilios	Lighthouse	 BOS	 NYE	2:07	20	2	5	0	1	B	ZenyattaMercyMccreeZenyattaMccreeTracerD.Va
+Numbani	Attack	 BOS	 NYE	0:56	27	7	4	0	2	R	TracerMccreeWinstonGenjiWinstonMercyMccreeWinstonJunkratD.VaZenyatta
+Numbani	Attack	 BOS	 NYE	2:09	32	4	4	2	0	B	MccreeZenyattaZenyattaWinstonMercyTracerJunkratWinston
+Numbani	Attack	 BOS	 NYE	3:00	49	4	6	3	4	R	GenjiMccreeJunkratWinstonGenjiMccreeWinstonMercyD.VaZenyatta
+Numbani	Attack	 BOS	 NYE	4:17	30	5	6	2	2	B	ZenyattaTracerMccreeMercyZenyattaMercyD.VaGenjiJunkratD.VaWinston
+Numbani	Attack	 BOS	 NYE	5:29	26	1	3	3	2	B	MccreeGenjiWinstonGenji
+Numbani	Attack	 BOS	 NYE	6:33	28	3	5	0	1	R	ZenyattaTracerMccreeZenyattaWinstonJunkratZenyattaD.Va
+Numbani	Attack	 BOS	 NYE	7:11	19	1	4	1	1	R	TracerMercyWinstonD.VaD.Va
+Numbani	Defense	 BOS	 NYE	0:47	4	0	2	0	0	R	AnaSoldier: 76
+Numbani	Defense	 BOS	 NYE	1:04	30	3	7	2	2	R	WinstonMercyMccreeAnaWinstonMccreeSoldier: 76D.VaWinstonTracer
+Numbani	Defense	 BOS	 NYE	2:36	8	0	5	0	0	R	MercyD.VaTracerWinstonZenyatta
+Junkertown	Attack	 VAL	 DAL	0:11	27	6	1	0	0	B	ZenyattaWidowmakerWidowmakerOrisaJunkratZenyattaMercy
+Junkertown	Attack	 VAL	 DAL	0:58	27	7	2	1	1	R	WidowmakerHanzoJunkratRoadhogWidowmakerOrisaZenyattaMercyWidowmaker
+Junkertown	Attack	 VAL	 DAL	2:12	15	0	6	1	2	R	BastionOrisaWidowmakerRoadhogHanzoMercy
+Junkertown	Attack	 VAL	 DAL	3:08	41	6	5	3	5	R	RoadhogJunkratRoadhogWidowmakerTracerOrisaJunkratOrisaRoadhogRoadhogWidowmaker
+Junkertown	Attack	 VAL	 DAL	4:06	41	5	3	0	2	B	JunkratOrisaZenyattaJunkratWidowmakerOrisaRoadhogWidowmaker
+Junkertown	Attack	 VAL	 DAL	5:00	60	6	4	5	4	B	JunkratOrisaWidowmakerZenyattaRoadhogJunkratMercyMercyWidowmakerWidowmaker
+Junkertown	Attack	 VAL	 DAL	6:16	6	1	1	1	1	R	JunkratOrisa
+Junkertown	Attack	 VAL	 DAL	6:29	21	5	1	1	1	B	JunkratRoadhogJunkratWidowmakerMercyOrisa
+Junkertown	Defense	 VAL	 DAL	0:20	17	0	6	0	0	R	BastionWidowmakerOrisaRoadhogD.VaBastion
+Junkertown	Defense	 VAL	 DAL	1:17	14	0	5	0	2	R	OrisaMercyRoadhogZenyattaWidowmaker
+Junkertown	Defense	 VAL	 DAL	1:56	21	2	8	1	2	R	JunkratRoadhogOrisaJunkratRoadhogRoadhogWidowmakerZenyattaMercyOrisa
+Junkertown	Defense	 VAL	 DAL	2:44	91	4	17	5	6	B	WidowmakerRoadhogOrisaWidowmakerJunkratMercyOrisaWidowmakerZenyattaMercyBastionWinstonD.VaMercyWidowmakerTracerGenjiZenyattaWinstonD.VaMercy
+Junkertown	Attack	 VAL	 DAL	0:16	28	6	2	0	0	B	OrisaHanzoMercyWidowmakerRoadhogJunkratZenyattaMercy
+Junkertown	Attack	 VAL	 DAL	1:13	15	7	2	1	0	B	OrisaWidowmakerOrisaRoadhogRoadhogJunkratOrisaMercyZenyatta
+Junkertown	Attack	 VAL	 DAL	1:55	35	8	4	4	3	B	RoadhogJunkratRoadhogHanzoBastionD.VaRoadhogHanzoD.VaWidowmakerMercyZenyatta
+Junkertown	Attack	 VAL	 DAL	3:06	7	2	0	1	0	B	RoadhogD.Va
+Junkertown	Attack	 VAL	 DAL	3:45	17	5	2	1	2	B	D.VaTracerWidowmakerMercyZenyattaJunkratMercy
+Junkertown	Defense	 VAL	 DAL	0:21	11	1	4	0	0	R	BastionMercyWidowmakerOrisaReinhardt
+Junkertown	Defense	 VAL	 DAL	0:57	31	2	7	1	1	R	WidowmakerWidowmakerOrisaZenyattaD.VaMercyJunkratWidowmakerWidowmaker
+Junkertown	Defense	 VAL	 DAL	1:44	38	7	3	2	4	R	RoadhogBastionJunkratRoadhogWidowmakerBastionWidowmakerOrisaHanzoMercy
+Junkertown	Defense	 VAL	 DAL	2:43	8	2	0	1	0	B	JunkratZenyatta
+Junkertown	Defense	 VAL	 DAL	3:16	27	2	6	0	0	R	MercyWidowmakerWidowmakerRoadhogOrisaJunkratZenyattaOrisa
+Junkertown	Defense	 VAL	 DAL	4:12	0	1	1	0	0	R	ZenyattaJunkrat
+Junkertown	Defense	 VAL	 DAL	4:19	24	0	4	1	1	R	OrisaRoadhogWidowmakerJunkrat
+Junkertown	Defense	 VAL	 DAL	4:58	1	0	1	1	0	R	Widowmaker
+Junkertown	Defense	 VAL	 DAL	5:11	26	4	7	4	5	B	WidowmakerJunkratJunkratOrisaMercyRoadhogRoadhogOrisaZenyattaZenyattaWidowmaker
+Junkertown	Attack	 VAL	 DAL	0:08	10	1	3	0	0	R	HanzoOrisaWinstonBastion
+Junkertown	Attack	 VAL	 DAL	0:49	19	6	1	1	1	B	ZaryaWinstonD.VaLucioWidowmakerMoiraRoadhog
+Junkertown	Attack	 VAL	 DAL	1:42	16	5	1	1	0	B	D.VaTracerMercyMercyZenyattaGenji
+Junkertown	Attack	 VAL	 DAL	2:31	18	5	0	1	0	B	TracerWinstonMercyZenyattaD.Va
+Junkertown	Attack	 VAL	 DAL	3:12	19	2	5	3	3	B	WinstonWidowmakerBastionReaperMercyOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL	0:07	31	2	4	0	0	R	MercyBastionOrisaGenjiWinstonTracer
+Junkertown	Defense	 VAL	 DAL	1:05	17	1	6	1	1	B	JunkratWinstonMercyD.VaZenyattaTracerGenji
+Junkertown	Defense	 VAL	 DAL	1:42	5	1	1	0	0	B	JunkratWinston
+Horizon Lunar Colony	Attack	 VAL	 DAL	0:32	17	5	0	0	0	B	LucioReinhardtMoiraD.VaTracer
+Horizon Lunar Colony	Attack	 VAL	 DAL	1:23	21	7	2	3	2	R	WinstonWinstonTracerTracerMercyD.VaWinstonZenyattaRoadhog
+Horizon Lunar Colony	Defense	 VAL	 DAL	0:32	19	0	6	0	0	R	MercyOrisaTracerD.VaZenyattaWidowmaker
+Horizon Lunar Colony	Defense	 VAL	 DAL	1:06	13	1	6	0	1	B	LucioPharahTracerZenyattaD.VaMercyWinston
+Horizon Lunar Colony	Attack	 VAL	 DAL	0:27	12	0	2	0	0	R	WinstonReaper
+Horizon Lunar Colony	Attack	 VAL	 DAL	1:04	47	6	4	3	2	R	MercyZenyattaZaryaGenjiLucioReinhardtD.VaD.VaMoiraRoadhog
+Horizon Lunar Colony	Attack	 VAL	 DAL	2:17	17	0	2	1	1	R	MercyZenyatta
+Horizon Lunar Colony	Attack	 VAL	 DAL	3:17	74	16	1	5	4	B	MercyJunkratGenjiZenyattaD.VaWinstonZenyattaMeiMercyD.VaWinstonMeiTracerZenyattaD.VaWinstonTracer
+Horizon Lunar Colony	Defense	 VAL	 DAL	0:17	21	0	6	0	0	R	D.VaTracerWinstonGenjiZenyattaMercy
+Horizon Lunar Colony	Defense	 VAL	 DAL	1:00	23	5	1	1	1	B	LucioMoiraZaryaReinhardtD.VaRoadhog
+Horizon Lunar Colony	Defense	 VAL	 DAL	1:54	43	3	5	4	6	R	WinstonGenjiRoadhogGenjiZaryaZenyattaLucioTracer
+Horizon Lunar Colony	Defense	 VAL	 DAL	3:14	30	4	8	1	2	R	ZenyattaMercyZenyattaGenjiMercyTracerD.VaWinstonGenjiMercyTracerD.Va
+Horizon Lunar Colony	Defense	 VAL	 DAL	4:02	3	3	0	1	0	B	WidowmakerMercyZenyatta
+Horizon Lunar Colony	Defense	 VAL	 DAL	4:46	32	5	3	2	3	B	ZenyattaZenyattaZenyattaMercyZenyattaGenjiWinstonD.Va
+Horizon Lunar Colony	Defense	 VAL	 DAL	5:42	14	2	1	3	1	R	WinstonD.VaWinston
+Horizon Lunar Colony	Defense	 VAL	 DAL	6:21	9	3	1	1	2	B	Soldier: 76MercyWinstonZenyatta
+Horizon Lunar Colony	Defense	 VAL	 DAL	0:07	29	4	2	0	0	B	MoiraZaryaWinstonD.VaReinhardtGenji
+Horizon Lunar Colony	Defense	 VAL	 DAL	0:50	22	0	7	2	1	R	AnaAnaD.VaMercyWinstonGenjiTracer
+Horizon Lunar Colony	Defense	 VAL	 DAL	1:40	24	6	3	4	3	R	GenjiReinhardtWinstonRoadhogMoiraZenyattaLucioWidowmakerD.Va
+Horizon Lunar Colony	Attack	 VAL	 DAL	0:12	14	0	2	0	0	R	TracerD.Va
+Horizon Lunar Colony	Attack	 VAL	 DAL	0:48	20	2	6	0	0	R	ZenyattaMercyMercyTracerWinstonD.VaJunkratGenji
+Horizon Lunar Colony	Attack	 VAL	 DAL	1:47	8	0	3	1	2	R	WinstonTracerMercy
+Horizon Lunar Colony	Attack	 VAL	 DAL	2:25	32	7	2	4	2	R	GenjiOrisaD.VaSoldier: 76TracerJunkratD.VaMercySoldier: 76
+Horizon Lunar Colony	Attack	 VAL	 DAL	3:22	29	3	5	2	4	B	OrisaTracerGenjiD.VaD.VaWinstonTracerMercy
+Ilios	Lighthouse	 VAL	 DAL	0:24	24	7	0	0	0	B	LucioTracerD.VaLucioWinstonPharahMercy
+Ilios	Lighthouse	 VAL	 DAL	1:12	27	4	1	1	1	R	ZenyattaMercyWinstonTracerMercy
+Ilios	Lighthouse	 VAL	 DAL	2:09	43	8	2	5	4	R	TracerPharahZenyattaLucioTracerMercyWinstonD.VaPharahLucio
+Ilios	Ruins	 VAL	 DAL	0:20	10	0	5	0	0	R	D.VaWinstonZenyattaMercyWidowmaker
+Ilios	Ruins	 VAL	 DAL	0:52	13	2	2	1	2	R	WinstonZenyattaTracerGenji
+Ilios	Ruins	 VAL	 DAL	1:18	21	0	4	1	1	R	WidowmakerTracerD.VaWinston
+Ilios	Ruins	 VAL	 DAL	2:01	38	6	5	3	2	B	MercyZenyattaZenyattaMercyWidowmakerWidowmakerGenjiWinstonD.VaD.VaWidowmaker
+Ilios	Ruins	 VAL	 DAL	2:54	23	3	7	0	1	R	WidowmakerD.VaZenyattaMercyZenyattaWidowmakerTracerMercyD.VaWinston
+Ilios	Ruins	 VAL	 DAL	3:39	45	6	2	2	2	B	ZenyattaWidowmakerWidowmakerZenyattaMercyWidowmakerZenyattaD.Va
+Ilios	Ruins	 VAL	 DAL	4:36	26	6	0	3	2	B	WidowmakerMercyGenjiD.VaZenyattaWinston
+Numbani	Attack	 VAL	 DAL	0:30	15	4	5	0	0	B	D.VaWinstonWinstonMercyZenyattaTorbjörnPharahMercyTracer
+Numbani	Attack	 VAL	 DAL	1:20	17	6	2	0	1	B	D.VaWinstonWinstonSombraD.VaSoldier: 76MercyTorbjörn
+Numbani	Attack	 VAL	 DAL	2:10	27	5	1	2	0	B	MercyZenyattaTracerD.VaWidowmakerSoldier: 76
+Numbani	Attack	 VAL	 DAL	2:51	31	2	4	2	4	B	WinstonD.VaD.VaWinstonMercyGenji
+Numbani	Attack	 VAL	 DAL	3:50	9	2	0	0	0	B	Soldier: 76D.Va
+Numbani	Attack	 VAL	 DAL	4:16	47	11	2	5	3	B	MccreeZaryaZenyattaZenyattaMercyMccreeWinstonZaryaJunkratMercyWinstonTracerZenyatta
+Numbani	Defense	 VAL	 DAL	0:15	6	2	0	0	0	B	Soldier: 76Genji
+Numbani	Defense	 VAL	 DAL	0:49	73	11	9	6	4	R	Soldier: 76WinstonZenyattaD.VaMercyD.VaSoldier: 76TracerD.VaLucioGenjiSoldier: 76MercyZenyattaLucioSoldier: 76MercyGenjiWinstonD.Va
+Numbani	Defense	 VAL	 DAL	2:28	36	6	3	3	2	R	ZenyattaMercyD.VaLucioSoldier: 76GenjiSoldier: 76WinstonD.Va
+Numbani	Defense	 VAL	 DAL	3:34	23	6	1	2	1	B	GenjiWinstonGenjiZenyattaSoldier: 76LucioD.Va
+Dorado	Attack	 FLA	 BOS	0:48	25	5	1	3	1	B	AnaD.VaWinstonTracerWinstonMercy
+Dorado	Attack	 FLA	 BOS	1:53	0	0	1	0	0	R	Tracer
+Dorado	Attack	 FLA	 BOS	2:26	15	0	4	0	2	R	ZenyattaMercyWidowmakerD.Va
+Dorado	Attack	 FLA	 BOS	3:17	25	6	4	3	2	B	D.VaWidowmakerSoldier: 76ZenyattaD.VaWinstonZenyattaWidowmakerZenyattaTracer
+Dorado	Attack	 FLA	 BOS	4:20	41	8	1	4	2	B	MercyWinstonTracerTracerD.VaZenyattaSoldier: 76MercyWinston
+Dorado	Attack	 FLA	 BOS	5:24	14	0	3	1	1	R	WinstonWidowmakerZenyatta
+Dorado	Attack	 FLA	 BOS	6:16	7	0	2	0	0	R	MercyWinston
+Dorado	Attack	 FLA	 BOS	6:51	40	2	7	3	2	R	MccreeWinstonMercyZenyattaMccreeWinstonTracerWinstonD.Va
+Dorado	Attack	 FLA	 BOS	7:57	25	2	7	2	3	R	ZenyattaJunkratD.VaZenyattaMercyTracerWinstonZenyattaWinston
+Dorado	Defense	 FLA	 BOS	0:22	39	2	7	0	1	B	HanzoTracerTracerAnaMercyAnaD.VaWinstonSoldier: 76
+Dorado	Defense	 FLA	 BOS	1:22	35	1	8	1	2	B	HanzoAnaTracerSoldier: 76MercyWinstonD.VaAnaTracer
+Dorado	Defense	 FLA	 BOS	2:28	27	2	7	0	1	B	GenjiZenyattaD.VaSoldier: 76ZenyattaZenyattaMercyWidowmakerWinston
+Dorado	Defense	 FLA	 BOS	3:19	55	1	10	3	5	B	GenjiSoldier: 76D.VaWidowmakerZenyattaSoldier: 76WinstonMercyD.VaTracerMercy
+Dorado	Defense	 FLA	 BOS	4:38	29	3	8	3	2	B	ZenyattaWinstonSoldier: 76MercyZenyattaMercyGenjiTracerD.VaWinstonSoldier: 76
+Temple of Anubis	Attack	 FLA	 BOS	0:14	0	0	1	0	0	R	Tracer
+Temple of Anubis	Attack	 FLA	 BOS	0:42	21	2	3	0	0	B	MercyTracerWidowmakerPharahWinston
+Temple of Anubis	Attack	 FLA	 BOS	1:28	15	6	1	0	0	B	MercyZenyattaD.VaWidowmakerGenjiWinstonTracer
+Temple of Anubis	Attack	 FLA	 BOS	2:08	39	0	8	4	3	R	TracerPharahReaperPharahWinstonMercyD.VaTracer
+Temple of Anubis	Attack	 FLA	 BOS	3:39	15	0	5	0	1	R	WinstonMercySombraReaperD.Va
+Temple of Anubis	Attack	 FLA	 BOS	4:32	67	11	8	5	3	R	SombraWinstonZenyattaD.VaWinstonReaperTracerWinstonMercyZenyattaD.VaReaperMercySombraTracerD.VaLucioWinstonTracer
+Temple of Anubis	Attack	 FLA	 BOS	6:07	32	8	2	2	2	B	ZenyattaD.VaReaperD.VaMercyWinstonTracerTracerZenyattaD.Va
+Temple of Anubis	Attack	 FLA	 BOS	6:42	26	5	1	2	0	B	WinstonMeiTracerD.VaZenyattaLucio
+Temple of Anubis	Defense	 FLA	 BOS	0:16	0	0	1	0	0	R	Tracer
+Temple of Anubis	Defense	 FLA	 BOS	0:46	21	1	6	0	2	R	TracerMercyWinstonD.VaJunkratMercyZenyatta
+Temple of Anubis	Defense	 FLA	 BOS	1:25	4	1	1	2	0	R	ZenyattaWinston
+Temple of Anubis	Defense	 FLA	 BOS	1:45	15	2	2	0	1	R	WinstonZenyattaWinstonTracer
+Temple of Anubis	Defense	 FLA	 BOS	2:08	22	2	2	4	1	R	JunkratTracerWinstonWinston
+Temple of Anubis	Defense	 FLA	 BOS	3:16	0	1	0	0	0	B	Tracer
+Temple of Anubis	Defense	 FLA	 BOS	3:49	12	2	1	3	0	R	ZenyattaMercyWinston
+Temple of Anubis	Defense	 FLA	 BOS	4:18	25	1	7	0	4	R	JunkratZenyattaWinstonTracerJunkratMercyD.VaSombra
+Temple of Anubis	Attack	 FLA	 BOS	0:16	13	2	1	0	0	B	GenjiPharahTracer
+Temple of Anubis	Attack	 FLA	 BOS	0:59	16	3	6	0	0	R	WidowmakerTracerMercyPharahZenyattaWinstonMercyTracerD.Va
+Temple of Anubis	Defense	 FLA	 BOS	0:21	0	0	1	0	0	R	Tracer
+Temple of Anubis	Defense	 FLA	 BOS	0:37	15	3	1	0	0	B	MercyWidowmakerJunkratZenyatta
+Temple of Anubis	Defense	 FLA	 BOS	1:10	29	1	7	4	4	R	ZenyattaTracerZenyattaD.VaJunkratZenyattaMercyTracer
+Oasis	University	 FLA	 BOS	0:16	14	0	6	0	0	R	MccreeZenyattaMercyRoadhogOrisaJunkrat
+Oasis	University	 FLA	 BOS	1:00	21	6	1	1	2	R	LucioMoiraRoadhogLucioReinhardtZaryaMccree
+Oasis	University	 FLA	 BOS	1:48	11	3	5	1	1	B	LucioMoiraMercyJunkratReinhardtReaperOrisaRoadhog
+Oasis	University	 FLA	 BOS	2:26	32	1	4	3	5	R	RoadhogLucioZaryaJunkratRoadhog
+Oasis	University	 FLA	 BOS	3:08	28	2	6	3	3	R	LucioMccreeTracerMercyOrisaZaryaRoadhogReaper
+Oasis	City Center	 FLA	 BOS	0:14	17	0	5	0	0	R	ZenyattaRoadhogSoldier: 76MercyWinston
+Oasis	City Center	 FLA	 BOS	1:09	26	2	7	1	4	B	ReinhardtSoldier: 76ReinhardtReinhardtMccreeZenyattaReaperZaryaReinhardt
+Oasis	City Center	 FLA	 BOS	2:09	35	2	8	4	5	R	Soldier: 76ReinhardtZaryaZaryaZenyattaMercyReinhardtReaperZaryaSoldier: 76
+Eichenwalde	Attack	 FLA	 BOS	0:33	0	1	1	0	0	B	WinstonZenyatta
+Eichenwalde	Attack	 FLA	 BOS	0:58	47	10	4	2	1	B	WinstonZenyattaMercyWinstonD.VaLucioZenyattaD.VaTracerPharahWinstonLucioMercyD.Va
+Eichenwalde	Attack	 FLA	 BOS	2:01	65	9	4	4	4	B	WinstonTracerZenyattaMercyWinstonPharahLucioPharahZenyattaMercyD.VaWinstonTracer
+Eichenwalde	Attack	 FLA	 BOS	3:32	2	0	3	0	0	R	ZenyattaTracerWinston
+Eichenwalde	Attack	 FLA	 BOS	4:15	8	0	4	1	0	R	ZenyattaPharahWinstonMercy
+Eichenwalde	Attack	 FLA	 BOS	4:53	26	5	1	3	2	B	ZenyattaMercyMccreePharahD.VaWinston
+Eichenwalde	Attack	 FLA	 BOS	5:47	16	3	5	1	0	R	D.VaWinstonWinstonD.VaMccreeZenyattaZenyattaWinston
+Eichenwalde	Attack	 FLA	 BOS	6:18	9	2	1	0	1	B	WinstonMercyTracer
+Eichenwalde	Attack	 FLA	 BOS	6:33	19	3	3	2	2	B	ZenyattaD.VaMccreeLucioZenyattaPharah
+Eichenwalde	Defense	 FLA	 BOS	0:13	10	4	0	0	0	B	PharahMercyWinstonLucio
+Eichenwalde	Defense	 FLA	 BOS	1:01	8	0	6	0	0	R	RoadhogJunkratZenyattaMercyOrisaMccree
+Eichenwalde	Defense	 FLA	 BOS	1:38	12	3	3	0	1	B	MercyZenyattaD.VaTracerGenjiMccree
+Eichenwalde	Defense	 FLA	 BOS	2:15	20	1	8	1	2	R	TracerMccreeZenyattaMercyWinstonZenyattaZenyattaD.VaMccree
+Eichenwalde	Defense	 FLA	 BOS	3:02	3	2	3	0	1	B	MercyZenyattaMercyMccreeD.Va
+Eichenwalde	Defense	 FLA	 BOS	3:08	25	2	3	3	2	R	TracerWinstonZenyattaWinstonD.Va
+Eichenwalde	Defense	 FLA	 BOS	3:42	16	0	5	1	2	R	MccreeZenyattaWinstonTracerMercy
+Junkertown	Attack	 SFS	 SHD	0:30	22	5	2	0	0	B	JunkratWidowmakerOrisaHanzoRoadhogRoadhogMercy
+Junkertown	Attack	 SFS	 SHD	1:18	3	2	0	0	0	B	RoadhogOrisa
+Junkertown	Attack	 SFS	 SHD	1:50	44	8	1	4	2	B	RoadhogOrisaZenyattaMercyOrisaWidowmakerRoadhogZenyattaHanzo
+Junkertown	Attack	 SFS	 SHD	2:42	19	1	4	1	1	R	WidowmakerRoadhogBastionWinstonOrisa
+Junkertown	Attack	 SFS	 SHD	3:26	14	3	0	0	0	B	D.VaWidowmakerZenyatta
+Junkertown	Attack	 SFS	 SHD	3:58	11	2	1	2	1	B	WidowmakerWinstonTracer
+Junkertown	Attack	 SFS	 SHD	4:31	33	6	6	3	3	R	ZenyattaWidowmakerZenyattaMercyMercyZenyattaWinstonD.VaD.VaOrisaWidowmakerTracer
+Junkertown	Attack	 SFS	 SHD	5:26	0	0	1	0	0	R	Widowmaker
+Junkertown	Attack	 SFS	 SHD	5:35	15	1	2	0	0	R	WidowmakerTracerWinston
+Junkertown	Attack	 SFS	 SHD	6:14	43	4	6	4	3	B	TracerZenyattaWinstonWinstonWinstonGenjiD.VaMccreeZenyattaMercy
+Junkertown	Attack	 SFS	 SHD	7:27	12	0	2	1	1	R	TracerZenyatta
+Junkertown	Attack	 SFS	 SHD	7:59	26	1	6	1	3	R	GenjiWinstonMercyWinstonZenyattaD.VaTracer
+Junkertown	Defense	 SFS	 SHD	0:11	0	1	0	0	0	B	Widowmaker
+Junkertown	Defense	 SFS	 SHD	0:40	8	5	1	0	0	B	OrisaWidowmakerMercyRoadhogMccreeBastion
+Junkertown	Defense	 SFS	 SHD	1:19	9	1	1	1	0	B	BastionZenyatta
+Junkertown	Defense	 SFS	 SHD	1:57	5	1	0	2	0	B	D.Va
+Junkertown	Defense	 SFS	 SHD	2:13	40	6	1	3	3	R	ZenyattaWidowmakerZenyattaMccreeD.VaOrisaZenyatta
+Junkertown	Defense	 SFS	 SHD	3:34	19	1	6	3	2	R	WidowmakerMercyZenyattaWinstonJunkratOrisaRoadhog
+Junkertown	Defense	 SFS	 SHD	4:24	27	4	2	0	0	B	WinstonMercyZenyattaJunkratWidowmakerTracer
+Junkertown	Defense	 SFS	 SHD	5:18	37	5	3	2	4	R	JunkratWidowmakerJunkratZenyattaD.VaWidowmakerZenyattaMercy
+Junkertown	Defense	 SFS	 SHD	6:21	27	1	5	1	1	B	MccreeMercyOrisaTracerD.VaJunkrat
+Junkertown	Defense	 SFS	 SHD	7:10	27	7	2	5	4	B	WinstonTracerWinstonTracerZenyattaOrisaMccreeMercyD.Va
+Horizon Lunar Colony	Attack	 SFS	 SHD	0:11	0	0	1	0	0	R	Tracer
+Horizon Lunar Colony	Attack	 SFS	 SHD	0:36	0	0	1	0	0	R	D.Va
+Horizon Lunar Colony	Attack	 SFS	 SHD	1:08	25	1	4	0	1	R	D.VaWidowmakerMercyWinstonZenyatta
+Horizon Lunar Colony	Attack	 SFS	 SHD	2:00	28	3	7	4	3	R	GenjiMercyWidowmakerJunkratAnaD.VaTracerGenjiWinstonZenyatta
+Horizon Lunar Colony	Attack	 SFS	 SHD	2:59	10	0	2	0	1	R	MercyZenyatta
+Horizon Lunar Colony	Attack	 SFS	 SHD	3:46	15	2	3	1	3	R	TracerOrisaGenjiLucioAna
+Horizon Lunar Colony	Defense	 SFS	 SHD	0:13	0	1	0	0	0	B	Sombra
+Horizon Lunar Colony	Defense	 SFS	 SHD	1:06	33	4	7	1	1	R	ZenyattaWinstonJunkratOrisaLucioMoiraMercyRoadhogSombraWidowmakerMoira
+Ilios	Lighthouse	 SFS	 SHD	0:14	16	4	0	0	0	B	MccreeMercyD.VaWinston
+Ilios	Lighthouse	 SFS	 SHD	1:00	0	1	0	0	0	B	Tracer
+Ilios	Lighthouse	 SFS	 SHD	1:20	61	4	10	5	5	R	TracerWinstonD.VaMercyPharahMercyZenyattaWinstonWinstonD.VaPharahLucioD.VaWinston
+Ilios	Lighthouse	 SFS	 SHD	2:43	10	0	4	0	1	R	MercyLucioWinstonPharah
+Ilios	Lighthouse	 SFS	 SHD	3:15	23	6	1	1	2	B	ZenyattaD.VaTracerMccreeMercyTracerWinston
+Ilios	Lighthouse	 SFS	 SHD	3:55	24	7	1	4	2	B	MercyMccreeTracerWinstonZenyattaD.VaTracerWinston
+Ilios	Ruins	 SFS	 SHD	0:33	9	3	0	0	0	B	WinstonD.VaWidowmaker
+Ilios	Ruins	 SFS	 SHD	1:12	43	8	3	5	4	B	WinstonWidowmakerZenyattaD.VaZenyattaWidowmakerZenyattaMercyWidowmakerWinstonTracer
+Ilios	Ruins	 SFS	 SHD	2:20	35	8	2	1	1	B	WinstonTracerWinstonZenyattaWinstonWidowmakerMercyWidowmakerD.VaTracer
+Numbani	Attack	 SFS	 SHD	0:34	12	2	3	0	0	R	WinstonSoldier: 76Soldier: 76ZenyattaWinston
+Numbani	Attack	 SFS	 SHD	1:30	36	1	6	2	3	B	WinstonWinstonZenyattaSoldier: 76PharahD.VaWinston
+Numbani	Attack	 SFS	 SHD	2:43	19	5	0	0	3	B	TracerSoldier: 76MercyWinstonD.Va
+Numbani	Attack	 SFS	 SHD	3:23	0	0	1	0	0	R	Tracer
+Numbani	Attack	 SFS	 SHD	3:39	15	2	3	2	2	B	WinstonSoldier: 76TracerD.VaWinston
+Numbani	Attack	 SFS	 SHD	4:12	28	5	1	2	2	B	TracerZenyattaD.VaSoldier: 76WinstonAna
+Numbani	Attack	 SFS	 SHD	5:05	27	6	0	2	3	B	WinstonD.VaTracerSoldier: 76MercyZenyatta
+Numbani	Attack	 SFS	 SHD	5:58	55	7	4	4	3	R	Soldier: 76TracerWinstonZenyattaWinstonSoldier: 76TracerD.VaMercyZenyattaWinston
+Numbani	Defense	 SFS	 SHD	0:59	11	0	3	1	1	R	WinstonTracerSoldier: 76
+Numbani	Defense	 SFS	 SHD	1:41	7	2	2	2	2	R	Soldier: 76D.VaAnaPharah
+Numbani	Defense	 SFS	 SHD	2:05	7	2	1	0	0	B	ZenyattaPharahMercy
+Numbani	Defense	 SFS	 SHD	2:29	3	1	0	0	0	B	Winston
+Numbani	Defense	 SFS	 SHD	2:56	7	2	2	1	1	B	D.VaD.VaTracerTracer
+Numbani	Defense	 SFS	 SHD	3:23	31	7	1	3	3	B	TracerSoldier: 76Soldier: 76D.VaZenyattaSoldier: 76WinstonTracer
+Numbani	Defense	 SFS	 SHD	4:29	8	0	6	1	2	R	WinstonSoldier: 76AnaD.VaMercyTracer
+Numbani	Defense	 SFS	 SHD	5:06	18	6	0	1	0	B	MercyZenyattaSoldier: 76TracerWinstonD.Va
+Numbani	Defense	 SFS	 SHD	5:56	48	5	2	3	4	B	TracerWinstonTracerD.VaTracerWinstonD.Va
+Numbani	Defense	 SFS	 SHD	7:18	15	5	2	1	1	B	ZenyattaSoldier: 76MercyZenyattaD.VaWinstonTracer
+Numbani	Defense	 SFS	 SHD	7:54	42	7	2	4	3	B	TracerWinstonSoldier: 76D.VaWinstonMercyTracerD.VaZenyatta
+Junkertown	Attack	 LDN	 PHI	0:30	2	2	0	0	0	B	ReinhardtJunkrat
+Junkertown	Attack	 LDN	 PHI	1:03	12	5	0	0	0	B	ReinhardtWidowmakerMercyZenyattaD.Va
+Junkertown	Attack	 LDN	 PHI	1:34	4	3	0	0	0	B	WidowmakerWinstonMercy
+Junkertown	Attack	 LDN	 PHI	2:09	7	2	0	2	1	B	WidowmakerGenji
+Junkertown	Attack	 LDN	 PHI	2:25	23	5	1	1	1	B	ZenyattaD.VaWidowmakerMercyWidowmakerGenji
+Junkertown	Attack	 LDN	 PHI	3:24	13	2	0	0	1	B	GenjiWinston
+Junkertown	Attack	 LDN	 PHI	4:03	30	1	8	3	3	R	MccreeReaperGenjiD.VaMercyMccreeReinhardtAnaReaper
+Junkertown	Attack	 LDN	 PHI	5:02	27	4	4	1	1	B	MercyWidowmakerReinhardtZenyattaReinhardtGenjiMccreeZenyatta
+Junkertown	Attack	 LDN	 PHI	6:09	18	0	4	1	0	R	MccreeZenyattaMccreeD.Va
+Junkertown	Attack	 LDN	 PHI	7:00	1	1	0	1	0	B	Reinhardt
+Junkertown	Attack	 LDN	 PHI	7:06	56	9	3	3	3	R	GenjiD.VaMercyReinhardtMercyGenjiGenjiZenyattaMccreeReinhardtD.VaMercy
+Junkertown	Defense	 LDN	 PHI	0:07	0	0	1	0	0	R	Lucio
+Junkertown	Defense	 LDN	 PHI	0:33	7	2	0	0	0	B	ReinhardtZenyatta
+Junkertown	Defense	 LDN	 PHI	1:15	19	3	2	2	1	R	LucioZenyattaJunkratReinhardtZarya
+Junkertown	Defense	 LDN	 PHI	1:55	17	0	5	0	0	R	LucioReinhardtD.VaWidowmakerRoadhog
+Junkertown	Defense	 LDN	 PHI	2:44	19	1	6	0	0	R	MercyJunkratZenyattaWinstonMoiraTracerD.Va
+Junkertown	Defense	 LDN	 PHI	3:22	9	0	1	0	2	R	Winston
+Junkertown	Defense	 LDN	 PHI	3:42	73	6	12	3	2	R	TracerZenyattaZenyattaWidowmakerMercyReinhardtWinstonWidowmakerD.VaTracerZenyattaMercyTracerTracerWinstonD.VaZenyattaGenji
+Junkertown	Defense	 LDN	 PHI	5:18	53	7	5	4	4	R	WinstonSoldier: 76D.VaSoldier: 76TracerMercySoldier: 76MercyZenyattaZenyattaTracerReinhardt
+Junkertown	Defense	 LDN	 PHI	6:38	10	4	1	2	0	B	ZenyattaZenyattaTracerMccreeMercy
+Junkertown	Defense	 LDN	 PHI	7:13	20	6	1	0	0	B	ZenyattaMercyWinstonWinstonTracerD.VaGenji
+Junkertown	Defense	 LDN	 PHI	7:53	27	2	6	0	1	R	ZenyattaZenyattaMercyWinstonZenyattaGenjiD.VaTracer
+Junkertown	Defense	 LDN	 PHI	8:40	9	3	1	4	1	B	MercyGenjiWinstonMercy
+Horizon Lunar Colony	Attack	 LDN	 PHI	0:19	41	0	6	0	1	R	RoadhogMoiraReinhardtD.VaLucioZarya
+Horizon Lunar Colony	Attack	 LDN	 PHI	1:33	32	0	5	0	1	R	LucioReinhardtTracerZaryaD.Va
+Horizon Lunar Colony	Attack	 LDN	 PHI	2:45	9	0	2	1	1	R	ReinhardtLucio
+Horizon Lunar Colony	Attack	 LDN	 PHI	3:43	32	8	2	2	3	B	OrisaJunkratZenyattaReinhardtJunkratD.VaWidowmakerZenyattaMercyOrisa
+Horizon Lunar Colony	Attack	 LDN	 PHI	4:41	4	1	0	0	0	B	Genji
+Horizon Lunar Colony	Attack	 LDN	 PHI	4:59	77	13	6	4	4	B	MercyZenyattaMercyWinstonZenyattaGenjiD.VaGenjiTracerWinstonMercyMoiraGenjiTracerZenyattaTracerD.VaWinstonD.Va
+Horizon Lunar Colony	Attack	 LDN	 PHI	7:46	2	0	3	0	0	R	WinstonMercySoldier: 76
+Horizon Lunar Colony	Attack	 LDN	 PHI	8:19	0	1	0	0	0	B	Genji
+Horizon Lunar Colony	Attack	 LDN	 PHI	8:33	8	4	0	1	0	B	TracerWinstonZenyattaD.Va
+Horizon Lunar Colony	Defense	 LDN	 PHI	0:16	0	1	0	0	0	B	Tracer
+Horizon Lunar Colony	Defense	 LDN	 PHI	0:39	0	1	0	0	0	B	Tracer
+Horizon Lunar Colony	Defense	 LDN	 PHI	0:58	0	1	0	0	0	B	Winston
+Horizon Lunar Colony	Defense	 LDN	 PHI	1:32	0	1	0	0	0	B	D.Va
+Horizon Lunar Colony	Defense	 LDN	 PHI	1:47	6	4	0	0	0	B	GenjiMercyLucioWinston
+Horizon Lunar Colony	Defense	 LDN	 PHI	2:14	0	1	0	0	0	B	Tracer
+Horizon Lunar Colony	Defense	 LDN	 PHI	2:32	20	4	0	2	1	B	MercyLucioD.VaGenji
+Horizon Lunar Colony	Defense	 LDN	 PHI	3:17	19	5	1	3	1	B	TracerWinstonOrisaD.VaMercyGenji
+Horizon Lunar Colony	Defense	 LDN	 PHI	4:05	14	4	0	3	1	B	GenjiLucioMercyWinston
+Ilios	Well	 LDN	 PHI	0:37	63	12	6	3	2	R	WinstonLucioMercyMccreePharahZenyattaMercyD.VaWinstonLucioWinstonD.VaMercyLucioPharahD.VaTracerWinston
+Ilios	Well	 LDN	 PHI	2:08	17	2	1	1	0	B	TracerWinstonTracer
+Ilios	Well	 LDN	 PHI	2:41	0	1	0	0	0	B	Tracer
+Ilios	Well	 LDN	 PHI	3:08	84	12	4	6	5	R	ZenyattaMercyWinstonD.VaTracerWinstonD.VaD.VaTracerWinstonLucioMercyTracerD.VaPharahWinston
+Ilios	Ruins	 LDN	 PHI	0:23	11	3	0	0	0	B	WidowmakerWinstonTracer
+Ilios	Ruins	 LDN	 PHI	1:05	0	1	0	0	0	B	Tracer
+Ilios	Ruins	 LDN	 PHI	1:22	14	3	0	0	0	B	MercyTracerWidowmaker
+Ilios	Ruins	 LDN	 PHI	1:55	38	4	2	2	3	B	MercyTracerZenyattaWidowmakerTracerWinston
+Numbani	Attack	 LDN	 PHI	0:31	49	6	4	1	2	R	TracerMercyDoomfistZenyattaAnaWinstonSoldier: 76MercyMercyWinston
+Numbani	Attack	 LDN	 PHI	1:27	20	5	1	2	0	B	MercyMoiraZenyattaWinstonGenjiD.Va
+Numbani	Attack	 LDN	 PHI	2:38	34	4	3	5	3	R	WinstonD.VaWinstonSoldier: 76Soldier: 76ZenyattaD.Va
+Numbani	Attack	 LDN	 PHI	3:30	10	4	0	0	0	B	TracerWinstonZenyattaMercy
+Numbani	Attack	 LDN	 PHI	4:04	31	7	1	3	0	B	WinstonWinstonD.VaTracerGenjiZenyattaMercyWinston
+Numbani	Defense	 LDN	 PHI	0:24	16	4	3	0	0	R	WinstonMercyWinstonAnaMercyD.VaTracer
+Numbani	Defense	 LDN	 PHI	1:15	1	2	0	0	0	B	TracerZenyatta
+Numbani	Defense	 LDN	 PHI	1:24	11	1	0	1	0	B	D.Va
+Numbani	Defense	 LDN	 PHI	2:02	39	6	2	2	2	B	ZenyattaWinstonZenyattaZenyattaWinstonMercyTracerGenji
+Numbani	Defense	 LDN	 PHI	3:11	22	3	0	3	4	B	MercyZenyattaWinston
+Numbani	Defense	 LDN	 PHI	4:05	17	6	0	3	1	B	GenjiWinstonD.VaTracerD.VaMercy
+Numbani	Defense	 LDN	 PHI	5:31	5	4	0	0	1	B	GenjiWinstonD.VaTracer
+Junkertown	Attack	 NYE	 HOU	7:42	58	8	6	4	5	R	WinstonMccreeMercyWinstonD.VaD.VaJunkratJunkratWinstonMccreeMercyWinstonMercyMccree
+Junkertown	Attack	 NYE	 HOU	6:48	6	0	3	0	1	R	JunkratMercyD.Va
+Junkertown	Attack	 NYE	 HOU	5:50	26	2	6	1	2	R	JunkratTracerJunkratD.VaMccreeWinstonMercyZenyatta
+Junkertown	Attack	 NYE	 HOU	4:25	36	8	1	5	2	B	D.VaWinstonGenjiD.VaWinstonMercyJunkratZenyattaTracer
+Junkertown	Attack	 NYE	 HOU	2:55	37	5	6	2	2	B	ZenyattaJunkratGenjiTracerZenyattaZenyattaMercyJunkratTracerD.VaWinston
+Junkertown	Attack	 NYE	 HOU	2:22	12	6	0	3	0	B	MercyZenyattaOrisaJunkratWidowmakerD.Va
+Junkertown	Attack	 NYE	 HOU	0:14	0	0	1	0	0	R	Mercy
+Junkertown	Attack	 NYE	 HOU	0:29	0	0	2	0	0	R	HanzoWidowmaker
+Junkertown	Attack	 NYE	 HOU	1:16	26	6	3	0	3	B	WidowmakerMercyMercyOrisaTracerJunkratD.VaRoadhogGenji
+Junkertown	Defense	 NYE	 HOU	5:01	29	2	6	1	2	R	ZenyattaJunkratD.VaWinstonMercyD.VaTracerJunkrat
+Junkertown	Defense	 NYE	 HOU	4:53	0	0	1	0	0	R	Junkrat
+Junkertown	Defense	 NYE	 HOU	4:14	17	3	6	0	2	R	JunkratZenyattaWidowmakerMercyOrisaWidowmakerZenyattaWinstonD.Va
+Junkertown	Defense	 NYE	 HOU	3:50	0	0	1	1	0	R	Widowmaker
+Junkertown	Defense	 NYE	 HOU	2:32	46	3	7	2	2	B	BastionHanzoRoadhogTracerWidowmakerMercyOrisaRoadhogZenyattaJunkrat
+Junkertown	Defense	 NYE	 HOU	2:11	12	2	1	1	1	B	BastionTracerRoadhog
+Junkertown	Defense	 NYE	 HOU	0:33	52	3	7	0	1	R	WidowmakerBastionMercyBastionOrisaWidowmakerWidowmakerZenyattaRoadhogJunkrat
+Temple of Anubis	Attack	 NYE	 HOU	5:45	27	5	0	3	2	B	JunkratWinstonRoadhogZenyattaD.Va
+Temple of Anubis	Attack	 NYE	 HOU	4:36	4	0	2	0	0	R	TracerWinston
+Temple of Anubis	Attack	 NYE	 HOU	5:18	22	3	2	3	3	B	JunkratGenjiD.VaD.VaRoadhog
+Temple of Anubis	Attack	 NYE	 HOU	4:06	10	0	1	0	1	R	Mercy
+Temple of Anubis	Attack	 NYE	 HOU	3:31	8	0	2	0	0	R	TracerWinston
+Temple of Anubis	Attack	 NYE	 HOU	2:57	13	0	2	0	2	R	WinstonMercy
+Temple of Anubis	Attack	 NYE	 HOU	1:43	24	2	3	4	3	R	GenjiJunkratJunkratGenjiWinston
+Temple of Anubis	Attack	 NYE	 HOU	0:42	17	7	1	0	0	B	JunkratSoldier: 76WinstonWidowmakerOrisaD.VaJunkratMercy
+Temple of Anubis	Attack	 NYE	 HOU	1:20	0	0	1	0	0	R	Tracer
+Temple of Anubis	Defense	 NYE	 HOU	6:54	62	7	9	3	2	R	ZenyattaZenyattaGenjiWinstonD.VaMercyZenyattaTracerReaperGenjiMercyMeiPharahD.VaSoldier: 76Winston
+Temple of Anubis	Defense	 NYE	 HOU	6:32	7	1	2	1	2	B	ZenyattaGenjiD.Va
+Temple of Anubis	Defense	 NYE	 HOU	5:42	15	5	2	1	1	B	ZenyattaMercyWinstonRoadhogZenyattaD.VaTracer
+Temple of Anubis	Defense	 NYE	 HOU	4:39	21	5	0	0	0	B	PharahMercyZenyattaReaperD.Va
+Temple of Anubis	Defense	 NYE	 HOU	3:02	10	2	2	0	0	B	MercyD.VaJunkratZenyatta
+Temple of Anubis	Defense	 NYE	 HOU	3:35	40	5	2	3	4	B	JunkratMercyZenyattaZenyattaRoadhogJunkratWidowmaker
+Temple of Anubis	Defense	 NYE	 HOU	1:37	50	5	8	5	4	R	MercyRoadhogWidowmakerRoadhogZenyattaJunkratZenyattaWidowmakerRoadhogMercyD.VaOrisaJunkrat
+Temple of Anubis	Defense	 NYE	 HOU	0:44	27	7	1	1	0	R	JunkratRoadhogJunkratZenyattaWidowmakerRoadhogD.VaMercy
+Ilios	Well	 NYE	 HOU	3:49	43	8	4	5	4	R	ZenyattaMccreeTracerZenyattaWinstonD.VaTracerZenyattaMccreeD.VaMercyWinston
+Ilios	Well	 NYE	 HOU	3:14	9	0	3	0	1	R	MccreeTracerMercy
+Ilios	Well	 NYE	 HOU	2:19	28	1	5	1	2	R	ZenyattaMccreeZenyattaWinstonD.VaTracer
+Ilios	Well	 NYE	 HOU	1:22	36	5	3	3	1	B	MccreeMercyD.VaMccreeTracerMccreeZenyattaD.Va
+Ilios	Well	 NYE	 HOU	0:36	20	6	3	0	0	R	ZenyattaWinstonWinstonMccreeTracerMercyTracerD.VaZenyatta
+Ilios	Ruins	 NYE	 HOU	2:56	35	7	1	2	2	B	WidowmakerTracerD.VaWidowmakerWidowmakerTracerMercyWinston
+Ilios	Ruins	 NYE	 HOU	1:55	34	1	4	2	2	B	ZenyattaD.VaZenyattaWinstonTracer
+Ilios	Ruins	 NYE	 HOU	1:05	20	3	1	2	1	R	WidowmakerD.VaZenyattaWinston
+Ilios	Ruins	 NYE	 HOU	0:54	0	0	1	0	0	R	Widowmaker
+Ilios	Ruins	 NYE	 HOU	0:18	20	6	1	0	0	R	WidowmakerWidowmakerMercyWinstonZenyattaD.VaTracer
+Numbani	Attack	 NYE	 HOU	4:00	21	4	1	3	2	B	TracerSoldier: 76MercyWinstonWinston
+Numbani	Attack	 NYE	 HOU	3:11	28	3	5	1	2	R	WinstonD.VaMercySoldier: 76ZenyattaZenyattaMercySoldier: 76
+Numbani	Attack	 NYE	 HOU	2:40	5	1	3	1	0	R	ZenyattaSoldier: 76PharahWinston
+Numbani	Attack	 NYE	 HOU	2:20	5	3	2	2	2	R	MercyTracerD.VaMccreeWinston
+Numbani	Attack	 NYE	 HOU	0:45	15	4	0	0	0	B	D.VaMercyPharahAna
+Numbani	Attack	 NYE	 HOU	1:38	8	6	0	0	0	B	Soldier: 76MercyTracerWinstonZenyattaD.Va
+Numbani	Attack	 NYE	 HOU	0:22	0	1	0	0	0	B	Ana
+Numbani	Defense	 NYE	 HOU	0:14	0	1	0	0	0	B	Soldier: 76
+Numbani	Defense	 NYE	 HOU	0:31	17	0	6	0	0	R	MccreeZenyattaJunkratMercyWinstonD.Va
+Numbani	Defense	 NYE	 HOU	1:33	11	0	2	0	1	R	WinstonD.Va
+Numbani	Defense	 NYE	 HOU	2:10	26	7	1	3	4	B	PharahTracerMercySoldier: 76D.VaPharahAnaWinston
+Numbani	Defense	 NYE	 HOU	3:04	24	4	1	2	0	R	WinstonMercyZenyattaD.VaSoldier: 76
+Numbani	Defense	 NYE	 HOU	4:18	48	6	3	4	5	R	Soldier: 76WinstonWinstonD.VaSoldier: 76WinstonZenyattaMercyTracer
+Numbani	Defense	 NYE	 HOU	5:32	52	8	7	4	5	R	Soldier: 76WinstonSoldier: 76D.VaD.VaZenyattaMercySoldier: 76ZenyattaTracerZenyattaWinstonSoldier: 76D.VaTracer
+Junkertown	Attack	 SEO	 GLA	7:23	17	6	0	2	2	B	WinstonD.VaTracerMercyGenjiMei
+Junkertown	Attack	 SEO	 GLA	6:57	19	5	1	3	2	B	GenjiWinstonZenyattaMercyMccreeTracer
+Junkertown	Attack	 SEO	 GLA	6:01	25	6	4	2	1	R	ZenyattaMercyWinstonWinstonJunkratTracerD.VaGenjiD.VaZenyatta
+Junkertown	Attack	 SEO	 GLA	5:04	28	3	5	3	3	B	TracerZenyattaGenjiMercyJunkratWidowmakerZenyattaRoadhog
+Junkertown	Attack	 SEO	 GLA	4:12	30	2	4	1	1	R	JunkratWinstonOrisaZenyattaD.VaOrisa
+Junkertown	Attack	 SEO	 GLA	3:17	26	5	1	4	1	B	MercyGenjiJunkratD.VaWinstonTracer
+Junkertown	Attack	 SEO	 GLA	2:32	27	2	5	1	3	B	ZenyattaMeiWinstonJunkratMercyOrisaRoadhog
+Junkertown	Attack	 SEO	 GLA	0:49	13	1	2	0	0	B	TracerOrisaMei
+Junkertown	Attack	 SEO	 GLA	1:25	38	5	3	4	2	R	MercyZenyattaMercyOrisaD.VaWidowmakerGenjiWinston
+Junkertown	Defense	 SEO	 GLA	6:52	47	3	12	4	5	R	ZenyattaMercyD.VaGenjiWinstonTracerTracerGenjiMercyZenyattaWinstonTracerMercyGenjiD.Va
+Junkertown	Defense	 SEO	 GLA	6:22	10	0	4	1	0	R	TracerGenjiMercyWinston
+Junkertown	Defense	 SEO	 GLA	5:36	23	5	3	1	1	B	ZenyattaMercyD.VaGenjiGenjiWinstonWinstonD.Va
+Junkertown	Defense	 SEO	 GLA	4:40	32	4	7	4	2	R	TracerD.VaWinstonTracerD.VaWinstonZenyattaMercyZenyattaWinstonTracer
+Junkertown	Defense	 SEO	 GLA	3:47	24	4	1	2	0	R	WinstonZenyattaLucioGenjiD.Va
+Junkertown	Defense	 SEO	 GLA	2:49	32	2	6	2	4	R	GenjiMercyTracerD.VaWinstonD.VaTracerZenyatta
+Junkertown	Defense	 SEO	 GLA	1:21	9	0	6	0	0	R	GenjiWinstonTracerZenyattaMercyD.Va
+Junkertown	Defense	 SEO	 GLA	2:00	32	1	8	2	2	R	ZenyattaD.VaZenyattaGenjiWinstonTracerMercyZenyattaD.Va
+Junkertown	Defense	 SEO	 GLA	0:33	14	1	6	0	0	R	MercyRoadhogMeiGenjiJunkratOrisaWidowmaker
+Junkertown	Attack	 SEO	 GLA	1:35	18	1	5	1	3	R	ZenyattaTracerWidowmakerJunkratMercyRoadhog
+Junkertown	Attack	 SEO	 GLA	0:47	16	5	1	0	0	B	TracerGenjiWinstonWidowmakerZenyattaMercy
+Junkertown	Defense	 SEO	 GLA	0:59	19	6	1	1	0	B	ZenyattaWinstonGenjiLucioTracerD.VaWidowmaker
+Junkertown	Defense	 SEO	 GLA	0:37	0	1	0	0	0	B	Zenyatta
+Junkertown	Defense	 SEO	 GLA	0:08	0	1	0	0	0	B	Zenyatta
+Horizon Lunar Colony	Attack	 SEO	 GLA	1:01	39	8	1	3	1	B	GenjiWinstonD.VaWinstonTracerMeiZenyattaWinstonJunkrat
+Horizon Lunar Colony	Attack	 SEO	 GLA	0:28	29	4	2	0	1	B	WinstonD.VaTracerZenyattaMercySoldier: 76
+Horizon Lunar Colony	Defense	 SEO	 GLA	7:36	78	6	15	5	5	B	AnaRoadhogWinstonTracerD.VaZenyattaWinstonMercyReaperD.VaTracerMeiReaperD.VaD.VaDoomfistLucioAnaSoldier: 76Soldier: 76Winston
+Horizon Lunar Colony	Defense	 SEO	 GLA	6:20	44	6	3	5	4	R	ReaperRoadhogD.VaTracerMercyRoadhogZenyattaWinstonAna
+Horizon Lunar Colony	Defense	 SEO	 GLA	5:32	1	1	1	0	0	B	MercyTracer
+Horizon Lunar Colony	Defense	 SEO	 GLA	3:32	4	5	0	1	0	B	ReinhardtLucioMoiraZaryaRoadhog
+Horizon Lunar Colony	Defense	 SEO	 GLA	4:21	30	6	2	3	5	B	RoadhogReaperReinhardtD.VaWinstonZaryaMoiraLucio
+Horizon Lunar Colony	Defense	 SEO	 GLA	1:29	29	0	5	0	0	R	OrisaWidowmakerD.VaZenyattaMercy
+Horizon Lunar Colony	Defense	 SEO	 GLA	2:20	29	5	2	2	2	B	ZaryaReaperReinhardtZenyattaLucioMoiraRoadhog
+Horizon Lunar Colony	Defense	 SEO	 GLA	0:29	12	5	2	1	0	B	MoiraOrisaMercyLucioZaryaD.VaReinhardt
+Horizon Lunar Colony	Attack	 SEO	 GLA	3:21	38	6	3	2	1	R	MoiraTracerMercyZenyattaWinstonTracerD.VaGenjiWinston
+Horizon Lunar Colony	Attack	 SEO	 GLA	2:59	2	0	1	0	1	R	Lucio
+Horizon Lunar Colony	Attack	 SEO	 GLA	2:12	20	1	3	0	1	R	LucioTracerGenjiMoira
+Horizon Lunar Colony	Attack	 SEO	 GLA	1:12	30	3	6	1	1	R	LucioMercyTracerZenyattaSombraGenjiWinstonMoiraD.Va
+Horizon Lunar Colony	Attack	 SEO	 GLA	0:55	0	0	1	0	0	R	Moira
+Horizon Lunar Colony	Attack	 SEO	 GLA	0:39	0	0	1	0	0	R	Winston
+Ilios	Ruins	 SEO	 GLA	3:15	44	8	2	4	4	B	TracerWinstonWinstonZenyattaWidowmakerWidowmakerMercyTracerD.VaWinston
+Ilios	Ruins	 SEO	 GLA	1:58	34	2	6	0	1	R	ZenyattaTracerWinstonZenyattaD.VaZenyattaTracerWidowmaker
+Ilios	Ruins	 SEO	 GLA	1:15	33	3	1	3	2	B	WidowmakerMercyD.VaZenyatta
+Ilios	Ruins	 SEO	 GLA	0:57	9	1	1	0	0	B	WidowmakerMercy
+Ilios	Ruins	 SEO	 GLA	0:26	14	3	0	0	0	B	MercyWinstonD.Va
+Ilios	Lighthouse	 SEO	 GLA	4:20	40	6	3	2	2	R	TracerLucioD.VaMercyPharahWinstonD.VaLucioTracer
+Ilios	Lighthouse	 SEO	 GLA	4:09	0	1	0	0	0	B	Pharah
+Ilios	Lighthouse	 SEO	 GLA	3:30	21	6	2	1	1	B	MercyMercyD.VaPharahLucioTracerD.VaWinston
+Ilios	Lighthouse	 SEO	 GLA	2:03	12	1	1	1	0	B	MercyLucio
+Ilios	Lighthouse	 SEO	 GLA	2:18	30	0	6	2	3	R	PharahLucioMercyWinstonTracerD.Va
+Ilios	Lighthouse	 SEO	 GLA	1:12	29	6	2	2	2	B	TracerWinstonWinstonD.VaLucioWinstonMercyMercy
+Ilios	Lighthouse	 SEO	 GLA	0:20	30	3	7	0	0	B	WinstonTracerLucioD.VaMercyTracerWinstonD.VaMercyPharah
+Numbani	Attack	 SEO	 GLA	5:00	48	10	5	5	4	B	WinstonDoomfistJunkratWinstonMccreeDoomfistMccreeJunkratZenyattaMercyD.VaWinstonTracerDoomfistZenyatta
+Numbani	Attack	 SEO	 GLA	4:39	7	4	0	0	0	B	DoomfistZenyattaWinstonD.Va
+Numbani	Attack	 SEO	 GLA	3:49	20	1	5	3	3	R	LucioGenjiMccreeZenyattaMercyD.Va
+Numbani	Attack	 SEO	 GLA	3:19	10	0	2	0	0	R	MccreeD.Va
+Numbani	Attack	 SEO	 GLA	2:10	4	2	0	0	0	B	DoomfistWinston
+Numbani	Attack	 SEO	 GLA	2:33	8	0	2	0	0	R	PharahMercy
+Numbani	Attack	 SEO	 GLA	1:19	34	7	3	4	0	B	Soldier: 76DoomfistGenjiGenjiMercyZenyattaDoomfistWinstonD.VaMercy
+Numbani	Attack	 SEO	 GLA	0:26	24	6	1	0	0	R	DoomfistMercyWinstonDoomfistSoldier: 76AnaD.Va
+Numbani	Attack	 SEO	 GLA	6:02	14	6	1	2	1	R	WinstonDoomfistWinstonD.VaTracerMercyZenyatta
+Numbani	Defense	 SEO	 GLA	0:50	18	7	2	0	0	B	WinstonSoldier: 76WinstonGenjiZenyattaD.VaMercyWidowmakerSoldier: 76
+Numbani	Defense	 SEO	 GLA	1:40	4	1	1	1	1	B	GenjiAna
+Numbani	Defense	 SEO	 GLA	1:51	29	5	0	4	2	B	MercyD.VaSoldier: 76GenjiWinston
+Numbani	Defense	 SEO	 GLA	2:59	22	6	3	2	2	B	Soldier: 76JunkratMercyD.VaD.VaJunkratZenyattaWinstonSoldier: 76
+Numbani	Defense	 SEO	 GLA	3:41	29	6	1	3	2	B	TracerMercyGenjiWinstonD.VaJunkratZenyatta

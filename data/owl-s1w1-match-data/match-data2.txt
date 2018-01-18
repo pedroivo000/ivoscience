@@ -1,0 +1,716 @@
+Map	Roundtype	Blue Team	Red Team	Ults Blue	Ults Red	Teamcomp Blue	Teamcomp Red
+Dorado	Attack	 SFS	 VAL	MccreeMercy	TracerMercy	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 SFS	 VAL	TracerZenyatta	WinstonZenyattaTracerGenji	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 SFS	 VAL	MercyTracerMccreeWinston	Genji	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 SFS	 VAL			MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 SFS	 VAL	Tracer	Tracer	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 SFS	 VAL	Tracer		MccreeTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Dorado	Attack	 SFS	 VAL	MercyMccreeWinston	Genji	MccreeTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Dorado	Attack	 SFS	 VAL	ZenyattaGenjiMccree	TracerZenyattaWinston	GenjiMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 SFS	 VAL	Mercy		GenjiMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 SFS	 VAL	MccreeMercy	MercyTracerGenji	GenjiMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 SFS	 VAL			GenjiMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 SFS	 VAL		Tracer	JunkratMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 SFS	 VAL	WinstonMccree	Zenyatta	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 SFS	 VAL	JunkratWinstonZenyattaMercy	MercyZenyattaGenjiWinston	JunkratMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 SFS	 VAL	MccreeZenyatta	ZenyattaTracer	JunkratMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 SFS	 VAL			JunkratMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 SFS	 VAL	MccreeWinston	ZenyattaTracer	JunkratMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 SFS	 VAL	JunkratZenyatta	Winston	JunkratMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 SFS	 VAL	MccreeMercy	MercyGenjiTracer	JunkratMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 SFS	 VAL			JunkratMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SFS	 VAL	ZenyattaGenjiWinstonMercyTracerGenjiTracerZenyattaWinston	ZenyattaMercyTracerWinstonGenjiTracer	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SFS	 VAL	Mercy	Junkrat	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 SFS	 VAL		Widowmaker	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis	Defense	 SFS	 VAL	MercyGenjiZenyattaTracer	ZenyattaMercyWinstonGenji	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 SFS	 VAL	GenjiWinston		GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 SFS	 VAL	TracerGenjiZenyattaTracer	JunkratZenyattaMercyWinstonWidowmaker	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 SFS	 VAL	MercyGenji	Widowmaker	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 SFS	 VAL			GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 SFS	 VAL	WinstonTracerGenji	WinstonZenyattaMercyGenjiTracerWinston	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 SFS	 VAL		Tracer	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 SFS	 VAL		Winston	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SFS	 VAL	TracerGenjiWinston	TracerMercyGenji	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SFS	 VAL	Genji	Zenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 SFS	 VAL	Zenyatta	JunkratMercy	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 SFS	 VAL			GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 SFS	 VAL	MercyTracerWinston	JunkratOrisa	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 SFS	 VAL	Winston		GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 SFS	 VAL			GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Ilios	Lighthouse	 SFS	 VAL	Winston		PharahTracerLucioMercyD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 SFS	 VAL	LucioWinstonPharahMercy	TracerPharahWinston	PharahTracerLucioMercyD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 SFS	 VAL	Pharah		PharahTracerLucioMercyD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 SFS	 VAL	PharahMercyWinstonTracer	ZenyattaMercyTracerWinstonTracerPharah	PharahTracerLucioMercyD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 SFS	 VAL			PharahTracerLucioMercyD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 SFS	 VAL			PharahTracerLucioMercyD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 SFS	 VAL	MercyTracer	Mercy	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 SFS	 VAL	ZenyattaWidowmakerMercyTracerWinstonZenyatta	WidowmakerMercyWinstonTracerWidowmaker	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 SFS	 VAL			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Well	 SFS	 VAL	MercyTracer	TracerWinstonZenyattaMercyGenji	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Ilios	Well	 SFS	 VAL	MccreeZenyattaWinston	Genji	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Ilios	Well	 SFS	 VAL	MccreeTracer	MccreeTracerWinston	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Ilios	Well	 SFS	 VAL	TracerMercy		MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Well	 SFS	 VAL			MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Numbani	Attack	 SFS	 VAL	MercyZenyatta	MercyTracer	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 SFS	 VAL		Tracer	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 SFS	 VAL	ZenyattaWinstonGenjiTracer	TracerMercyZenyattaTracer	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 SFS	 VAL	TracerWinstonMercy	TracerSoldier: 76	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 SFS	 VAL			GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 SFS	 VAL	Zenyatta	WinstonTracer	MccreeTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 SFS	 VAL	TracerMccreeMercyWinston	MercySoldier: 76TracerWinston	MccreeTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 VAL			Soldier: 76TracerAnaMercyD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 VAL	MercyTracerAna	Soldier: 76WinstonZenyatta	Soldier: 76TracerAnaMercyD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 VAL	TracerWinston	MercyTracerWinston	WidowmakerTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 VAL			WidowmakerTracerMercyZenyattaD.VaWinston	BastionSoldier: 76TracerMercyZenyattaWinston
+Numbani	Defense	 SFS	 VAL			WidowmakerTracerMercyZenyattaD.VaWinston	BastionSoldier: 76TracerMercyZenyattaWinston
+Numbani	Defense	 SFS	 VAL			WidowmakerTracerMercyZenyattaD.VaWinston	BastionSoldier: 76TracerMercyZenyattaWinston
+Dorado	Attack	 SHD	 GLA	TracerMercyWidowmakerTracer	WidowmakerMercy	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerDoomfistMercyZenyattaD.VaWinston
+Dorado	Attack	 SHD	 GLA	Zenyatta	WidowmakerDoomfist	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerDoomfistMercyZenyattaD.VaWinston
+Dorado	Attack	 SHD	 GLA			MccreeTracerMercyZenyattaD.VaWinston	WidowmakerDoomfistMercyZenyattaD.VaWinston
+Dorado	Attack	 SHD	 GLA	MccreeMercyZenyattaTracer	WidowmakerMercyDoomfist	MccreeTracerMercyZenyattaD.VaWinston	WidowmakerDoomfistMercyZenyattaD.VaWinston
+Dorado	Defense	 SHD	 GLA		Mercy	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA			WidowmakerTracerMercyZenyattaD.VaWinston	GenjiTracerAnaMercyD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA	WidowmakerWinston	MercyTracerAna	WidowmakerTracerMercyZenyattaD.VaWinston	GenjiTracerAnaMercyD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA	ZenyattaMercyTracer	MercyGenjiWinston	ReaperTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA		Tracer	ReaperTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA	Tracer		ReaperTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA		Junkrat	ReaperTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA	ZenyattaMercyWinstonTracerReaper	MercyWinstonTracerZenyatta	ReaperTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA	Reaper		ReaperTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA	Winston		ReaperTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA	Mercy	Mercy	ReaperTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 SHD	 GLA			ReaperTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 SHD	 GLA			JunkratWidowmakerMercyZenyattaD.VaOrisa	GenjiTracerLucioZenyattaD.VaWinston
+Temple of Anubis	Defense	 SHD	 GLA		TracerTracer	JunkratWidowmakerMercyZenyattaD.VaOrisa	GenjiTracerLucioZenyattaD.VaWinston
+Temple of Anubis	Defense	 SHD	 GLA		GenjiLucioTracer	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerLucioZenyattaD.VaWinston
+Ilios	Well	 SHD	 GLA			PharahTracerMercyMoiraD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 SHD	 GLA		TracerPharah	MccreeTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 SHD	 GLA	Tracer		MccreeTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 SHD	 GLA	MercyMccree	Tracer	MccreeTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 SHD	 GLA	TracerZenyattaMccree	MercyLucioPharahWinston	MccreeTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 SHD	 GLA	TracerMercyZenyattaWinston	TracerPharahLucioWinstonPharahTracer	MccreeTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 SHD	 GLA			Soldier: 76TracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Ruins	 SHD	 GLA			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios	Ruins	 SHD	 GLA	WinstonMercy	Mercy	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios	Ruins	 SHD	 GLA	Mercy	WidowmakerWinston	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios	Ruins	 SHD	 GLA	WinstonTracer	WidowmakerZenyattaWinston	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios	Ruins	 SHD	 GLA	WinstonZenyatta	MercyWinstonGenjiZenyatta	Soldier: 76TracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 SHD	 GLA			LucioMoiraD.VaReinhardtRoadhogZarya	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 SHD	 GLA		MercyPharah	MccreeTracerMercyZenyattaD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 SHD	 GLA	Tracer	MercyTracerPharah	MccreeTracerMercyZenyattaD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 SHD	 GLA	ZenyattaMccreeMercy	WinstonZenyattaPharahTracer	MccreeTracerMercyZenyattaD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 SHD	 GLA	WinstonZenyattaTracerMccree	MercyTracerWinstonPharah	MccreeTracerMercyZenyattaD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 SHD	 GLA		Tracer	PharahSoldier: 76MercyZenyattaD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 SHD	 GLA	MercyZenyattaWinstonTracerSoldier: 76Winston	ZenyattaPharahMercyWinstonTracerTracer	Soldier: 76TracerMercyZenyattaD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 DAL	 SEO			BastionHanzoWidowmakerMercyOrisaRoadhog	AnaLucioD.VaRoadhogWinstonZarya
+Junkertown	Attack	 DAL	 SEO	RoadhogHanzoWidowmakerRoadhogMercy	RoadhogLucio	BastionHanzoWidowmakerMercyOrisaRoadhog	AnaLucioD.VaRoadhogWinstonZarya
+Junkertown	Attack	 DAL	 SEO			BastionHanzoReaperMercyOrisaRoadhog	JunkratAnaLucioD.VaWinstonZarya
+Junkertown	Attack	 DAL	 SEO	Hanzo	Ana	BastionHanzoReaperMercyOrisaRoadhog	JunkratAnaLucioD.VaWinstonZarya
+Junkertown	Attack	 DAL	 SEO	OrisaMercyRoadhog	Junkrat	BastionPharahReaperMercyOrisaRoadhog	JunkratAnaLucioD.VaWinstonZarya
+Junkertown	Attack	 DAL	 SEO	MercyBastion	AnaLucio	BastionPharahReaperMercyD.VaRoadhog	JunkratSoldier: 76AnaLucioD.VaWinston
+Junkertown	Attack	 DAL	 SEO	Roadhog		BastionJunkratReaperMercyD.VaRoadhog	WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Junkertown	Attack	 DAL	 SEO	BastionReaperRoadhogReaperBastion	Soldier: 76	BastionJunkratReaperMercyD.VaRoadhog	WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Junkertown	Defense	 DAL	 SEO			JunkratWidowmakerMercyZenyattaOrisaRoadhog	WidowmakerReaperAnaMercyD.VaReinhardt
+Junkertown	Defense	 DAL	 SEO	Roadhog	Reaper	JunkratWidowmakerMercyZenyattaOrisaRoadhog	WidowmakerReaperAnaMercyD.VaReinhardt
+Junkertown	Defense	 DAL	 SEO	OrisaRoadhogZenyatta	MercyReinhardt	JunkratWidowmakerMercyZenyattaOrisaRoadhog	WidowmakerReaperAnaMercyD.VaReinhardt
+Junkertown	Defense	 DAL	 SEO	Widowmaker		JunkratWidowmakerMercyZenyattaOrisaRoadhog	WidowmakerReaperAnaMercyD.VaWinston
+Junkertown	Defense	 DAL	 SEO	RoadhogJunkratZenyatta	Widowmaker	JunkratWidowmakerMercyZenyattaOrisaRoadhog	WidowmakerReaperAnaMercyD.VaWinston
+Junkertown	Defense	 DAL	 SEO	MercyZenyatta	ReaperWinston	JunkratWidowmakerMercyZenyattaOrisaRoadhog	WidowmakerReaperAnaMercyD.VaWinston
+Junkertown	Defense	 DAL	 SEO	Roadhog	WidowmakerAnaWidowmaker	JunkratWidowmakerMercyZenyattaD.VaRoadhog	WidowmakerReaperAnaMercyD.VaWinston
+Junkertown	Defense	 DAL	 SEO	WidowmakerRoadhog	WinstonWidowmaker	JunkratWidowmakerMercyZenyattaD.VaRoadhog	WidowmakerReaperMercyZenyattaD.VaWinston
+Junkertown	Defense	 DAL	 SEO	JunkratZenyattaMercyRoadhog	Mercy	JunkratMccreeMercyZenyattaOrisaRoadhog	WidowmakerReaperMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 DAL	 SEO			WidowmakerLucioMercyD.VaOrisaRoadhog	WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 DAL	 SEO	Mercy		WidowmakerReaperLucioMercyD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 DAL	 SEO			JunkratWidowmakerSoldier: 76MercyD.VaOrisa	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 DAL	 SEO	WidowmakerWidowmakerMercy	TracerZenyatta	JunkratWidowmakerSoldier: 76MercyD.VaOrisa	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 DAL	 SEO	Soldier: 76		JunkratWidowmakerSoldier: 76MercyD.VaOrisa	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 DAL	 SEO	Tracer	Genji	JunkratTracerMercyZenyattaD.VaOrisa	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 DAL	 SEO			JunkratWidowmakerSoldier: 76MercyD.VaOrisa	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 DAL	 SEO	Junkrat	MercyZenyattaWinstonGenjiTracer	JunkratTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 DAL	 SEO	RoadhogWidowmakerLucioOrisaMercyWidowmakerRoadhogWidowmaker	TracerZenyattaWinstonGenjiTracer	WidowmakerLucioMercyD.VaOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 DAL	 SEO			JunkratWidowmakerSoldier: 76MercyD.VaOrisa	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 DAL	 SEO	Tracer	Tracer	SombraTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 DAL	 SEO	MercySombra	ZenyattaWinston	SombraTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 DAL	 SEO	ZenyattaSombraWinston	GenjiTracerTracerMercyZenyattaGenji	SombraTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 DAL	 SEO			WidowmakerLucioMercyD.VaOrisaRoadhog	WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 DAL	 SEO			WidowmakerLucioMercyD.VaOrisaRoadhog	WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 DAL	 SEO	MercyLucioRoadhogOrisa	MercyWidowmakerTracerZenyattaOrisaTracerWidowmaker	WidowmakerLucioMercyD.VaOrisaRoadhog	WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 DAL	 SEO			GenjiSoldier: 76LucioMercyD.VaWinston	WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 DAL	 SEO		WidowmakerTracer	GenjiSoldier: 76LucioMercyD.VaWinston	WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 DAL	 SEO	MercyWinstonGenjiLucio	MercyZenyattaTracer	GenjiSoldier: 76LucioMercyD.VaWinston	WidowmakerTracerMercyZenyattaD.VaOrisa
+Temple of Anubis	Attack	 DAL	 SEO	Soldier: 76LucioLucio	WinstonTracerAna	GenjiSoldier: 76LucioMercyD.VaWinston	ReaperTracerAnaLucioD.VaWinston
+Ilios	Lighthouse	 DAL	 SEO	Tracer	Tracer	WidowmakerTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Lighthouse	 DAL	 SEO	MercyWidowmakerWinstonTracerLucio	PharahLucioTracerWinstonMercyLucioTracer	WidowmakerTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Lighthouse	 DAL	 SEO	TracerMercyLucioWidowmaker	MercyTracerPharahWinstonLucio	WidowmakerTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 DAL	 SEO		TracerMercy	JunkratMccreeMercyZenyattaOrisaRoadhog	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 DAL	 SEO		Pharah	JunkratMccreeMercyZenyattaOrisaRoadhog	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 DAL	 SEO	ZenyattaJunkratMercyRoadhog	PharahMercyLucioPharahWinstonTracer	JunkratMccreeMercyZenyattaOrisaRoadhog	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 DAL	 SEO		Tracer	WidowmakerTracerMercyZenyattaRoadhogWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 DAL	 SEO	MercyRoadhogTracerWinstonZenyatta	LucioMercyTracerWinstonTracer	WidowmakerTracerMercyZenyattaRoadhogWinston	PharahTracerLucioMercyD.VaWinston
+Numbani	Attack	 DAL	 SEO			Soldier: 76TracerLucioMercyD.VaWinston	JunkratSoldier: 76AnaMercyD.VaWinston
+Numbani	Attack	 DAL	 SEO			Soldier: 76TracerLucioMercyD.VaWinston	JunkratSoldier: 76AnaMercyD.VaWinston
+Numbani	Attack	 DAL	 SEO			Soldier: 76TracerLucioMercyD.VaWinston	GenjiSoldier: 76AnaMercyD.VaWinston
+Numbani	Attack	 DAL	 SEO	TracerMercySoldier: 76Winston	Soldier: 76Winston	Soldier: 76TracerLucioMercyD.VaWinston	GenjiSoldier: 76AnaMercyD.VaWinston
+Numbani	Attack	 DAL	 SEO		Ana	Soldier: 76TracerLucioMercyD.VaWinston	GenjiTracerAnaMercyD.VaWinston
+Numbani	Attack	 DAL	 SEO	Tracer	Tracer	Soldier: 76TracerLucioMercyD.VaWinston	GenjiTracerAnaMercyD.VaWinston
+Numbani	Attack	 DAL	 SEO	Soldier: 76TracerWinston	AnaTracerWinston	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerAnaMercyD.VaWinston
+Numbani	Attack	 DAL	 SEO		Tracer	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Numbani	Attack	 DAL	 SEO		Winston	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Numbani	Attack	 DAL	 SEO	ZenyattaMercyTracerWinstonSoldier: 76	MercyZenyattaTracerGenji	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Numbani	Attack	 DAL	 SEO	TracerSoldier: 76Tracer	GenjiWinstonTracerZenyatta	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Numbani	Defense	 DAL	 SEO		Soldier: 76	TorbjörnSoldier: 76TracerMercyD.VaWinston	PharahSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 DAL	 SEO	Mercy	Widowmaker	MccreeSoldier: 76MercyZenyattaD.VaWinston	WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 DAL	 SEO	WinstonMccreeZenyatta	Zenyatta	MccreeSoldier: 76MercyZenyattaD.VaWinston	WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 DAL	 SEO		Mercy	MccreeTracerMercyZenyattaD.VaWinston	DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 DAL	 SEO	Tracer		MccreeTracerMercyZenyattaReinhardtZarya	DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 DAL	 SEO		ZenyattaWinstonDoomfistSoldier: 76	MccreeTracerMercyZenyattaReinhardtZarya	DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 DAL	 SEO	ZenyattaZaryaTracerReinhardtTracer	Mercy	MccreeTracerMercyZenyattaReinhardtZarya	ReaperTracerMercyZenyattaReinhardtZarya
+Numbani	Defense	 DAL	 SEO	MccreeTracer	Tracer	MccreeTracerMercyZenyattaReinhardtZarya	ReaperTracerMercyZenyattaReinhardtZarya
+Numbani	Defense	 DAL	 SEO		Mccree	WidowmakerMccreeMercyZenyattaReinhardtZarya	JunkratMccreeMercyZenyattaReinhardtZarya
+Numbani	Defense	 DAL	 SEO	ZenyattaZaryaMccreeReinhardtMercyWidowmaker	ZaryaJunkratMercyZenyattaReinhardtJunkrat	WidowmakerMccreeMercyZenyattaReinhardtZarya	JunkratMccreeMercyZenyattaReinhardtZarya
+Numbani	Defense	 DAL	 SEO		Mccree	WidowmakerMccreeMercyZenyattaD.VaWinston	JunkratMccreeLucioZenyattaD.VaReinhardt
+Numbani	Attack	 DAL	 SEO			Soldier: 76TracerLucioMercyD.VaWinston	PharahSoldier: 76AnaMercyD.VaWinston
+Numbani	Attack	 DAL	 SEO	Soldier: 76	MercySoldier: 76	Soldier: 76TracerMercyZenyattaD.VaWinston	PharahSoldier: 76AnaMercyD.VaWinston
+Numbani	Defense	 DAL	 SEO			TorbjörnSoldier: 76TracerMercyD.VaWinston	PharahSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 DAL	 SEO	MercyTracer	Soldier: 76	TorbjörnSoldier: 76TracerMercyD.VaWinston	PharahSoldier: 76MercyZenyattaD.VaWinston
+Dorado	Attack	 LDN	 FLA	Genji	Winston	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Dorado	Attack	 LDN	 FLA	MercyTracerZenyatta	Zenyatta	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Dorado	Attack	 LDN	 FLA			GenjiTracerMercyZenyattaD.VaWinston	WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Dorado	Attack	 LDN	 FLA	Zenyatta	Mercy	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Dorado	Attack	 LDN	 FLA	WinstonMercyTracer		GenjiTracerMercyZenyattaD.VaWinston	WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Dorado	Attack	 LDN	 FLA	Tracer	AnaWinston	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Dorado	Attack	 LDN	 FLA	Genji	Soldier: 76Tracer	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Dorado	Attack	 LDN	 FLA	Zenyatta		GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Dorado	Defense	 LDN	 FLA	Widowmaker	Widowmaker	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 LDN	 FLA	MercyWinstonZenyatta	MercyTracerZenyattaWinston	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 LDN	 FLA			JunkratWidowmakerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 LDN	 FLA			JunkratWidowmakerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 LDN	 FLA	ZenyattaGenjiReaper	Tracer	GenjiReaperMercyZenyattaD.VaWinston	JunkratSombraTracerMercyD.VaWinston
+Temple of Anubis	Attack	 LDN	 FLA	GenjiWinston	Sombra	GenjiReaperMercyZenyattaD.VaWinston	JunkratSombraTracerMercyD.VaWinston
+Temple of Anubis	Attack	 LDN	 FLA			WidowmakerGenjiMercyZenyattaD.VaWinston	WidowmakerSoldier: 76TracerMercyD.VaWinston
+Temple of Anubis	Defense	 LDN	 FLA	Zenyatta	TracerGenji	JunkratTracerMercyZenyattaD.VaWinston	GenjiTracerLucioMercyD.VaWinston
+Temple of Anubis	Defense	 LDN	 FLA	WinstonTracerJunkrat	Mercy	JunkratTracerMercyZenyattaD.VaWinston	GenjiTracerLucioMercyD.VaWinston
+Temple of Anubis	Defense	 LDN	 FLA			JunkratTracerMercyZenyattaD.VaWinston	GenjiTracerLucioMercyD.VaWinston
+Temple of Anubis	Defense	 LDN	 FLA	TracerZenyatta	WinstonLucio	JunkratTracerMercyZenyattaD.VaWinston	GenjiTracerLucioMercyD.VaWinston
+Temple of Anubis	Defense	 LDN	 FLA	WinstonTracerMercyGenji	MercyGenji	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerLucioMercyD.VaWinston
+Temple of Anubis	Defense	 LDN	 FLA		ZenyattaTracerWinston	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 LDN	 FLA	MercyGenjiZenyattaWidowmaker	MercyTracerGenji	WidowmakerGenjiMercyZenyattaD.VaOrisa	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 LDN	 FLA	Widowmaker		WidowmakerGenjiMercyZenyattaD.VaOrisa	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 LDN	 FLA			WidowmakerGenjiMercyZenyattaD.VaOrisa	GenjiTracerMercyZenyattaD.VaWinston
+Oasis	University	 LDN	 FLA	ZaryaZenyattaReinhardt	MercyWinstonTracer	JunkratMercyZenyattaReinhardtRoadhogZarya	ReaperTracerLucioMercyD.VaWinston
+Oasis	University	 LDN	 FLA		Tracer	JunkratMercyZenyattaReinhardtRoadhogZarya	JunkratTracerMercyZenyattaD.VaWinston
+Oasis	University	 LDN	 FLA	Reinhardt		JunkratMercyZenyattaReinhardtRoadhogZarya	JunkratTracerMercyZenyattaD.VaWinston
+Oasis	University	 LDN	 FLA	Zarya	Mccree	JunkratMercyZenyattaReinhardtRoadhogZarya	JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis	University	 LDN	 FLA	Mercy	JunkratZenyatta	JunkratMercyZenyattaReinhardtRoadhogZarya	JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis	University	 LDN	 FLA			GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis	University	 LDN	 FLA			GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis	Gardens	 LDN	 FLA			GenjiTracerMercyMoiraD.VaWinston	GenjiSoldier: 76TracerLucioZenyattaWinston
+Oasis	Gardens	 LDN	 FLA	MercyGenjiWinston	RoadhogMercyMccreeJunkrat	GenjiTracerAnaMercyD.VaWinston	JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis	Gardens	 LDN	 FLA			GenjiTracerAnaMercyD.VaWinston	JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis	Gardens	 LDN	 FLA	WinstonZenyatta	OrisaZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis	Gardens	 LDN	 FLA	ZenyattaTracer	MccreeRoadhog	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis	Gardens	 LDN	 FLA	WinstonTracer	OrisaZenyattaJunkrat	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaOrisaRoadhog
+Oasis	Gardens	 LDN	 FLA		Mccree	MccreeTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaOrisaRoadhog
+Numbani	Attack	 LDN	 FLA	ZenyattaWinstonGenji	AnaSoldier: 76Winston	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Numbani	Attack	 LDN	 FLA			GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Numbani	Attack	 LDN	 FLA	ZenyattaMercyWinstonSoldier: 76Tracer	AnaMercyWinston	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Numbani	Attack	 LDN	 FLA			Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Numbani	Attack	 LDN	 FLA			Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Numbani	Attack	 LDN	 FLA	MercyTracer	Mercy	MccreeTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 LDN	 FLA			Soldier: 76TracerAnaMercyD.VaWinston	WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 LDN	 FLA	Tracer		Soldier: 76TracerAnaMercyD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 LDN	 FLA	MercySoldier: 76Winston		Soldier: 76TracerAnaMercyD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 LDN	 FLA		Soldier: 76Tracer	Soldier: 76TracerAnaMercyD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 LDN	 FLA	Mercy	MercyZenyattaWinston	Soldier: 76TracerAnaMercyD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado	Attack	 PHI	 HOU			GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado	Attack	 PHI	 HOU		Soldier: 76Tracer	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado	Attack	 PHI	 HOU	MercyTracerWinstonTracer	Mercy	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado	Attack	 PHI	 HOU	Genji		GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado	Attack	 PHI	 HOU	TracerMercyZenyattaGenji	ZenyattaSoldier: 76TracerWinston	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado	Attack	 PHI	 HOU			GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado	Attack	 PHI	 HOU	WinstonTracerZenyatta	MercyTracer	GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 PHI	 HOU	Zenyatta	WinstonZenyattaTracer	GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU			GenjiTracerMercyZenyattaD.VaWinston	WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU	TracerMercy		GenjiTracerMercyZenyattaD.VaWinston	WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU	WinstonZenyatta	WidowmakerPharah	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU	Tracer	Winston	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU			WidowmakerGenjiMercyZenyattaD.VaWinston	WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU	MercyZenyatta	MercyWidowmaker	WidowmakerGenjiMercyZenyattaD.VaWinston	WidowmakerPharahMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU			WidowmakerGenjiMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU			GenjiTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU	Zenyatta	MercyGenji	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU	Tracer		GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU	MercyGenjiZenyattaTracer	Zenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 PHI	 HOU	Winston	Winston	GenjiTracerLucioZenyattaD.VaWinston	JunkratDoomfistMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 PHI	 HOU			GenjiTracerLucioMercyD.VaWinston	JunkratMccreeMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony	Attack	 PHI	 HOU			GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 PHI	 HOU	GenjiTracer		GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 PHI	 HOU	Mercy	JunkratMccreeMercy	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 PHI	 HOU	ZenyattaTracer	Winston	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 PHI	 HOU		MccreeJunkrat	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 PHI	 HOU	MercyWinston	MercyZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 PHI	 HOU	GenjiTracer	Winston	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 PHI	 HOU			WidowmakerTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 PHI	 HOU			WidowmakerTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 PHI	 HOU	Mercy	JunkratMercy	WidowmakerTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 PHI	 HOU			WidowmakerTracerMercyZenyattaD.VaOrisa	PharahSombraTracerMercyD.VaWinston
+Horizon Lunar Colony	Defense	 PHI	 HOU		Sombra	WidowmakerTracerMercyZenyattaD.VaOrisa	Soldier: 76SombraTracerMercyD.VaWinston
+Horizon Lunar Colony	Defense	 PHI	 HOU	ZenyattaMercy	TracerWinstonMercy	GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Oasis	Gardens	 PHI	 HOU			PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Oasis	Gardens	 PHI	 HOU	Lucio	Mercy	PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Oasis	Gardens	 PHI	 HOU	TracerWinston	TracerWinstonPharah	PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Oasis	City Center	 PHI	 HOU			PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Oasis	City Center	 PHI	 HOU	MercyLucioTracer	TracerPharah	PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Oasis	City Center	 PHI	 HOU	Pharah	Tracer	PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Eichenwalde	Attack	 PHI	 HOU			Soldier: 76TracerMercyZenyattaD.VaReinhardt	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 PHI	 HOU	Mercy		GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 PHI	 HOU			GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 PHI	 HOU			GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 PHI	 HOU	Zenyatta	MercyJunkrat	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 PHI	 HOU	Genji	MccreeZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 PHI	 HOU	ZenyattaMercy		GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 PHI	 HOU			GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaOrisa
+Eichenwalde	Attack	 PHI	 HOU	ZenyattaMercyGenjiTracerWinston	ZenyattaMccree	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaOrisa
+Eichenwalde	Attack	 PHI	 HOU	Genji	TracerWinston	GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerLucioMercyD.VaWinston
+Eichenwalde	Defense	 PHI	 HOU			Soldier: 76TracerMercyZenyattaD.VaReinhardt	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 PHI	 HOU			Soldier: 76TracerMercyZenyattaD.VaReinhardt	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 PHI	 HOU	Zenyatta	Winston	GenjiTracerMercyZenyattaD.VaReinhardt	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 PHI	 HOU		MccreeJunkrat	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 PHI	 HOU	TracerZenyatta	WinstonMercy	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 PHI	 HOU			JunkratMccreeMercyZenyattaD.VaReinhardt	JunkratMccreeMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 PHI	 HOU	JunkratMercyMccree	ZenyattaMercyMccree	JunkratMccreeMercyZenyattaReinhardtZarya	JunkratMccreeMercyZenyattaD.VaOrisa
+Eichenwalde	Defense	 PHI	 HOU		Junkrat	PharahTracerMercyZenyattaD.VaReinhardt	JunkratMccreeMercyZenyattaD.VaWinston
+Lijiang Tower	Control Center	 PHI	 HOU	Reinhardt		MccreeMercyZenyattaD.VaReinhardtZarya	JunkratMccreeLucioMoiraReinhardtZarya
+Lijiang Tower	Control Center	 PHI	 HOU	MercyZenyatta	MoiraMccree	MccreeMercyZenyattaD.VaReinhardtZarya	JunkratMccreeLucioMoiraReinhardtZarya
+Lijiang Tower	Control Center	 PHI	 HOU	ReinhardtZenyatta	ReinhardtZaryaLucioMoiraJunkrat	MccreeMercyZenyattaD.VaReinhardtZarya	JunkratMccreeLucioMoiraReinhardtZarya
+Lijiang Tower	Control Center	 PHI	 HOU	Mccree	Mccree	MccreeMercyZenyattaD.VaReinhardtZarya	JunkratMccreeLucioMoiraReinhardtZarya
+Lijiang Tower	Night Market	 PHI	 HOU			GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Lijiang Tower	Night Market	 PHI	 HOU	ZenyattaTracer	WinstonZenyattaJunkratMercyMccree	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Lijiang Tower	Night Market	 PHI	 HOU	GenjiWinston	GenjiJunkrat	GenjiTracerMercyZenyattaD.VaWinston	JunkratGenjiMercyZenyattaD.VaWinston
+Lijiang Tower	Night Market	 PHI	 HOU	Mercy		GenjiTracerMercyZenyattaD.VaWinston	JunkratGenjiMercyZenyattaD.VaWinston
+Lijiang Tower	Night Market	 PHI	 HOU	ZenyattaGenjiTracer	JunkratGenjiZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratGenjiMercyZenyattaD.VaWinston
+Junkertown	Attack	 BOS	 NYE			BastionHanzoWidowmakerMercyD.VaOrisa	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 BOS	 NYE		Junkrat	BastionHanzoWidowmakerMercyD.VaOrisa	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 BOS	 NYE	MercyHanzoBastion	MercyRoadhogZenyatta	BastionHanzoWidowmakerMercyD.VaOrisa	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 BOS	 NYE	Hanzo	Orisa	BastionHanzoWidowmakerMercyD.VaOrisa	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 BOS	 NYE			GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 BOS	 NYE	Mercy	MercyZenyattaWidowmaker	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 BOS	 NYE	Genji	Roadhog	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 BOS	 NYE	MercyWinston	JunkratMercyZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Junkertown	Attack	 BOS	 NYE	GenjiZenyattaTracer	WinstonMccree	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Junkertown	Defense	 BOS	 NYE	Widowmaker		JunkratWidowmakerMercyZenyattaOrisaRoadhog	BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown	Defense	 BOS	 NYE	Mercy	MercyWidowmakerOrisa	GenjiTracerMercyZenyattaD.VaWinston	BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown	Defense	 BOS	 NYE	ZenyattaGenjiTracer	RoadhogMercyZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony	Attack	 BOS	 NYE			GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony	Attack	 BOS	 NYE			GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 BOS	 NYE	MercyGenjiZenyattaWinstonTracer	MercyJunkratTracerZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 BOS	 NYE			GenjiTracerMercyZenyattaD.VaWinston	SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony	Defense	 BOS	 NYE	Genji	Tracer	GenjiTracerMercyZenyattaD.VaWinston	SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony	Defense	 BOS	 NYE	MercyTracer		MccreeTracerMercyZenyattaD.VaWinston	SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony	Defense	 BOS	 NYE	WinstonZenyattaTracerMercy	MccreeJunkratMercyWinstonZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 BOS	 NYE			GenjiTracerMercyZenyattaD.VaWinston	SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony	Defense	 BOS	 NYE		Tracer	GenjiTracerMercyZenyattaD.VaWinston	SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony	Defense	 BOS	 NYE	Tracer	Tracer	GenjiTracerMercyZenyattaD.VaWinston	SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony	Defense	 BOS	 NYE			GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 BOS	 NYE	ZenyattaGenjiTracerWinston		GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 BOS	 NYE			GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony	Attack	 BOS	 NYE			GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony	Attack	 BOS	 NYE	Genji	WidowmakerMercyJunkrat	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony	Attack	 BOS	 NYE	MercyWinston	Zenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Horizon Lunar Colony	Attack	 BOS	 NYE			GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Ilios	Well	 BOS	 NYE			PharahTracerLucioMercyD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Well	 BOS	 NYE			PharahTracerLucioMercyD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Well	 BOS	 NYE	PharahTracer	Mercy	PharahTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Well	 BOS	 NYE		WinstonMccree	MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Well	 BOS	 NYE	WinstonMercyTracerMccree	TracerZenyattaMccree	MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 BOS	 NYE			PharahTracerLucioMercyD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 BOS	 NYE		MccreeTracer	MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 BOS	 NYE		Mercy	MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Numbani	Attack	 BOS	 NYE		JunkratMccree	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Numbani	Attack	 BOS	 NYE	TracerWinston		GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Numbani	Attack	 BOS	 NYE	ZenyattaMercyGenji	JunkratZenyattaMccreeMercy	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Numbani	Attack	 BOS	 NYE	TracerWinston	JunkratMccree	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Numbani	Attack	 BOS	 NYE	MercyTracerGenji	WinstonZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Numbani	Attack	 BOS	 NYE		Junkrat	MccreeTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Numbani	Attack	 BOS	 NYE	Tracer	Mccree	MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Numbani	Defense	 BOS	 NYE			Soldier: 76TracerAnaMercyD.VaWinston	MccreePharahMercyZenyattaD.VaWinston
+Numbani	Defense	 BOS	 NYE	AnaTracer	MercyPharah	Soldier: 76TracerAnaMercyD.VaWinston	MccreePharahMercyZenyattaD.VaWinston
+Numbani	Defense	 BOS	 NYE			Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 VAL	 DAL			BastionHanzoWidowmakerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 VAL	 DAL	Mercy	Widowmaker	BastionHanzoWidowmakerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 VAL	 DAL	Hanzo	RoadhogJunkrat	BastionHanzoWidowmakerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 VAL	 DAL	MercyOrisaJunkrat	MercyZenyattaOrisaWidowmakerRoadhog	JunkratTracerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 VAL	 DAL		WidowmakerJunkrat	JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 VAL	 DAL	JunkratWidowmakerZenyattaOrisaRoadhog	MercyZenyattaRoadhogWidowmaker	JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 VAL	 DAL	Mercy	Orisa	JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 VAL	 DAL	Roadhog	Junkrat	JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL			BastionWidowmakerMercyD.VaOrisaRoadhog	BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL		WidowmakerHanzo	JunkratWidowmakerMercyZenyattaOrisaRoadhog	BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL	Mercy	BastionMercy	JunkratWidowmakerMercyZenyattaOrisaRoadhog	BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL	JunkratZenyattaWidowmakerOrisaZenyatta	OrisaRoadhogWidowmakerMercyRoadhogHanzo	JunkratWidowmakerMercyZenyattaOrisaRoadhog	BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown	Attack	 VAL	 DAL			BastionHanzoWidowmakerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 VAL	 DAL	Bastion		BastionHanzoWidowmakerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 VAL	 DAL	WidowmakerHanzoMercyOrisa	ZenyattaMercyWidowmaker	BastionHanzoWidowmakerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Junkertown	Attack	 VAL	 DAL	Bastion		BastionWidowmakerTracerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Junkertown	Attack	 VAL	 DAL	Widowmaker	JunkratRoadhog	BastionWidowmakerTracerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Junkertown	Defense	 VAL	 DAL			BastionWidowmakerMercyZenyattaOrisaReinhardt	BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL	Widowmaker	Mercy	JunkratWidowmakerMercyZenyattaD.VaOrisa	BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL	MercyZenyatta	WidowmakerRoadhogHanzoBastion	JunkratWidowmakerMercyZenyattaOrisaRoadhog	BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL	Junkrat		JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL			JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL			JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL	Orisa	Roadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL	Widowmaker		JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL	ZenyattaMercyRoadhogJunkrat	ZenyattaMercyJunkratOrisaWidowmaker	JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 VAL	 DAL			BastionHanzoWidowmakerMercyOrisaRoadhog	LucioMoiraD.VaRoadhogWinstonZarya
+Junkertown	Attack	 VAL	 DAL	Widowmaker	Moira	BastionWidowmakerReaperMercyOrisaRoadhog	LucioMoiraD.VaRoadhogWinstonZarya
+Junkertown	Attack	 VAL	 DAL	Bastion		BastionWidowmakerReaperMercyOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 VAL	 DAL	Orisa		BastionWidowmakerReaperMercyOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 VAL	 DAL	WidowmakerMercyReaper	GenjiZenyattaTracer	BastionWidowmakerReaperMercyOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 VAL	 DAL			GenjiTracerMercyZenyattaD.VaWinston	BastionHanzoWidowmakerMercyOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL	Tracer	Roadhog	GenjiTracerMercyZenyattaD.VaWinston	BastionJunkratTracerMercyOrisaRoadhog
+Junkertown	Defense	 VAL	 DAL			GenjiTracerMercyZenyattaD.VaWinston	BastionJunkratTracerMercyOrisaRoadhog
+Horizon Lunar Colony	Attack	 VAL	 DAL			GenjiTracerMercyZenyattaD.VaWinston	TracerLucioMoiraD.VaReinhardtRoadhog
+Horizon Lunar Colony	Attack	 VAL	 DAL	TracerMercyGenji	TracerRoadhog	GenjiTracerMercyZenyattaD.VaWinston	TracerMercyZenyattaD.VaRoadhogWinston
+Horizon Lunar Colony	Defense	 VAL	 DAL			WidowmakerTracerMercyZenyattaD.VaOrisa	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Defense	 VAL	 DAL		Moira	PharahTracerMercyZenyattaD.VaWinston	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Attack	 VAL	 DAL			ReaperTracerMercyZenyattaD.VaWinston	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Attack	 VAL	 DAL	ZenyattaTracerWinston	MoiraReinhardt	GenjiTracerMercyZenyattaD.VaWinston	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Attack	 VAL	 DAL	Tracer	Lucio	GenjiTracerMercyZenyattaD.VaWinston	JunkratSoldier: 76LucioZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 VAL	 DAL	MercyGenjiZenyattaWinstonTracer	WinstonSoldier: 76MercyZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratSoldier: 76MercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 VAL	 DAL			GenjiTracerMercyZenyattaD.VaWinston	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Defense	 VAL	 DAL	Genji	Moira	GenjiTracerMercyZenyattaD.VaWinston	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Defense	 VAL	 DAL	TracerMercyZenyattaWinston	ReinhardtLucioRoadhogZaryaReinhardtMoira	GenjiTracerMercyZenyattaD.VaWinston	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Defense	 VAL	 DAL	Tracer	TracerWidowmaker	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 VAL	 DAL	Zenyatta		GenjiTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 VAL	 DAL	MercyTracer	MercyWinstonTracer	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 VAL	 DAL	WinstonGenjiZenyatta	Zenyatta	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 VAL	 DAL	Tracer	Soldier: 76Tracer	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 VAL	 DAL			GenjiTracerAnaMercyD.VaWinston	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Defense	 VAL	 DAL	AnaTracer	Moira	GenjiTracerAnaMercyD.VaWinston	WidowmakerLucioMoiraD.VaReinhardtRoadhog
+Horizon Lunar Colony	Defense	 VAL	 DAL	TracerGenjiMercyTracer	RoadhogLucioReinhardt	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerLucioMoiraD.VaReinhardtRoadhog
+Horizon Lunar Colony	Attack	 VAL	 DAL			GenjiTracerMercyZenyattaD.VaWinston	JunkratSoldier: 76TracerMercyD.VaOrisa
+Horizon Lunar Colony	Attack	 VAL	 DAL			GenjiTracerMercyZenyattaD.VaWinston	JunkratSoldier: 76TracerMercyD.VaOrisa
+Horizon Lunar Colony	Attack	 VAL	 DAL	Tracer	MercyJunkrat	GenjiTracerMercyZenyattaD.VaWinston	JunkratSoldier: 76TracerMercyD.VaOrisa
+Horizon Lunar Colony	Attack	 VAL	 DAL	MercyWinstonGenjiZenyatta	Soldier: 76Tracer	GenjiTracerMercyZenyattaD.VaWinston	JunkratSoldier: 76TracerMercyD.VaOrisa
+Horizon Lunar Colony	Attack	 VAL	 DAL	TracerGenji	TracerMercyJunkratOrisa	GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaOrisa
+Ilios	Lighthouse	 VAL	 DAL			PharahTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Lighthouse	 VAL	 DAL	Tracer	Tracer	PharahTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Lighthouse	 VAL	 DAL	MercyWinstonZenyattaPharahTracer	MercyWinstonLucioTracer	PharahTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Ruins	 VAL	 DAL			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios	Ruins	 VAL	 DAL	Tracer	MercyWidowmaker	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios	Ruins	 VAL	 DAL	Zenyatta	Winston	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios	Ruins	 VAL	 DAL	WidowmakerWinstonTracer	GenjiWidowmaker	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios	Ruins	 VAL	 DAL		Zenyatta	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios	Ruins	 VAL	 DAL	ZenyattaTracer	WinstonGenji	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Ilios	Ruins	 VAL	 DAL	MercyWinstonWidowmaker	WidowmakerZenyatta	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaWinston
+Numbani	Attack	 VAL	 DAL			PharahTracerMercyZenyattaD.VaWinston	TorbjörnSoldier: 76SombraMercyD.VaWinston
+Numbani	Attack	 VAL	 DAL		Sombra	PharahTracerMercyZenyattaD.VaWinston	TorbjörnSoldier: 76SombraMercyD.VaWinston
+Numbani	Attack	 VAL	 DAL	PharahMercy		GenjiTracerMercyZenyattaD.VaWinston	WidowmakerSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Attack	 VAL	 DAL	TracerZenyatta	WinstonMercySoldier: 76Zenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Attack	 VAL	 DAL			GenjiTracerMercyZenyattaD.VaWinston	JunkratSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Attack	 VAL	 DAL	TracerMercyGenjiWinstonTracer	JunkratWinstonMercy	GenjiTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaWinstonZarya
+Numbani	Defense	 VAL	 DAL			Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiSoldier: 76LucioMercyD.VaWinston
+Numbani	Defense	 VAL	 DAL	TracerMercyWinstonSoldier: 76ZenyattaTracer	MercyWinstonGenjiLucio	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiSoldier: 76LucioMercyD.VaWinston
+Numbani	Defense	 VAL	 DAL	WinstonMercyZenyatta	Soldier: 76Winston	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiSoldier: 76LucioMercyD.VaWinston
+Numbani	Defense	 VAL	 DAL	Soldier: 76Winston	Mercy	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiSoldier: 76LucioMercyD.VaWinston
+Dorado	Attack	 FLA	 BOS	WidowmakerMercyTracer	Ana	WidowmakerTracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Dorado	Attack	 FLA	 BOS			WidowmakerTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado	Attack	 FLA	 BOS		WinstonSoldier: 76	WidowmakerTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado	Attack	 FLA	 BOS	WinstonMercyTracer	MercyTracer	WidowmakerTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado	Attack	 FLA	 BOS	ZenyattaTracerWidowmakerMercy	ZenyattaSoldier: 76	WidowmakerTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Dorado	Attack	 FLA	 BOS	Winston	Winston	WidowmakerTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 FLA	 BOS			MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 FLA	 BOS	MercyZenyattaTracer	MercyWinston	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Attack	 FLA	 BOS	WinstonTracer	ZenyattaGenjiTracer	JunkratTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 FLA	 BOS		Mercy	Soldier: 76TracerAnaMercyD.VaWinston	HanzoTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 FLA	 BOS	Mercy	ZenyattaTracer	Soldier: 76TracerAnaMercyD.VaWinston	HanzoTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 FLA	 BOS		Tracer	WidowmakerSoldier: 76MercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 FLA	 BOS	WidowmakerMercyWinston	GenjiMercyWinstonZenyattaTracer	WidowmakerSoldier: 76MercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Dorado	Defense	 FLA	 BOS	ZenyattaSoldier: 76Tracer	GenjiWinston	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 FLA	 BOS			WidowmakerPharahTracerMercyD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 FLA	 BOS			WidowmakerPharahTracerMercyD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 FLA	 BOS			WidowmakerPharahTracerMercyD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 FLA	 BOS	MercyTracerWinstonPharah	ZenyattaGenjiMercy	PharahReaperTracerMercyD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 FLA	 BOS		Tracer	ReaperSombraTracerMercyD.VaWinston	ReaperTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 FLA	 BOS	MercySombraReaperTracerWinston	MercyZenyattaWinston	ReaperSombraTracerMercyD.VaWinston	ReaperTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 FLA	 BOS	SombraMercy	ReaperTracer	ReaperSombraTracerMercyD.VaWinston	ReaperTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 FLA	 BOS	WinstonReaper		ReaperSombraTracerMercyD.VaWinston	MeiTracerLucioZenyattaD.VaWinston
+Temple of Anubis	Defense	 FLA	 BOS			JunkratTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 FLA	 BOS		TracerWidowmaker	JunkratTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 FLA	 BOS	JunkratMercy		JunkratTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 FLA	 BOS		Widowmaker	JunkratTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 FLA	 BOS	ZenyattaTracerWinstonJunkrat	Winston	JunkratTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 FLA	 BOS			JunkratTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 FLA	 BOS	MercyTracerZenyatta		JunkratTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 FLA	 BOS		MercyZenyattaGenjiWinston	JunkratSombraTracerMercyD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 FLA	 BOS			WidowmakerPharahTracerMercyD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Attack	 FLA	 BOS			WidowmakerPharahTracerMercyD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 FLA	 BOS			JunkratTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 FLA	 BOS			JunkratTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 FLA	 BOS	JunkratMercyWinstonTracer	MercyTracerZenyattaWinston	JunkratTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Oasis	University	 FLA	 BOS			JunkratMccreeMercyZenyattaOrisaRoadhog	MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis	University	 FLA	 BOS	Junkrat	MoiraMccree	JunkratReaperLucioMercyOrisaRoadhog	MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis	University	 FLA	 BOS	Junkrat	Zarya	JunkratReaperLucioMercyOrisaRoadhog	MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis	University	 FLA	 BOS	MercyOrisaReaper	MccreeRoadhogReinhardtLucioMoira	JunkratReaperLucioMercyOrisaRoadhog	MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis	University	 FLA	 BOS	LucioRoadhogMercy	ZaryaMccreeRoadhog	ReaperTracerLucioMercyOrisaRoadhog	MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis	City Center	 FLA	 BOS			Soldier: 76TracerMercyZenyattaRoadhogWinston	MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis	City Center	 FLA	 BOS	Mercy	MoiraMccreeZaryaRoadhog	ReaperSoldier: 76MercyZenyattaReinhardtZarya	MccreeLucioMoiraReinhardtRoadhogZarya
+Oasis	City Center	 FLA	 BOS	ZaryaZenyattaReaperReinhardt	LucioMoiraReinhardtMccreeRoadhog	ReaperSoldier: 76MercyZenyattaReinhardtZarya	MccreeLucioMoiraReinhardtRoadhogZarya
+Eichenwalde	Attack	 FLA	 BOS			PharahTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Eichenwalde	Attack	 FLA	 BOS	MercyTracer	Tracer	PharahTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Eichenwalde	Attack	 FLA	 BOS	WinstonTracerZenyattaMercy	MercyWinstonLucioPharah	PharahTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Eichenwalde	Attack	 FLA	 BOS			PharahTracerMercyZenyattaD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 FLA	 BOS	Tracer		PharahTracerMercyZenyattaD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 FLA	 BOS	WinstonZenyattaTracer	WinstonTracer	MccreeTracerMercyZenyattaD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 FLA	 BOS	Mccree		MccreeTracerMercyZenyattaD.VaWinston	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 FLA	 BOS		Tracer	MccreeSoldier: 76TracerMercyZenyattaWinston	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Attack	 FLA	 BOS	WinstonTracer	MercyWinston	MccreeSoldier: 76TracerLucioZenyattaWinston	PharahTracerMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 FLA	 BOS			JunkratMccreeMercyZenyattaOrisaRoadhog	PharahTracerLucioMercyD.VaWinston
+Eichenwalde	Defense	 FLA	 BOS			JunkratMccreeMercyZenyattaOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 FLA	 BOS		Winston	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 FLA	 BOS	Mercy	MercyTracer	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 FLA	 BOS		Zenyatta	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 FLA	 BOS	WinstonTracerMccree	TracerZenyatta	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Eichenwalde	Defense	 FLA	 BOS	Zenyatta	GenjiWinston	MccreeTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SFS	 SHD			BastionHanzoWidowmakerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 SFS	 SHD			BastionHanzoWidowmakerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 SFS	 SHD	HanzoOrisaBastionRoadhog	ZenyattaWidowmaker	BastionHanzoWidowmakerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaOrisaRoadhog
+Junkertown	Attack	 SFS	 SHD	Widowmaker	Junkrat	BastionWidowmakerTracerMercyOrisaRoadhog	JunkratWidowmakerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SFS	 SHD			WidowmakerTracerMercyZenyattaD.VaOrisa	JunkratWidowmakerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SFS	 SHD	WidowmakerTracer	Mercy	WidowmakerTracerMercyZenyattaD.VaOrisa	WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SFS	 SHD	ZenyattaOrisaTracer	ZenyattaWinstonTracer	WidowmakerTracerMercyZenyattaD.VaOrisa	WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SFS	 SHD			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SFS	 SHD			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SFS	 SHD	TracerMercyZenyattaWinston	MercyZenyattaTracer	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SFS	 SHD	Tracer	Winston	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SFS	 SHD	Genji	MercyTracerWidowmaker	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 SFS	 SHD			JunkratWidowmakerMercyZenyattaOrisaRoadhog	BastionWidowmakerMccreeMercyD.VaOrisa
+Junkertown	Defense	 SFS	 SHD			JunkratWidowmakerMercyZenyattaOrisaRoadhog	BastionWidowmakerMccreeMercyD.VaOrisa
+Junkertown	Defense	 SFS	 SHD	Junkrat		JunkratWidowmakerMercyZenyattaOrisaRoadhog	BastionWidowmakerMccreeMercyD.VaOrisa
+Junkertown	Defense	 SFS	 SHD	WidowmakerRoadhog		JunkratWidowmakerMercyZenyattaOrisaRoadhog	WidowmakerMccreeMercyZenyattaD.VaOrisa
+Junkertown	Defense	 SFS	 SHD	OrisaMercyJunkrat	WidowmakerMccreeMercy	JunkratWidowmakerMercyZenyattaOrisaRoadhog	WidowmakerMccreeMercyZenyattaD.VaOrisa
+Junkertown	Defense	 SFS	 SHD	ZenyattaWidowmakerOrisa	ZenyattaTracer	JunkratWidowmakerMercyZenyattaOrisaRoadhog	WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 SFS	 SHD			JunkratWidowmakerMercyZenyattaD.VaOrisa	WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 SFS	 SHD	MercyZenyatta	MercyWidowmakerWinstonTracer	JunkratTracerMercyZenyattaD.VaOrisa	WidowmakerTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 SFS	 SHD	Junkrat	Zenyatta	JunkratTracerMercyZenyattaD.VaOrisa	MccreeTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 SFS	 SHD	OrisaTracerMercyJunkratZenyatta	TracerMercyMccreeWinston	JunkratTracerMercyZenyattaD.VaOrisa	MccreeTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 SFS	 SHD			WidowmakerTracerMercyZenyattaD.VaWinston	JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony	Attack	 SFS	 SHD			GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony	Attack	 SFS	 SHD		Widowmaker	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony	Attack	 SFS	 SHD	MercyTracerGenjiWinston	JunkratMercyAna	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony	Attack	 SFS	 SHD		Orisa	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony	Attack	 SFS	 SHD	Zenyatta	MercyJunkratWidowmaker	GenjiTracerLucioZenyattaD.VaWinston	JunkratWidowmakerAnaMercyD.VaOrisa
+Horizon Lunar Colony	Defense	 SFS	 SHD			JunkratWidowmakerMercyZenyattaOrisaRoadhog	SombraTracerLucioMoiraD.VaWinston
+Horizon Lunar Colony	Defense	 SFS	 SHD	Widowmaker	Tracer	JunkratWidowmakerMercyZenyattaOrisaRoadhog	SombraTracerLucioMoiraD.VaWinston
+Ilios	Lighthouse	 SFS	 SHD			PharahTracerLucioMercyD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 SFS	 SHD			PharahTracerLucioMercyD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 SFS	 SHD	MercyPharahWinstonLucioTracer	MccreeZenyattaWinstonMercyTracer	PharahTracerLucioMercyD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 SFS	 SHD		Mccree	PharahTracerLucioMercyD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 SFS	 SHD	Pharah	WinstonTracer	PharahTracerLucioMercyD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 SFS	 SHD	WinstonMercyTracerLucio	ZenyattaMercy	PharahTracerLucioMercyD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 SFS	 SHD			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 SFS	 SHD	TracerWinstonMercyZenyattaWidowmaker	MercyTracerWinstonWidowmaker	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 SFS	 SHD	Widowmaker	Zenyatta	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Numbani	Attack	 SFS	 SHD			PharahSoldier: 76MercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Numbani	Attack	 SFS	 SHD	Soldier: 76Pharah	Soldier: 76AnaTracer	PharahSoldier: 76MercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Numbani	Attack	 SFS	 SHD		Soldier: 76WinstonAna	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Numbani	Attack	 SFS	 SHD			Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Numbani	Attack	 SFS	 SHD	WinstonZenyatta	TracerMercy	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Numbani	Attack	 SFS	 SHD	TracerMercy	AnaSoldier: 76	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerAnaMercyD.VaWinston
+Numbani	Attack	 SFS	 SHD	Soldier: 76Tracer	WinstonTracerMercy	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 SFS	 SHD	WinstonMercyZenyattaSoldier: 76	Soldier: 76TracerZenyatta	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 SHD	Soldier: 76	Soldier: 76	Soldier: 76TracerAnaMercyD.VaWinston	PharahSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 SHD	MercyAna	PharahMercy	Soldier: 76TracerAnaMercyD.VaWinston	PharahSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 SHD			Soldier: 76TracerAnaMercyD.VaWinston	PharahSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 SHD			Soldier: 76TracerAnaMercyD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 SHD	Winston	Soldier: 76	Soldier: 76TracerAnaMercyD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 SHD	MercySoldier: 76Tracer	ZenyattaMercyWinston	Soldier: 76TracerAnaMercyD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 SHD	Ana	Soldier: 76Tracer	Soldier: 76TracerAnaMercyD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 SHD	Tracer		Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 SHD	WinstonTracerSoldier: 76	ZenyattaMercySoldier: 76Winston	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 SHD	Mercy	Tracer	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SFS	 SHD	TracerZenyattaWinstonSoldier: 76	Soldier: 76MercyZenyatta	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 LDN	 PHI			WidowmakerReaperAnaMercyD.VaReinhardt	JunkratWidowmakerMercyZenyattaD.VaReinhardt
+Junkertown	Attack	 LDN	 PHI			WidowmakerReaperAnaMercyD.VaReinhardt	JunkratWidowmakerMercyZenyattaD.VaReinhardt
+Junkertown	Attack	 LDN	 PHI			WidowmakerReaperAnaMercyD.VaReinhardt	JunkratWidowmakerMercyZenyattaD.VaWinston
+Junkertown	Attack	 LDN	 PHI	AnaReinhardt	Mercy	WidowmakerReaperAnaMercyD.VaReinhardt	WidowmakerGenjiMercyZenyattaD.VaWinston
+Junkertown	Attack	 LDN	 PHI	Reaper	Zenyatta	WidowmakerReaperAnaMercyD.VaReinhardt	WidowmakerGenjiMercyZenyattaD.VaWinston
+Junkertown	Attack	 LDN	 PHI		Widowmaker	MccreeReaperAnaMercyD.VaReinhardt	WidowmakerGenjiMercyZenyattaD.VaWinston
+Junkertown	Attack	 LDN	 PHI	AnaMercyReaper	MercyZenyattaGenji	MccreeReaperAnaMercyD.VaReinhardt	WidowmakerGenjiMercyZenyattaD.VaReinhardt
+Junkertown	Attack	 LDN	 PHI	Reinhardt	Reinhardt	GenjiMccreeLucioZenyattaD.VaReinhardt	WidowmakerGenjiMercyZenyattaD.VaReinhardt
+Junkertown	Attack	 LDN	 PHI	Mccree		GenjiMccreeMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaReinhardt
+Junkertown	Attack	 LDN	 PHI	Zenyatta		GenjiTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaReinhardt
+Junkertown	Attack	 LDN	 PHI	WinstonTracerZenyatta	WidowmakerReinhardtGenji	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerGenjiMercyZenyattaD.VaReinhardt
+Junkertown	Defense	 LDN	 PHI			LucioMoiraD.VaReinhardtRoadhogZarya	JunkratWidowmakerMercyZenyattaD.VaReinhardt
+Junkertown	Defense	 LDN	 PHI			LucioMoiraD.VaReinhardtRoadhogZarya	JunkratWidowmakerMercyZenyattaD.VaReinhardt
+Junkertown	Defense	 LDN	 PHI	ReinhardtRoadhog	Zenyatta	LucioMoiraD.VaReinhardtRoadhogZarya	JunkratWidowmakerMercyZenyattaD.VaReinhardt
+Junkertown	Defense	 LDN	 PHI			WidowmakerLucioMoiraD.VaReinhardtRoadhog	WidowmakerTracerMercyZenyattaD.VaReinhardt
+Junkertown	Defense	 LDN	 PHI			JunkratTracerMercyMoiraD.VaWinston	WidowmakerTracerMercyZenyattaD.VaReinhardt
+Junkertown	Defense	 LDN	 PHI		WidowmakerReinhardt	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaReinhardt
+Junkertown	Defense	 LDN	 PHI	TracerGenjiWinston	ZenyattaTracer	GenjiTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaReinhardt
+Junkertown	Defense	 LDN	 PHI	MercyTracerGenjiZenyatta	MercyReinhardtZenyattaTracer	GenjiTracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaReinhardt
+Junkertown	Defense	 LDN	 PHI	WinstonTracer		GenjiTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaReinhardt
+Junkertown	Defense	 LDN	 PHI			GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 LDN	 PHI		Mercy	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 LDN	 PHI	GenjiZenyattaWinstonTracer	Zenyatta	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 LDN	 PHI		Widowmaker	LucioMoiraD.VaReinhardtRoadhogZarya	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Horizon Lunar Colony	Attack	 LDN	 PHI		Junkrat	TracerLucioMoiraD.VaReinhardtZarya	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Horizon Lunar Colony	Attack	 LDN	 PHI	Zarya	Zenyatta	LucioMoiraD.VaReinhardtRoadhogZarya	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Horizon Lunar Colony	Attack	 LDN	 PHI	LucioReinhardt	OrisaMercyJunkrat	GenjiTracerLucioZenyattaD.VaReinhardt	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Horizon Lunar Colony	Attack	 LDN	 PHI			GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 LDN	 PHI	ZenyattaGenjiWinstonMercy	ZenyattaWinstonMercyTracer	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 LDN	 PHI			Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyMoiraD.VaWinston
+Horizon Lunar Colony	Attack	 LDN	 PHI			Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 LDN	 PHI	Soldier: 76		Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 LDN	 PHI			JunkratWidowmakerMercyZenyattaOrisaRoadhog	GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony	Defense	 LDN	 PHI			JunkratWidowmakerMercyZenyattaOrisaRoadhog	GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony	Defense	 LDN	 PHI			JunkratWidowmakerMercyZenyattaOrisaRoadhog	WidowmakerGenjiLucioMercyD.VaWinston
+Horizon Lunar Colony	Defense	 LDN	 PHI			JunkratWidowmakerMercyZenyattaOrisaRoadhog	WidowmakerGenjiLucioMercyD.VaWinston
+Horizon Lunar Colony	Defense	 LDN	 PHI			JunkratWidowmakerMercyZenyattaOrisaRoadhog	GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony	Defense	 LDN	 PHI			JunkratWidowmakerMercyZenyattaOrisaRoadhog	GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony	Defense	 LDN	 PHI	JunkratWidowmaker	Mercy	JunkratWidowmakerMercyZenyattaOrisaRoadhog	GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony	Defense	 LDN	 PHI	RoadhogZenyattaOrisa	Winston	JunkratWidowmakerMercyZenyattaOrisaRoadhog	GenjiTracerLucioMercyD.VaWinston
+Horizon Lunar Colony	Defense	 LDN	 PHI	MercyJunkratWidowmaker	Lucio	JunkratWidowmakerMercyZenyattaOrisaRoadhog	GenjiTracerLucioMercyD.VaWinston
+Ilios	Well	 LDN	 PHI	TracerMccreeTracer	TracerMercy	MccreeTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 LDN	 PHI	Winston		MccreeTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 LDN	 PHI			MccreeTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Well	 LDN	 PHI	MccreeTracerMercyWinstonMccreeTracer	WinstonPharahLucioTracerMercy	MccreeTracerMercyZenyattaD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Ruins	 LDN	 PHI			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 LDN	 PHI			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 LDN	 PHI			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 LDN	 PHI	WidowmakerWinston	WidowmakerMercyWinston	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Numbani	Attack	 LDN	 PHI	Winston	AnaGenji	Soldier: 76TracerMercyZenyattaD.VaWinston	DoomfistGenjiAnaMercyD.VaWinston
+Numbani	Attack	 LDN	 PHI	ZenyattaTracer		Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiSoldier: 76MercyMoiraD.VaWinston
+Numbani	Attack	 LDN	 PHI	MercyWinstonSoldier: 76TracerZenyatta	MercyWinstonSoldier: 76	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Attack	 LDN	 PHI			GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Numbani	Attack	 LDN	 PHI	TracerMercyWinston		GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Numbani	Defense	 LDN	 PHI			Soldier: 76TracerAnaMercyD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Numbani	Defense	 LDN	 PHI			Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Numbani	Defense	 LDN	 PHI	Tracer		Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Numbani	Defense	 LDN	 PHI	MercySoldier: 76	MercyTracer	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Numbani	Defense	 LDN	 PHI	TracerZenyattaWinston	WinstonZenyattaGenjiTracer	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Numbani	Defense	 LDN	 PHI	Soldier: 76TracerMercy	Mercy	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerLucioMercyD.VaWinston
+Numbani	Defense	 LDN	 PHI		Mercy	Soldier: 76TracerMercyZenyattaD.VaWinston	GenjiTracerLucioMercyD.VaWinston
+Junkertown	Attack	 NYE	 HOU	WinstonJunkratMccreeZenyatta	MercyJunkratZenyattaMccreeWinston	JunkratMccreeMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Junkertown	Attack	 NYE	 HOU		Zenyatta	JunkratMccreeMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaWinston
+Junkertown	Attack	 NYE	 HOU	Zenyatta	WinstonMercy	JunkratMccreeMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 NYE	 HOU	MercyGenjiTracerZenyattaWinston	JunkratZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 NYE	 HOU	ZenyattaWinston	MercyJunkrat	GenjiTracerMercyZenyattaD.VaWinston	JunkratTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 NYE	 HOU	GenjiMercyTracer		GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Junkertown	Attack	 NYE	 HOU			BastionHanzoWidowmakerMercyOrisaRoadhog	JunkratWidowmakerMercyD.VaOrisaRoadhog
+Junkertown	Attack	 NYE	 HOU			BastionHanzoWidowmakerMercyOrisaRoadhog	JunkratWidowmakerMercyD.VaOrisaRoadhog
+Junkertown	Attack	 NYE	 HOU		WidowmakerJunkratRoadhog	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyD.VaOrisaRoadhog
+Junkertown	Defense	 NYE	 HOU	Junkrat	ZenyattaOrisa	JunkratTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaOrisa
+Junkertown	Defense	 NYE	 HOU			JunkratTracerMercyZenyattaD.VaWinston	JunkratMccreeMercyZenyattaD.VaOrisa
+Junkertown	Defense	 NYE	 HOU		MercyJunkrat	JunkratWidowmakerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Junkertown	Defense	 NYE	 HOU	Junkrat		JunkratWidowmakerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaOrisa
+Junkertown	Defense	 NYE	 HOU	ZenyattaOrisa	BastionOrisa	JunkratWidowmakerMercyZenyattaOrisaRoadhog	BastionHanzoTracerMercyD.VaOrisa
+Junkertown	Defense	 NYE	 HOU	Widowmaker	Mercy	JunkratWidowmakerMercyZenyattaOrisaRoadhog	BastionHanzoTracerMercyD.VaOrisa
+Junkertown	Defense	 NYE	 HOU		Hanzo	JunkratWidowmakerMercyZenyattaOrisaRoadhog	BastionHanzoWidowmakerMercyD.VaOrisa
+Temple of Anubis	Attack	 NYE	 HOU	GenjiZenyattaTracer	RoadhogZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis	Attack	 NYE	 HOU			GenjiTracerMercyZenyattaD.VaWinston	JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis	Attack	 NYE	 HOU	MercyZenyattaWinston	JunkratMercyWinston	GenjiTracerMercyZenyattaD.VaWinston	JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis	Attack	 NYE	 HOU		Junkrat	GenjiTracerMercyZenyattaD.VaWinston	JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis	Attack	 NYE	 HOU			GenjiTracerMercyZenyattaD.VaWinston	JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis	Attack	 NYE	 HOU		RoadhogWinston	GenjiTracerMercyZenyattaD.VaWinston	JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis	Attack	 NYE	 HOU	MercyGenjiWinstonZenyatta	MercyJunkratZenyatta	GenjiTracerMercyZenyattaD.VaWinston	JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis	Attack	 NYE	 HOU			GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerSoldier: 76MercyD.VaOrisa
+Temple of Anubis	Attack	 NYE	 HOU			GenjiTracerMercyZenyattaD.VaWinston	JunkratMercyZenyattaD.VaRoadhogWinston
+Temple of Anubis	Defense	 NYE	 HOU	GenjiWinstonTracer	ZenyattaWinston	GenjiTracerMercyZenyattaD.VaWinston	PharahReaperMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 NYE	 HOU	Mercy	PharahMercy	GenjiTracerMercyZenyattaD.VaWinston	PharahReaperMercyZenyattaD.VaWinston
+Temple of Anubis	Defense	 NYE	 HOU	Tracer	Roadhog	GenjiTracerMercyZenyattaD.VaWinston	PharahReaperMercyZenyattaD.VaRoadhog
+Temple of Anubis	Defense	 NYE	 HOU			GenjiTracerMercyZenyattaD.VaWinston	PharahReaperMercyZenyattaD.VaRoadhog
+Temple of Anubis	Defense	 NYE	 HOU			GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Temple of Anubis	Defense	 NYE	 HOU	ZenyattaGenjiTracer	JunkratRoadhogMercyWidowmaker	GenjiTracerMercyZenyattaD.VaWinston	JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Temple of Anubis	Defense	 NYE	 HOU	RoadhogJunkratOrisaZenyattaMercy	ZenyattaMercyRoadhogWidowmaker	JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Temple of Anubis	Defense	 NYE	 HOU	Widowmaker		JunkratWidowmakerMercyZenyattaOrisaRoadhog	JunkratWidowmakerMercyZenyattaD.VaRoadhog
+Ilios	Well	 NYE	 HOU	MercyMccreeTracerZenyattaWinston	TracerZenyattaWinstonMercy	MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Well	 NYE	 HOU		Mccree	MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Well	 NYE	 HOU	Winston	MercyZenyatta	MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Well	 NYE	 HOU	TracerMercyMccree	Tracer	MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Well	 NYE	 HOU			MccreeTracerMercyZenyattaD.VaWinston	MccreeTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 NYE	 HOU	WinstonTracer	TracerWidowmaker	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 NYE	 HOU	TracerZenyatta	MercyWinston	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 NYE	 HOU	WidowmakerMercy	Widowmaker	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 NYE	 HOU			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 NYE	 HOU			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Numbani	Attack	 NYE	 HOU	ZenyattaSoldier: 76Mercy	MercyWinston	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 NYE	 HOU	Winston	Soldier: 76Tracer	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 NYE	 HOU	Pharah		MccreePharahMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 NYE	 HOU	MercyZenyatta	TracerMercy	MccreePharahMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 NYE	 HOU			MccreePharahMercyZenyattaD.VaWinston	PharahTracerAnaMercyD.VaWinston
+Numbani	Attack	 NYE	 HOU			MccreePharahMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Attack	 NYE	 HOU			MccreePharahMercyZenyattaD.VaWinston	PharahTracerAnaMercyD.VaWinston
+Numbani	Defense	 NYE	 HOU			JunkratMccreeMercyZenyattaD.VaWinston	PharahSoldier: 76AnaMercyD.VaWinston
+Numbani	Defense	 NYE	 HOU			JunkratMccreeMercyZenyattaD.VaWinston	PharahSoldier: 76AnaMercyD.VaWinston
+Numbani	Defense	 NYE	 HOU		Mercy	Soldier: 76TracerMercyZenyattaD.VaWinston	PharahSoldier: 76AnaMercyD.VaWinston
+Numbani	Defense	 NYE	 HOU	ZenyattaMercyWinston	PharahAnaSoldier: 76Winston	Soldier: 76TracerMercyZenyattaD.VaWinston	PharahSoldier: 76AnaMercyD.VaWinston
+Numbani	Defense	 NYE	 HOU	TracerSoldier: 76		Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 NYE	 HOU	ZenyattaMercyTracerWinston	Soldier: 76TracerMercyZenyattaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Numbani	Defense	 NYE	 HOU	ZenyattaTracerSoldier: 76Mercy	TracerSoldier: 76ZenyattaMercyTracer	Soldier: 76TracerMercyZenyattaD.VaWinston	Soldier: 76TracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SEO	 GLA	ZenyattaMercy	WinstonGenji	JunkratMccreeMercyZenyattaD.VaWinston	MeiGenjiTracerMercyD.VaWinston
+Junkertown	Attack	 SEO	 GLA	WinstonJunkratMccree	ZenyattaTracer	JunkratMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SEO	 GLA	JunkratMercy	Tracer	JunkratMccreeMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SEO	 GLA	WidowmakerRoadhogZenyatta	ZenyattaMercyGenji	JunkratWidowmakerMercyZenyattaRoadhogWinston	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SEO	 GLA	Roadhog	Winston	JunkratWidowmakerMercyZenyattaOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SEO	 GLA	WidowmakerJunkratMercyOrisa	Genji	JunkratWidowmakerMercyZenyattaOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SEO	 GLA	Mei	MercyTracerZenyatta	JunkratMeiWidowmakerMercyOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SEO	 GLA			JunkratMeiWidowmakerMercyOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SEO	 GLA	WidowmakerMercyJunkratRoadhog	GenjiWinston	JunkratMeiWidowmakerMercyOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA	WinstonMercyZenyattaGenji	MercyGenjiTracerZenyattaWinston	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA	Tracer		GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA	Genji	Winston	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA	MercyZenyattaWinstonTracer	ZenyattaGenji	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA	TracerGenji		GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerLucioZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA	WinstonZenyatta	TracerZenyattaGenjiWinston	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerLucioZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA			GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerLucioZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA	MercyTracer	LucioGenji	GenjiTracerMercyZenyattaD.VaWinston	GenjiTracerLucioZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA			JunkratMeiWidowmakerMercyOrisaRoadhog	GenjiTracerLucioZenyattaD.VaWinston
+Junkertown	Attack	 SEO	 GLA	Widowmaker	MercyTracerGenji	JunkratWidowmakerMercyZenyattaOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Attack	 SEO	 GLA			JunkratWidowmakerMercyZenyattaOrisaRoadhog	GenjiTracerMercyZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA	Widowmaker		JunkratWidowmakerMercyZenyattaD.VaWinston	GenjiTracerLucioZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA			JunkratWidowmakerMercyZenyattaD.VaWinston	GenjiTracerLucioZenyattaD.VaWinston
+Junkertown	Defense	 SEO	 GLA			JunkratWidowmakerMercyZenyattaD.VaWinston	GenjiTracerLucioZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 SEO	 GLA	WidowmakerMercyTracer	Junkrat	WidowmakerTracerMercyZenyattaD.VaWinston	JunkratGenjiMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 SEO	 GLA		Soldier: 76	WidowmakerTracerMercyZenyattaD.VaWinston	JunkratSoldier: 76MercyZenyattaD.VaWinston
+Horizon Lunar Colony	Defense	 SEO	 GLA	TracerMercyWinstonReaperTracer	Soldier: 76WinstonAnaMercySoldier: 76	ReaperTracerMercyZenyattaD.VaWinston	Soldier: 76AnaMercyD.VaRoadhogWinston
+Horizon Lunar Colony	Defense	 SEO	 GLA	ReaperTracerZenyattaMercyWinston	MercySoldier: 76AnaRoadhog	ReaperTracerMercyZenyattaD.VaWinston	Soldier: 76AnaMercyD.VaRoadhogWinston
+Horizon Lunar Colony	Defense	 SEO	 GLA			ReaperTracerMercyZenyattaD.VaWinston	Soldier: 76AnaMercyD.VaRoadhogWinston
+Horizon Lunar Colony	Defense	 SEO	 GLA	Reaper		ReaperTracerMercyZenyattaD.VaWinston	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Defense	 SEO	 GLA	WinstonTracerMercy	RoadhogMoiraLucioReinhardtZarya	ReaperTracerMercyZenyattaD.VaWinston	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Defense	 SEO	 GLA			WidowmakerTracerMercyZenyattaD.VaOrisa	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Defense	 SEO	 GLA	TracerMercy	MoiraLucio	ReaperTracerMercyZenyattaD.VaWinston	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Defense	 SEO	 GLA	Tracer		WidowmakerTracerMercyZenyattaD.VaOrisa	LucioMoiraD.VaReinhardtRoadhogZarya
+Horizon Lunar Colony	Attack	 SEO	 GLA	SombraTracer	Winston	SombraTracerLucioMoiraD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 SEO	 GLA		Tracer	SombraTracerLucioMoiraD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 SEO	 GLA		Winston	SombraTracerLucioMoiraD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 SEO	 GLA	Sombra	Tracer	SombraTracerLucioMoiraD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 SEO	 GLA			SombraTracerLucioMoiraD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Horizon Lunar Colony	Attack	 SEO	 GLA			SombraTracerLucioMoiraD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 SEO	 GLA	WinstonZenyattaWidowmakerMercy	WidowmakerZenyattaWinstonTracer	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 SEO	 GLA		Mercy	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 SEO	 GLA	WidowmakerWinstonZenyatta	TracerZenyatta	WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 SEO	 GLA			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Ruins	 SEO	 GLA			WidowmakerTracerMercyZenyattaD.VaWinston	WidowmakerTracerMercyZenyattaD.VaWinston
+Ilios	Lighthouse	 SEO	 GLA	WinstonPharah	TracerTracer	PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Lighthouse	 SEO	 GLA			PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Lighthouse	 SEO	 GLA	Pharah	Winston	PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Lighthouse	 SEO	 GLA	Mercy		PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Lighthouse	 SEO	 GLA	WinstonLucio	LucioWinstonTracer	PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Lighthouse	 SEO	 GLA	TracerPharah	TracerMercy	PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Ilios	Lighthouse	 SEO	 GLA			PharahTracerLucioMercyD.VaWinston	PharahTracerLucioMercyD.VaWinston
+Numbani	Attack	 SEO	 GLA	MccreeMercyJunkratZenyattaWinston	ZenyattaWinstonMercyDoomfist	JunkratMccreeMercyZenyattaD.VaWinston	DoomfistMccreeMercyZenyattaD.VaWinston
+Numbani	Attack	 SEO	 GLA			JunkratMccreeMercyZenyattaD.VaWinston	DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Attack	 SEO	 GLA	LucioGenjiWinston	MercySoldier: 76Doomfist	GenjiMccreeLucioMercyD.VaWinston	DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Attack	 SEO	 GLA			GenjiMccreeLucioMercyD.VaWinston	DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Attack	 SEO	 GLA			GenjiPharahLucioMercyD.VaWinston	DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Attack	 SEO	 GLA			GenjiPharahLucioMercyD.VaWinston	DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Attack	 SEO	 GLA	GenjiMercyPharahWinston		GenjiPharahLucioMercyD.VaWinston	DoomfistSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Attack	 SEO	 GLA			DoomfistGenjiPharahMercyD.VaWinston	DoomfistSoldier: 76AnaMercyD.VaWinston
+Numbani	Attack	 SEO	 GLA	TracerMercy	Tracer	Soldier: 76TracerMercyZenyattaD.VaWinston	DoomfistTracerMercyZenyattaD.VaWinston
+Numbani	Defense	 SEO	 GLA			JunkratWidowmakerAnaMercyD.VaWinston	GenjiSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 SEO	 GLA	Mercy	Genji	JunkratWidowmakerAnaMercyD.VaWinston	GenjiSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 SEO	 GLA	WidowmakerJunkratAnaWinston	MercyZenyatta	JunkratWidowmakerAnaMercyD.VaWinston	GenjiSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 SEO	 GLA	AnaMercy	Soldier: 76Winston	JunkratWidowmakerAnaMercyD.VaWinston	GenjiSoldier: 76MercyZenyattaD.VaWinston
+Numbani	Defense	 SEO	 GLA	WidowmakerJunkratWinston	GenjiZenyatta	JunkratWidowmakerAnaMercyD.VaWinston	GenjiTracerMercyZenyattaD.VaWinston

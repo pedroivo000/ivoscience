@@ -1,0 +1,8 @@
+"0","#file path"
+"0","matchdata_filepath <- ""~/ivoscience/data/owl-s1w1-match-data/owl-s1w1-teamfight-data.csv"""
+"0","#Importing the .csv file with the team fight data"
+"0","match_data <- read_csv(matchdata_filepath) %>%"
+"0","  rename_all(funs(tolower(gsub(' ','_', .)))) #change whitespaces to underscore and lower case column names"
+"2","Error in read_csv(matchdata_filepath) %>% rename_all(funs(tolower(gsub("" "",  : 
+  could not find function ""%>%""
+"

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516301166007.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4D5BED82",
+    "lastKnownWriteTime" : 1516302197,
+    "last_content_update" : 1516302197797,
+    "path" : "~/ivoscience/content/post/first-post.Rmd",
+    "project_path" : "content/post/first-post.Rmd",
+    "properties" : {
+        "cursorPosition" : "16,2",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

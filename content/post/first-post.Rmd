@@ -14,7 +14,7 @@ tags:
   - R
 ---
 
-# Hello World!
+## Hello World!
 
 This is the ~~obligatory~~ first post ever on this blog!
 
